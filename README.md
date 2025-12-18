@@ -7,7 +7,7 @@ A Sunday School class focused on teaching the foundational principles of the Chr
 **Duration:** January 11, 2026 - May 17, 2026  
 **Class Sessions:** 16 Sundays  
 **Format:** Weekly Sunday School sessions  
-**Leaders:** Arnold Marquez, Miguel Garcia
+**Leaders:** Arnold Marquez, Miguel Garcia  
 **Curriculum:** *Fundamentals of the Faith* by John MacArthur
 
 ## Lesson Topics
