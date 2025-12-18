@@ -1,35 +1,21 @@
-***Fundamentals of the Faith***
+# Fundamentals of the Faith
+
+## Lesson 13: Obedience and God's Will (Part 2)
+
+---
+
+## Table of Contents
+
+- [I. God’s Will Defined](#i-gods-will-defined)
+- [II. Knowing God’s Will](#ii-knowing-gods-will)
+- [III. Comparison of God’s Sovereign Will and God’s Commanded Will](#iii-comparison-of-gods-sovereign-will-and-gods-commanded-will)
+- [IV. Guidance - What it is not!](#iv-guidance-what-it-is-not)
+- [V. Application](#v-application)
+
+---
 
 **Lesson \#13 - God’s Will and Guidance**
 
-**Table of Contents**
-
-**Objective & Preliminary Comments ……………………………………………… i**
-
-**I. God’s Will Defined …………………………………………………………………. 1**
-
-A. God’s sovereign will
-
-B. God’s will of desire
-
-C. God’s commanded will/ moral law
-
-**II. Knowing God’s Will ………………………………………………………………… 4**
-
-A. Does God want us to know His will?
-
-B. How can we know His will?
-
-**III. Comparison of God’s Sovereign Will and God’s Commanded Will
-……………... 11**
-
-**IV. Guidance - What it is not! ………………………………………………………….. 12**
-
-**Aside on Trials ……………………………………………………………………… 13**
-
-**V. Application ………………………………………………………………………….. 14**
-
-***Fundamentals of the Faith***
 
 **Lesson \#13 - God’s Will and Guidance**
 
@@ -46,19 +32,18 @@ And remember:
 *"They will not care how much you know, until they know how much you
 care."*
 
-**As always, before entering the Classroom, always ...**
+**As always, before entering the Classroom, always
 
-***Pray that Christ will be glorified through all that you say,
 remembering that your strength***
 
-***is supplied by God and the power of your message is the Word of God
 (1 Peter 4:11).***
 
-***Fundamentals of the Faith***
 
 **Lesson \#13 - God’s Will and Guidance**
 
-**I. GOD'S WILL DEFINED**
+
+## I. GOD'S WILL DEFINED
+
 
 ⮚ God's sovereign will
 
@@ -68,7 +53,9 @@ remembering that your strength***
 
 **A. God's sovereign will** (LESSON, section I, pg. 87)
 
-**1. God's will of purpose - whatever He proposes to do will happen**
+
+#### 1. God's will of purpose - whatever He proposes to do will happen
+
 
 a\. Isaiah 14:24 (LESSON, pg. 87, I.A.1.a)
 
@@ -84,7 +71,6 @@ other; I am God, and there is no one like Me,*
 which have not been done, Saying, '**My purpose will be established, And
 I will accomplish all My good pleasure**';"*
 
-**2. Everything will happen exactly as God planned - according to His
 foreknowledge**
 
 **a. Salvation - predestination** - Romans 8:29-30
@@ -110,7 +96,6 @@ to death."*
 **c. Governments - set up by God** - Romans 13:1
 
 *"Let every person be in subjection to the governing authorities. For
-**there is no authority except from God, and those which exist are
 established by God**."*
 
 |                                                                          |
@@ -122,12 +107,18 @@ established by God**."*
 Do we live our lives with the view that all that happens in history has
 already been written by God?
 
-**B. God's will of desire**
+
+### B. God's will of desire
+
 
 **Note:** God's will of desire is consistent with His sovereign will -
 but not always fulfilled.
 
-**1. Jesus desired Jerusalem to be saved** - but what actually happened?
+
+#### 1. Jesus desired Jerusalem to be saved
+
+*but what actually happened?*
+
 
 Matthew 23:37
 
@@ -144,16 +135,24 @@ Note: Somehow God was limited by man's unwillingness.
 
 Is this not true of salvation also.
 
-**2. God desires all men to be saved** - I Timothy 2:3-4
+
+#### 2. God desires all men to be saved
+
+*I Timothy 2:3-4*
+
 
 *3 "This is good and acceptable in the sight of God our Savior,*
 
 *4 **who desires all men to be saved** and to come to the knowledge of
 the truth."*
 
-**3. Christ desired everyone to come to Him** - Matthew 11:28-29
 
-*28 "**Come to Me, <u>all</u>** who are weary and heavy-laden, and I
+#### 3. Christ desired everyone to come to Him
+
+*Matthew 11:28-29*
+
+
+*28 "**Come to Me, _all_** who are weary and heavy-laden, and I
 will give you rest.*
 
 *29 "Take My yoke upon you, and learn from Me, for I am gentle and
@@ -163,15 +162,17 @@ humble in heart; and you shall find rest for your souls.*
 
 **People are unwilling to come.**
 
-**C. God's commanded will/ or moral will**
 
-1\. Seen in God's commands - i.e. the whole *New Testament*
+### C. God's commanded will/ or moral will
 
-2\. A standard for man's behavior
 
-3\. (Lesson \#12 - OBEDIENCE)
+1. Seen in God's commands - i.e. the whole *New Testament*
 
-4\. Summed up in Matthew 22:37-40 (LESSON, I.B, pg. 88)
+2. A standard for man's behavior
+
+3. (Lesson \#12 - OBEDIENCE)
+
+4. Summed up in Matthew 22:37-40 (LESSON, I.B, pg. 88)
 
 *37 "And He said to him, 'You shall love the Lord your God with all your
 heart, and with all your soul, and with all your mind.'*
@@ -182,20 +183,27 @@ heart, and with all your soul, and with all your mind.'*
 
 *40 "On these two commandments depend the whole Law and the Prophets."*
 
-**II. KNOWING GOD'S WILL**
 
-**A. Does God want us to know His will?**
+## II. KNOWING GOD'S WILL
+
+
+### A. Does God want us to know His will?
+
 
 ⮚ Can we know God's sovereign will? ... NO
 
 ⮚ Can we know God's commanded will? ... YES
 
-**1. One can be filled with "the knowledge" of His will** - Colossians
+
+#### 1. One can be filled with "the knowledge" of His will
+
+*Colossians*
+
 1:9
 
 *"For this reason also, since the day we heard of it, we have not ceased
 to pray for you and to ask **that you may be filled with the knowledge
-of His will** in all <u>spiritual wisdom and understanding</u>,"*
+of His will** in all _spiritual wisdom and understanding_,"*
 
 \_ *Pleroo* (filled) - means to be completely filled, totally controlled
 
@@ -220,35 +228,11 @@ knowledge.
 
 Are you totally controlled by the Word of God?
 
-<table style="width:80%;">
-<colgroup>
-<col style="width: 80%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p>Having the knowledge of God's Word control our minds is the key
-to righteous living.</p>
-<p>John MacArthur, <em>The MacArthur New Testament Commentary,
-Colossians &amp; Philemon</em>, pg. 29.</p></td>
-</tr>
-</tbody>
-</table>
 
-<table style="width:80%;">
-<colgroup>
-<col style="width: 80%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p>Knowledge of God's Word will lead to <strong>all spiritual wisdom
-and understanding</strong>.</p>
-<p>John MacArthur, <em>The MacArthur New Testament Commentary,
-Colossians &amp; Philemon</em>, pg. 29.</p></td>
-</tr>
-</tbody>
-</table>
+#### 2. We are to understand the Lord's will
 
-**2. We are to understand the Lord's will** - Ephesians 5:15-18 (memory
+*Ephesians 5:15-18 (memory*
+
 verse 5:17)
 
 *15 "Therefore **be careful how you walk**, not as unwise men, but as
@@ -256,8 +240,8 @@ wise,*
 
 *16 **making the most of your time**, because the days are evil.*
 
-*17 So then do not be foolish, but **<u>understand what the will of the
-Lord is</u>**.*
+*17 So then do not be foolish, but **_understand what the will of the
+Lord is_**.*
 
 *18 And do not get drunk with wine, for that is dissipation, but **be
 filled with the Spirit**,"*
@@ -273,85 +257,39 @@ Q. What can we learn about God's will from these verses?
 
 How can we make the most of our time?
 
-... sharing our faith
-
-... having a priority in building up the body of Christ
 
 ⮚ **We are to be filled with the Spirit.**
 
 **B. How can we know His will?** (make a list on the board)
 
-1\. Be filled with the Spirit of God
+1. Be filled with the Spirit of God
 
-2\. Obedient to The Word of God – Scripture
+2. Obedient to The Word of God – Scripture
 
-3\. Our desire must be one of willingness to seek God and to do His will
+3. Our desire must be one of willingness to seek God and to do His will
 
-4\. Have a desire to be Sanctified
+4. Have a desire to be Sanctified
 
-5\. Focus on things above
+5. Focus on things above
 
-6\. Seek wisdom
+6. Seek wisdom
 
-7\. Seek Godly counsel
+7. Seek Godly counsel
 
-**1. Be filled with the Spirit of God**
 
-<table style="width:77%;">
-<colgroup>
-<col style="width: 77%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p><strong>To be filled with the Spirit</strong></p>
-<p>is to live in the consciousness of the personal presence of the
-Lord</p>
-<p>Jesus Christ, as if we were standing next to Him, and to let</p>
-<p>His mind dominate our life.</p>
-<p>It is to fill ourselves with God's Word, so that His thoughts will
-be</p>
-<p>our thoughts, His standards our standards, His work our work,</p>
-<p>and His will our will.</p>
-<p><strong>Christ consciousness leads to Christ likeness.</strong></p>
-<p><em>The MacArthur N.T. Commentary, Ephesians</em>, John MacArthur,
-Jr., pg. 253</p></td>
-</tr>
-</tbody>
-</table>
+#### 1. Be filled with the Spirit of God
+
 
 **Note:** "To **be filled with the Spirit** involves confession of sin,
 surrender of will, intellect, body, time, talent, possessions, and
 desires. It requires the death of selfishness and the slaying of
 self-will."
 
-*The MacArthur N.T. Commentary, Ephesians*, John MacArthur, Jr., pg. 253
+*The MacArthur N.T. Commentary, Ephesians*, John MacArthur, Jr., pg
 
-<table style="width:85%;">
-<colgroup>
-<col style="width: 84%" />
-</colgroup>
-<tbody>
-<tr>
-<td><strong>The Results of <em>Being Filled with the Holy
-Spirit</em></strong></td>
-</tr>
-<tr>
-<td><p><strong>⮚ The fruit of the Spirit</strong> - Galatians
-5:22-23</p>
-<p><em>22 "But <strong>the <u>fruit</u> of the Spirit is</strong>
-<strong><u>love</u>, <u>joy</u>, <u>peace</u>, <u>patience</u>,
-<u>kindness</u>, <u>goodness</u>, <u>faithfulness</u>,</strong></em></p>
-<p><em>23 <strong><u>gentleness</u>, <u>self-control</u></strong>;
-against such things there is no law."</em></p>
-<p><strong>⮚ Power to fulfill the Law of God</strong> - Romans 8:4</p>
-<p><em>"in order that the requirement of <strong>the Law might be
-fulfilled in us, who do not walk according to the flesh, but according
-to the Spirit</strong>."</em></p></td>
-</tr>
-</tbody>
-</table>
 
-**2. Obedient to The Word of God - Scripture**
+#### 2. Obedient to The Word of God - Scripture
+
 
 **a. God's word is our guide** - Psalm 119:105 (LESSON, II.B.1, pg.
 
@@ -360,8 +298,8 @@ to the Spirit</strong>."</em></p></td>
 **b. Given to us to obey** - Deuteronomy 29:29
 
 *"The secret things belong to the Lord our God, but **the things
-revealed belong to us and to our sons forever**, <u>that we may observe
-**all** the words of this law</u>."*
+revealed belong to us and to our sons forever**, _that we may observe
+**all** the words of this law_."*
 
 **c. Adequate to equip us** - 2 Timothy 3:16-17
 
@@ -384,7 +322,6 @@ work.***"
 To be ignorant of the Scriptures is contradictory to wanting to know
 God's will.
 
-**d. Being filled with the Word of God yields the same results as Being
 filled with the Holy Spirit**
 
 Note the following parallel passages:
@@ -393,41 +330,12 @@ Col. 3:16 and following (Being filled with the Scriptures)
 
 Eph. 5:18 and following (Being filled with the Holy Spirit)
 
-**3. Our desire must be one of willingness to seek God and to do His
 will**
 
 **a. We need to be willing** - John 7:17
 
 *"If **any man is willing** to do His will, **he shall know** of the
 teaching, whether it is of God, or whether I speak from Myself."*
-
-<table style="width:85%;">
-<colgroup>
-<col style="width: 84%" />
-</colgroup>
-<tbody>
-<tr>
-<td><strong>Remember: Christ as our example</strong></td>
-</tr>
-<tr>
-<td><p>⮚ Luke 22:42</p>
-<p><em>"saying, 'Father, if Thou art willing, remove this cup from Me;
-yet <strong>not My will, but Thine be done</strong>.'"</em></p>
-<p>⮚ John 6:38</p>
-<p><em>"For I have come down from heaven, <strong>not to do My own will,
-but the will of Him who sent Me</strong>."</em></p>
-<p>⮚ Hebrews 10:9</p>
-<p><em>"then He said, 'Behold, <strong>I have come to do Thy
-will</strong>.' He takes away the first in order to establish the
-second."</em></p>
-<p>⮚ Our pattern for prayer - Matthew 6:10</p>
-<p><em>"Thy kingdom come. <strong>Thy will be done</strong>, On earth as
-it is in heaven."</em></p>
-<p><strong>NOTE:</strong> The secret of knowing God's will is to have a
-heart that wants it as a first priority.</p></td>
-</tr>
-</tbody>
-</table>
 
 **b. A diligence to press on to know God** - Hosea 6:3
 
@@ -440,8 +348,8 @@ the spring rain watering the earth."*
 *7 "Hear, O Lord, when **I cry with my voice**, And be gracious to me
 and answer me.*
 
-*8 When Thou didst say, '**Seek My face**,' <u>my heart</u> said to
-Thee, '**<u>Thy face, O Lord, I shall seek.</u>**'"*
+*8 When Thou didst say, '**Seek My face**,' _my heart_ said to
+Thee, '**_Thy face, O Lord, I shall seek._**'"*
 
 **d. Willing to give your life to God** - Romans 12:1-2
 
@@ -453,7 +361,9 @@ your spiritual service of worship.*
 renewing of your mind, that you may prove what the will of God is, that
 which is good and acceptable and perfect."*
 
-**4. We must have a desire to be Sanctified**
+
+#### 4. We must have a desire to be Sanctified
+
 
 **a. It is God’s will that we be sanctified** – 1 Thessalonians 4:3
 
@@ -473,7 +383,9 @@ From this verse what clearly is God’s will for us?
 *“For I am confident of this very thing, that He who began a good work
 in you will perfect it until the day of Christ Jesus.”*
 
-**5. Our focus must be on things above**
+
+#### 5. Our focus must be on things above
+
 
 **a. Set your mind on things above** - Colossians 3:1-2
 
@@ -499,11 +411,13 @@ us,*
 for the joy set before Him endured the cross, despising the shame, and
 has sat down at the right hand of the throne of God."*
 
-**6. Seek wisdom**
+
+#### 6. Seek wisdom
+
 
 **a. Pray for wisdom** - James 1:5
 
-*"But **if any of you lacks wisdom, <u>let him ask</u> of God**, who
+*"But **if any of you lacks wisdom, _let him ask_ of God**, who
 gives to all men generously and without reproach, and it will be given
 to him."*
 
@@ -541,44 +455,45 @@ Q. What does God grant to those who are delighting in Him?
 
 **RECAP - How to know God’s will:**
 
-1\. Be filled with the Spirit of God
+1. Be filled with the Spirit of God
 
-2\. Obedient to The Word of God – Scripture
+2. Obedient to The Word of God – Scripture
 
-3\. Our desire must be one of willingness to seek God and to do His will
+3. Our desire must be one of willingness to seek God and to do His will
 
-4\. Have a desire to be Sanctified
+4. Have a desire to be Sanctified
 
-5\. Focus on things above
+5. Focus on things above
 
-6\. Seek wisdom
+6. Seek wisdom
 
-7\. Seek Godly counsel
+7. Seek Godly counsel
 
-**If all of the above are in place then … Follow the desires of your
 heart!**
 
-**III. COMPARISON OF GOD'S SOVEREIGN WILL AND GOD'S COMMANDED WILL**
+
+## III. COMPARISON OF GOD'S SOVEREIGN WILL AND GOD'S COMMANDED WILL
+
 
 A. LESSON - Table, page 88, bottom
 
-1\. Sovereign: Study God's actions in history
+1. Sovereign: Study God's actions in history
 
 Commanded: Read the Bible
 
-2\. Sovereign: Cannot be resisted - is always for your good!
+2. Sovereign: Cannot be resisted - is always for your good!
 
 Commanded: Can be disobeyed - your choice
 
-3\. Sovereign: Both good and evil - all of history
+3. Sovereign: Both good and evil - all of history
 
 Commanded: Only good
 
-4\. Sovereign: Comprehensive - all of history
+4. Sovereign: Comprehensive - all of history
 
 Commanded: Specific - laws, etc.
 
-5\. Sovereign: We cannot know
+5. Sovereign: We cannot know
 
 Commanded: We are commanded to know!
 
@@ -586,25 +501,27 @@ ASIDE
 
 **God may test your faith - you may have trials!**
 
-1\. Psalm 11:5
+1. Psalm 11:5
 
 *"**The Lord tests the righteous** and the wicked, And the one who loves
 violence His soul hates."*
 
-2\. Deuteronomy 8:2
+2. Deuteronomy 8:2
 
 *"And you shall remember all the way which the Lord your God has led you
 in the wilderness these forty years, that He might humble you, **testing
 you**, to know what was in your heart, whether you would keep His
 commandments or not."*
 
-3\. 1 Peter 4:12
+3. 1 Peter 4:12
 
 *"Beloved, do not be surprised at **the fiery ordeal among you, which
 comes upon you for your testing**, as though some strange thing were
 happening to you;"*
 
-**IV. GUIDANCE - WHAT IT IS NOT!**
+
+## IV. GUIDANCE - WHAT IT IS NOT!
+
 
 **A. It is not**:
 
@@ -612,7 +529,9 @@ happening to you;"*
 
 ⮚ Bargaining with God
 
-**B. Man cannot know his destination**
+
+### B. Man cannot know his destination
+
 
 ⮚ Proverbs 27:1
 
@@ -624,26 +543,32 @@ forth."*
 *"Man's steps are ordained by the Lord, How then can man understand his
 way?"*
 
-**V. APPLICATION**
+
+## V. APPLICATION
+
 
 (See LESSON - page 90, I.C)
 
-**A. How should we respond to God's commanded will?**
 
-1\. Understand - Eph. 5:17 (LESSON I.C.2) \[recall verse from page 5 of
+### A. How should we respond to God's commanded will?
+
+
+1. Understand - Eph. 5:17 (LESSON I.C.2) \[recall verse from page 5 of
 notes\]
 
 *"So then do not be foolish, but **understand what the will of the Lord
 is**."*
 
-2\. Obey - Deut. 11:1 (LESSON I.C.2)
+2. Obey - Deut. 11:1 (LESSON I.C.2)
 
 *"You shall therefore love the Lord your God, and **always keep His
 charge, His statutes, His ordinances, and His commandments**."*
 
-**B. How should we respond to God's sovereign will?**
 
-1\. Trust and obey - Proverbs 3:5-6 (LESSON I.C.1)
+### B. How should we respond to God's sovereign will?
+
+
+1. Trust and obey - Proverbs 3:5-6 (LESSON I.C.1)
 
 *5 "**Trust in the Lord** with all your heart, And **do not lean on your
 own understanding**.*
@@ -651,21 +576,22 @@ own understanding**.*
 *6 In all your ways acknowledge Him, And He will make your paths
 straight."*
 
-**C. Practical guidance**
 
-1\. Be filled with the Spirit of God
+### C. Practical guidance
 
-2\. Obedient to The Word of God – Scripture
 
-3\. Our desire must be one of willingness to seek God and to do His will
+1. Be filled with the Spirit of God
 
-4\. Have a desire to be Sanctified
+2. Obedient to The Word of God – Scripture
 
-5\. Focus on things above
+3. Our desire must be one of willingness to seek God and to do His will
 
-6\. Seek wisdom
+4. Have a desire to be Sanctified
 
-7\. Seek Godly counsel
+5. Focus on things above
 
-**If all of the above are in place then … Follow the desires of your
+6. Seek wisdom
+
+7. Seek Godly counsel
+
 heart!**

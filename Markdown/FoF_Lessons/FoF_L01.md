@@ -1,213 +1,29 @@
-<table style="width:99%;">
-<colgroup>
-<col style="width: 98%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h4 id="fundamentals-of-the-faith">Fundamentals of the Faith</h4>
-<h3 id="the-bible">The Bible</h3></td>
-</tr>
-</tbody>
-</table>
+# Fundamentals of the Faith
 
-**Table of Contents**
+## Lesson 01: The Bible
 
-**Objective & Preliminary Comments
-.............................................................. i**
+---
 
-**I. Origin of the Bible
-...........................................................................................
-1**
+## Table of Contents
 
-A. Revelation
+- [I. Origin of the Bible](#i-origin-of-the-bible)
+- [II. Titles](#ii-titles)
+- [III. The Old Testament](#iii-the-old-testament)
+- [IV. Inter-Testament Period](#iv-inter-testament-period)
+- [V. New Testament](#v-new-testament)
+- [VI. Application of Bible Survey](#vi-application-of-bible-survey)
+- [VII. The Inspiration of the Bible](#vii-the-inspiration-of-the-bible)
+- [VIII. Canonicity – How were the Books of the Canon Decided Upon?](#viii-canonicity-how-were-the-books-of-the-canon-decided-upon)
+- [IX. The Believability of the Bible](#ix-the-believability-of-the-bible)
+- [X. Application](#x-application)
 
-1\. Definition
-
-2\. Natural Revelation or General revelation
-
-3\. Special Revelation
-
-B. Manuscripts of the Bible
-
-C. Languages
-
-D. Bible Versions
-
-E. The Compilation of the Books into the Canon
-
-**II. Titles
-.................................................................................................................
-10**
-
-A. The Bible
-
-B. Canon
-
-C. Law and the Prophets
-
-D. Law, Prophets and Psalms
-
-E. Scripture
-
-F. The Word of God
-
-G. The Writings
-
-H. Old Testament & New Testament (Old Covenant & New Covenant)
-
-**III. The Old Testament
-..........................................................................................
-13**
-
-A. Basic Structure of the O.T.
-
-B. Time line of O.T. events
-
-C. Major empires
-
-D. Old Testament Survey
-
-E. Christ in the O.T.
-
-**IV. Inter-Testament Period
-...................................................................................
-35**
-
-**V. New Testament
-...............................................................................................
-35**
-
-A. General
-
-B. Divisions
-
-C. Setting - map (overheads)
-
-D. The Gospels
-
-E. Acts of the Apostles (Aside on Paul)
-
-F. Letters or Epistles (Aside on the Bothers & Sisters of Christ)
-
-G. Revelation
-
-H. Summary chart of the New Testament
-
-**VI. Application of Bible Survey
-............................................................................
-48**
-
-**VII. The Inspiration of the Bible
-...........................................................................
-49**
-
-A. Introduction
-
-B. Divine Sovereignty
-
-C. Witness of the Holy Spirit
-
-D. The Bible Claims to be the inspired word of God
-
-Let us look at the claim ...
-
-E. The Holy Spirit is the key to Inspiration
-
-F. Verbal Plenary Inspiration
-
-G. Parallel Passages
-
-**VIII. Canonicity – How were the Books of the Canon Decided Upon?
-............ 58**
-
-**IX. The Believability of the Bible
-.........................................................................
-60**
-
-A. Testimonies to Biblical Inspiration
-
-B. Summary
-
-**X. Application
-......................................................................................................
-69**
-
-<table style="width:99%;">
-<colgroup>
-<col style="width: 98%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h4 id="fundamentals-of-the-faith-1">Fundamentals of the Faith</h4>
-<h3 id="the-bible-1">The Bible</h3></td>
-</tr>
-</tbody>
-</table>
-
-**Objectives & Preliminary Comments**
-
-**The Objectives of Lesson \#1:**
-
-The objective of lesson \#1 can be divided into five areas:
-
-1\. To give the student a brief overview of the Bible, its structure and
-the basic content of each book.
-
-2\. To present the main themes of the Bible: Jesus Christ, His glory and
-the Plan of Salvation.
-
-3\. To explain the origin of the Bible, including revelation and how God
-used men to write His words.
-
-4\. To present the Bible's claim to be the inspired words of God.
-
-5\. From an application standpoint: You want to impress upon the student
-the dynamic, the authority, the veracity and the completeness of the
-Holy Scriptures.
-
-The class plan is divided into three sections:
-
-1\. General information about the Bible: Including its origin, titles
-and translations.
-
-2\. Bible survey: OT and NT
-
-3\. The Inspiration and Believability of the Bible
-
-**Exhortation to the teacher:**
-
-The Holy Scripture is the foundation from which the FOF material will
-draw its authority (2Tim. 3:16.) Therefore, let the Scripture speak for
-itself, for it is living and active (Heb. 4:12). It is the words of
-Scripture that are powerful and able to change the hearts and thoughts
-of men.
-
-And remember:
-
-*"They will not care how much you know, until they know how much you
-care."*
-
-**As always, before entering the Classroom, always ...**
-
-***Pray that Christ will be glorified through all that you say,
-remembering that your strength is supplied by God and the power of your
-message is the Word of God (1Peter 4:11).***
-
-<table style="width:99%;">
-<colgroup>
-<col style="width: 98%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h4 id="fundamentals-of-the-faith-2">Fundamentals of the Faith</h4>
-<h3 id="the-bible-2">The Bible</h3></td>
-</tr>
-</tbody>
-</table>
+---
 
 **Lesson Outline**
 
-**I. ORIGIN OF THE BIBLE**
+
+## I. ORIGIN OF THE BIBLE
+
 
 The purpose of this section is to explain how God revealed Himself to
 man. In the discussion of Revelation, which is God disclosing Himself to
@@ -220,14 +36,18 @@ every good work (2Tim. 3:15-17).
 Inspiration, or the process in which God gave us the Holy Scriptures,
 along with Canonicity will be discussed at the end of this lesson.
 
-**A. Revelation**
+
+### A. Revelation
+
 
 Q. What is revelation?
 
 **1. Definition:** The act of God whereby He discloses to man what would
 otherwise be unknown.
 
-**2. Natural Revelation or General Revelation**
+
+#### 2. Natural Revelation or General Revelation
+
 
 **a. Creation** - Romans 1:18-20 (reveals a **mighty** God)
 
@@ -262,7 +82,7 @@ time.
 things of the Law, these, not having the Law, are a law to themselves,*
 
 *15 in that they show the work of **the Law written in their hearts,
-their <u>conscience</u> bearing witness**, and their thoughts
+their _conscience_ bearing witness**, and their thoughts
 alternately accusing or else defending them,"*
 
 Q. How has God revealed Himself to us, according to verse 15?
@@ -277,9 +97,9 @@ Q. How has God revealed Himself to us, according to verse 15?
 
 Q. Therefore, what is the purpose of Natural Revelation?
 
-\(1\) To reveal to man that God is (Rom. 1:18-20).
+\(1. To reveal to man that God is (Rom. 1:18-20).
 
-\(2\) To cause us to understand that God is a creator God.
+\(2. To cause us to understand that God is a creator God.
 
 Q. Does General or Natural Revelation able to lead one to salvation?
 
@@ -287,7 +107,9 @@ Q. Does General or Natural Revelation able to lead one to salvation?
 lead to salvation; however, the special revelation of the Bible does (2
 Tim. 3:15.)
 
-**3. Special Revelation**
+
+#### 3. Special Revelation
+
 
 **a. Kinds of Special Revelation**
 
@@ -396,11 +218,13 @@ for reproof, for correction, for training in righteousness;*
 *17 that the man of God may be **adequate, equipped** for every good
 work."*
 
-**B. Manuscripts of the Bible**
+
+### B. Manuscripts of the Bible
+
 
 Q. How did we get the Bible?
 
-1\. Special Revelation - God spoke through men **--\> Manuscripts**
+1. Special Revelation - God spoke through men **--\> Manuscripts**
 
 2 Peter 1:21
 
@@ -409,9 +233,9 @@ by the Holy Spirit spoke from God**."*
 
 Move - def: To bear; to carry; to bring forth.
 
-2\. No *autographs* (i.e. original manuscripts) exist today
+2. No *autographs* (i.e. original manuscripts) exist today
 
-3\. Over 200,000 manuscripts (both pieces and complete) exist today
+3. Over 200,000 manuscripts (both pieces and complete) exist today
 
 a\. O.T. - Talmudic manuscripts --\> Written BC 300 - 500 AD.
 
@@ -429,7 +253,7 @@ Note: King James - from the Byzantine
 
 American Standard – from the Alexandrian
 
-4\. Dead Sea Scrolls
+4. Dead Sea Scrolls
 
 a\. Found in early 1947-1956
 
@@ -442,60 +266,75 @@ c\. Date of Scroll writing: approx. 100-100BC
 d\. Fragments of every OT book was recovered with the exception of
 Esther.
 
-5\. Note: The Bible was written over a 1600 year period: 1500 BC - AD
-100
+5. Note: The Bible was written over a 1600 year period: 1500 BC - AD
 
-6\. Q. How many authors were there? ... 40 different authors
+6. Q. How many authors were there? ... 40 different authors
 
-7\. Q. How many books are there? ... 66 books (O.T. 39; N.T. 27)
+7. Q. How many books are there? ... 66 books (O.T. 39; N.T. 27)
 
-**C. Languages**
+
+### C. Languages
+
 
 Q. What Languages was the Bible written in?
 
-**1. Old Testament**
+
+#### 1. Old Testament
+
 
 **a. Written in - Hebrew, Aramaic**
 
-\(1\) Most of O.T. in Hebrew
+\(1. Most of O.T. in Hebrew
 
-\(2\) Aramaic: Daniel 2-6 and Ezra 4-7
+\(2. Aramaic: Daniel 2-6 and Ezra 4-7
 
 **b. Septuagint**
 
-\(1\) Greek translation - 3 B.C.
+\(1. Greek translation - 3 B.C.
 
-\(2\) Greek influence of Alexander - Alexandria, Egypt
+\(2. Greek influence of Alexander - Alexandria, Egypt
 
-\(3\) LXX - work of 70 Jewish elders
+\(3. LXX - work of 70 Jewish elders
 
 **c. Characteristics of Hebrew**
 
-\(1\) Lacked precision in tenses
+\(1. Lacked precision in tenses
 
-\(2\) Lacked ability of Greek to express fine shades of meaning
+\(2. Lacked ability of Greek to express fine shades of meaning
 
 Many key terms are hard to define.
 
-\(3\) Remarkable power in emotional expressions & Poetry.
+\(3. Remarkable power in emotional expressions & Poetry.
 
-**2. New Testament** – Greek; very precise.
 
-**D. Bible Versions** – See the last page of Lesson \#1
+#### 2. New Testament
 
-**1. The Vulgate**
+*Greek; very precise.*
+
+
+### D. Bible Versions
+
+*See the last page of Lesson \#1*
+
+
+#### 1. The Vulgate
+
 
 a\. AD 385-404
 
 b\. The only version used for years.
 
-**2. John Wycliffe**
+
+#### 2. John Wycliffe
+
 
 a\. AD 1382
 
 b\. 1st attempt in English language
 
-**3. William Tyndale's Version**
+
+#### 3. William Tyndale's Version
+
 
 a\. AD 1525-1535
 
@@ -503,13 +342,17 @@ b\. Translated from Greek
 
 c\. Died before completion
 
-**4. Matthew's Bible**
+
+#### 4. Matthew's Bible
+
 
 a\. AD 1537
 
 b\. 1st authorized in England
 
-**5. The King James Version**
+
+#### 5. The King James Version
+
 
 a\. 7 years to translate
 
@@ -517,33 +360,42 @@ b\. 47 scholars
 
 c\. To correct errors of the Bishop's Bible
 
-**6. The New American Standard Version**
+
+#### 6. The New American Standard Version
+
 
 a\. Advantage of Dead Sea Scrolls
 
-\(1\) Complete Isaiah
+\(1. Complete Isaiah
 
-\(2\) Pieces of all O.T. books except Esther
+\(2. Pieces of all O.T. books except Esther
 
 b\. More literal translation of the Masoretic and Alexandrian text.
 
-c\. 1960
+c\
 
-**7. The New International Version**
+
+#### 7. The New International Version
+
 
 a\. Thought translation
 
-b\. 1973
+b\
 
-**8. The New King James Version**
 
-a\. 1982
+#### 8. The New King James Version
+
+
+a\
 
 b\. To eliminate errors of previous version.
 
-**E. The Compilation of the books into the Canon**
 
-**1. Old Testament**
+### E. The Compilation of the books into the Canon
+
+
+#### 1. Old Testament
+
 
 a\. Written 1500 BC to 400 BC
 
@@ -552,11 +404,13 @@ books.
 
 c\. The O.T. Canon is considered complete
 
-\(1\) AD 90
+\(1. AD 90
 
-\(2\) Council of Jamnia
+\(2. Council of Jamnia
 
-**2. New Testament**
+
+#### 2. New Testament
+
 
 a\. Written from AD 50's - AD 90's
 
@@ -566,40 +420,49 @@ c\. Last book written - Revelation
 
 d\. Council of Carthage
 
-\(1\) AD 397
+\(1. AD 397
 
-\(2\) As we know it today
+\(2. As we know it today
 
-**Q. How were the books of the Canon decided upon?**
 
-... First let us look at each of the Testaments, and do a fast walk thru
+### Q. How were the books of the Canon decided upon?
+
+
 the Bible.
 
-... Then we will come back and answer this question.
 
-**II. TITLES OF THE BIBLE**
+## II. TITLES OF THE BIBLE
 
-**A. Bible**
 
-1\. Biblion (Greek) - meaning *book* or *scroll*.
+### A. Bible
 
-2\. From Biblos - the outer coat of a papyrus reed.
 
-3\. Became known as *The Book*.
+1. Biblion (Greek) - meaning *book* or *scroll*.
 
-**B. Canon**
+2. From Biblos - the outer coat of a papyrus reed.
 
-1\. O.T. and N.T. Canon
+3. Became known as *The Book*.
 
-2\. Greek word means rule
 
-3\. 4th century --\> list of Holy writings
+### B. Canon
 
-4\. Came to mean --\> Scripture itself
 
-**C. Ways that the Bible books are referred to in the Bible itself:**
+1. O.T. and N.T. Canon
 
-**1. Law and the Prophets** - Matt. 22:40
+2. Greek word means rule
+
+3. 4th century --\> list of Holy writings
+
+4. Came to mean --\> Scripture itself
+
+
+### C. Ways that the Bible books are referred to in the Bible itself:
+
+
+#### 1. Law and the Prophets
+
+*Matt. 22:40*
+
 
 *"On these two commandments depend the whole **Law and the Prophets**."*
 
@@ -611,24 +474,34 @@ This was a way to refer to the entire Bible – as seen in Luke 24:27
 Q. What books make up the "Law"? ... 1<sup>st</sup> five books of the
 Bible - Pentateuch
 
-**2. Scripture** - John 7:38
+
+#### 2. Scripture
+
+*John 7:38*
+
 
 *"He who believes in Me, as the **Scripture** said, 'From his innermost
 being shall flow rivers of living water.'"* (He quoted Isaiah 58:11)
 
-**3. The sacred Writings** - 2 Timothy 3:15
+
+#### 3. The sacred Writings
+
+*2 Timothy 3:15*
+
 
 *"and that from childhood you have known the **sacred writings** which
 are able to give you the wisdom that leads to salvation through faith
 which is in Christ Jesus."*
 
-**D. Old Testament (OT) & New Testament (NT)**
+
+### D. Old Testament (OT) & New Testament (NT)
+
 
 Q. Why the two testaments? Why are they called the OT and the NT?
 
-1\. Old Covenant (O.T.) ..... below
+1. Old Covenant (O.T.) ..... below
 
-2\. New Covenant (N.T.) ..... next page
+2. New Covenant (N.T.) ..... next page
 
 Definition:
 
@@ -636,161 +509,85 @@ A covenant is a binding agreement between two or more parties. It is a
 pledge or a promise that is entered into.
 
 Note: ⮚ The word *Testament* is a derivation of Latin *Testamentum*
-meaning <u>a will</u>.
+meaning _a will_.
 
 ⮚ Greek word for will is *suntheke* - meaning an agreement entered into
 by contracting parties.
 
-<table style="width:96%;">
-<colgroup>
-<col style="width: 96%" />
-</colgroup>
-<tbody>
-<tr>
-<td><strong>The Old Covenant</strong></td>
-</tr>
-<tr>
-<td><p><strong>1. The Mosaic Covenant – The Law – "Obedience results in
-blessing"</strong></p>
-<p>a. 1446 BC</p>
-<p>b. Exodus 19:5; 20:1-24:8; Deut. 28:1,15</p>
-<p>Exodus 19:5</p>
-<p><em>"Now then, if you will indeed <strong>obey My voice</strong> and
-<strong>keep My covenant</strong>, then you shall be My own possession
-among all the peoples, for all the earth is Mine;"</em></p>
-<p>Deuteronomy 28:1,15</p>
-<p>1 <em>"Now it shall be, <strong>if you will diligently <u>obey</u>
-the Lord</strong> your God, being careful to do all His commandments
-which I command you today, the Lord your <strong>God will set you high
-above all the nations</strong> of the earth.</em></p>
-<p><em>15 But it shall come about, if you will <strong>not obey</strong>
-the Lord your God, to observe to do all His commandments and His
-statutes with which I charge you today, that all these
-<strong>curses</strong> shall come upon you and overtake
-you."</em></p></td>
-</tr>
-</tbody>
-</table>
 
-<table style="width:99%;">
-<colgroup>
-<col style="width: 99%" />
-</colgroup>
-<tbody>
-<tr>
-<td><strong>New Covenant</strong></td>
-</tr>
-<tr>
-<td><p><strong>1. The New is better than the old:</strong></p>
-<p>a. Hebrews 7:22</p>
-<p><em>"so much the more also Jesus has become the guarantee of a
-<strong>better covenant</strong>."</em></p>
-<p>b. Hebrews 8:6</p>
-<p><em>"But now He has obtained a more excellent ministry, by as much as
-He is also the mediator of a <strong>better covenant</strong>, which has
-been enacted on <strong>better promises</strong>."</em></p>
-<p><strong>2. The Old Covenant has passed away</strong> - Hebrews
-8:13</p>
-<p><em>"When He said, 'A new covenant,' He has made the <strong>first
-obsolete</strong>. But whatever is becoming obsolete and growing old is
-ready to <strong>disappear</strong>."</em></p>
-<p><strong>3. The New Covenant is through Christ's blood</strong> - Luke
-22:20</p>
-<p><em>"And in the same way He took the cup after they had eaten,
-saying, 'This cup which is poured out for you is the <strong>new
-covenant in My blood</strong>.'"</em></p>
-<p><strong>4. The New Covenant is not Law, but Spirit</strong></p>
-<p>a. 2 Corinthians 1:22</p>
-<p><em>"who also sealed us and gave {us} the <strong>Spirit in our
-hearts</strong> as a pledge."</em></p>
-<p>b. 2 Corinthians 3:5,6</p>
-<p><em>"Not that we are adequate in ourselves to consider anything as
-from ourselves, but our adequacy is from God,</em></p>
-<p><em>who also made us adequate as servants of a <strong>new
-covenant</strong>, <strong>not of the letter, but of the
-Spirit</strong>; for the letter kills, but the Spirit gives
-life."</em></p>
-<p>c. <u>Freed from the Law</u></p>
-<p>The purpose of the Law was to show us our sin - Romans 7:6-7</p>
-<p><em>6 But now we have been <strong>released from the Law</strong>,
-having died to that by which we were bound, so that <strong>we serve in
-newness of the Spirit and not in oldness of the
-letter</strong>.</em></p>
-<p><em>7 What shall we say then? Is the Law sin? May it never be! On the
-contrary, <strong>I would not have come to know sin except through the
-Law</strong>; for I would not have known about coveting if the Law had
-not said, "You shall not covet."</em></p></td>
-</tr>
-</tbody>
-</table>
+## III. THE OLD TESTAMENT
 
-**III. THE OLD TESTAMENT**
 
-**A. Basic Structure of the O.T.**
+### A. Basic Structure of the O.T.
 
-Q. How many books in O.T.? .... 39
 
-**1. There are four major sections in the O.T.**
+Q. How many books in O.T.?
+
+
+#### 1. There are four major sections in the O.T.
+
 
 **Note:** Have students pronounce the title of each book.
 
-**a. Pentateuch** - <u>The Books of the Law</u> - (5 books)
+**a. Pentateuch** - _The Books of the Law_ - (5 books)
 
 Also called the TORAH (usually translated law)
 
-\(1\) Genesis
+\(1. Genesis
 
-\(2\) Exodus
+\(2. Exodus
 
-\(3\) Leviticus
+\(3. Leviticus
 
-\(4\) Numbers
+\(4. Numbers
 
-\(5\) Deuteronomy
+\(5. Deuteronomy
 
 **b. Historical** (12 books)
 
-\(1\) Joshua (7) 2 Kings
+\(1. Joshua (7) 2 Kings
 
-\(2\) Judges (8) 1 Chronicles
+\(2. Judges (8) 1 Chronicles
 
-\(3\) Ruth (9) 2 Chronicles
+\(3. Ruth (9) 2 Chronicles
 
-\(4\) 1 Samuel (10) Ezra
+\(4. 1 Samuel (10) Ezra
 
-\(5\) 2 Samuel (11) Nehemiah
+\(5. 2 Samuel (11) Nehemiah
 
-\(6\) 1 Kings (12) Esther
+\(6. 1 Kings (12) Esther
 
 **c. Poetical** (5 books)
 
-\(1\) Job
+\(1. Job
 
-\(2\) Psalms
+\(2. Psalms
 
-\(3\) Proverbs
+\(3. Proverbs
 
-\(4\) Ecclesiastes
+\(4. Ecclesiastes
 
-\(5\) Song of Solomon
+\(5. Song of Solomon
 
 **d. Prophecy** (17 books)
 
 ⮚ Major Prophets ⮚ Minor Prophets
 
-\(1\) Isaiah (1) Hosea (7) Nahum
+\(1. Isaiah (1) Hosea (7) Nahum
 
-\(2\) Jeremiah (2) Joel (8) Habakkuk
+\(2. Jeremiah (2) Joel (8) Habakkuk
 
-\(3\) Lamentations (3) Amos (9) Zephaniah
+\(3. Lamentations (3) Amos (9) Zephaniah
 
-\(4\) Ezekiel (4) Obadiah (10) Haggai
+\(4. Ezekiel (4) Obadiah (10) Haggai
 
-\(5\) Daniel (5) Jonah (11) Zechariah
+\(5. Daniel (5) Jonah (11) Zechariah
 
-\(6\) Micah (12) Malachi
+\(6. Micah (12) Malachi
 
-**B. Time line of O.T. events**
+
+### B. Time line of O.T. events
+
 
 4000 BC Creation
 
@@ -816,7 +613,9 @@ Also called the TORAH (usually translated law)
 
 536 BC Return - Ezra (walls); Nehemiah (temple)
 
-**C. Major empires**
+
+### C. Major empires
+
 
 ⮚ Egypt ........ 1600 B.C. to 1200 B.C.
 
@@ -830,13 +629,15 @@ Also called the TORAH (usually translated law)
 
 ⮚ Roman ....... 50 B.C. to present
 
-**D. Old Testament Survey**
+
+### D. Old Testament Survey
+
 
 ⮚ Use time line previous page
 
 ⮚ Use MAP.
 
-**<u>1.</u> <u>PENTATEUCH</u>** <u>(Historical)</u>
+**_1._ _PENTATEUCH_** _(Historical)_
 
 Q. What is the name given to the 1st 5 O.T. books? … Pentateuch
 
@@ -884,7 +685,7 @@ Jacobs's other two sons:
 
 **(5) Theme**
 
-<u>God chose a nation through whom He will bless all nations</u>.
+_God chose a nation through whom He will bless all nations_.
 
 (Abrahamic covenant - Genesis 12:1-3)
 
@@ -907,7 +708,7 @@ Q. What is the 1st major event?
 
 \(a\) Plagues in Egypt
 
-\(b\) Instigation of the *Passover* .... chapter 12 (<u>NEXT PAGE</u>)
+\(b\) Instigation of the *Passover* .... chapter 12 (_NEXT PAGE_)
 
 \(c\) Exodus from Egypt - parting of Red Sea - 1446 B.C.
 
@@ -945,19 +746,9 @@ Q. Do they make it to the promise land (Canaan)?
 
 **(4) Theme:** Deliverance - redemption
 
-<table style="width:96%;">
-<colgroup>
-<col style="width: 96%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p><strong>THE PASSOVER</strong></p>
-<p><strong>The Passover Lamb - A Type of Christ</strong></p></td>
-</tr>
-</tbody>
-</table>
 
-**1. O.T. - Passover (Exodus 12:3-13)**
+#### 1. O.T. - Passover (Exodus 12:3-13)
+
 
 *3 "Speak to all the congregation of Israel, saying, 'On the tenth of
 this month they are each one to take a lamb for themselves, according to
@@ -1004,7 +795,9 @@ will befall you to destroy you when I strike the land of Egypt.*
 as a feast to the Lord; throughout your generations you are to celebrate
 it as a permanent ordinance.*
 
-**2. Christ as the Passover Lamb**
+
+#### 2. Christ as the Passover Lamb
+
 
 ⮚ John 1:29,36
 
@@ -1025,21 +818,6 @@ sacrificed.*
 *"He was oppressed and He was afflicted, Yet He did not open His mouth;
 Like a **lamb that is led to slaughter**, And like a sheep that is
 silent before its shearers, So He did not open His mouth.*
-
-<table style="width:96%;">
-<colgroup>
-<col style="width: 96%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p><strong><u>NOTE</u></strong></p>
-<p><strong>Christ was crucified on <em>Passover</em></strong></p>
-<p><strong>While all thousands of lambs were being sacrificed … the True
-Passover Lamb was being Crucified.</strong></p>
-<p><strong>The Blindness of the Jews</strong></p></td>
-</tr>
-</tbody>
-</table>
 
 **c. LEVITICUS**
 
@@ -1065,11 +843,11 @@ Passover Lamb was being Crucified.</strong></p>
 
 **(c) Feasts**
 
-⮚ <u>Passover (April 14)</u> / unleaven bread (April 15) - exodus
+⮚ _Passover (April 14)_ / unleaven bread (April 15) - exodus
 
-⮚ <u>First fruits</u> - before harvest
+⮚ _First fruits_ - before harvest
 
-⮚ <u>Pentecost (June 6)</u>
+⮚ _Pentecost (June 6)_
 
 \- Feast of weeks, concluded the Passover
 
@@ -1077,16 +855,16 @@ Passover Lamb was being Crucified.</strong></p>
 
 \- Beginning of the offering of Firstfruits.
 
-⮚ <u>Trumpets (Oct. 1&2)</u> - announced the next feast
+⮚ _Trumpets (Oct. 1&2)_ - announced the next feast
 
-⮚ <u>Day of Atonement (Oct. 10)</u>
+⮚ _Day of Atonement (Oct. 10)_
 
 \- The only day the priest would go into the Holy of Holies to offer
 atonement for the people's sin.
 
-⮚ <u>Tabernacle</u>s (Oct. 15 - Oct. 21) - wilderness wandering
+⮚ _Tabernacle_s (Oct. 15 - Oct. 21) - wilderness wandering
 
-⮚ <u>Sabbath</u>
+⮚ _Sabbath_
 
 \- Every week - rest on 7th day
 
@@ -1113,13 +891,13 @@ Q. Why do you think the book is called Numbers?
 
 \(b\) Journey - to Kadesh Barnea
 
-\(c\) <u>Rejection</u> - people reject God
+\(c\) _Rejection_ - people reject God
 
 ⮚ 12 Spies into land
 
 ⮚ Only two want to believe God: Joshua & Caleb (chapter 14)
 
-⮚ <u>The result - wandering - the generation dies off</u>.
+⮚ _The result - wandering - the generation dies off_.
 
 \(d\) Journey to the plains of Moab (lower edge of promise land -
 Canaan)
@@ -1152,33 +930,13 @@ The title of the book means ***Second law***
 
 ⮚ Blessing - Deuteronomy 28:1-14
 
-⮚ Cursing - Deuteronomy 28:15 ...
+⮚ Cursing - Deuteronomy 28:15
 
 **(4) Theme:** Beware lest you forget.
 
-<table style="width:96%;">
-<colgroup>
-<col style="width: 96%" />
-</colgroup>
-<tbody>
-<tr>
-<td>Application of the Pentateuch</td>
-</tr>
-<tr>
-<td><p>Genesis: Israel's origins in election</p>
-<p>Exodus: Israel's redemption - passover lamb</p>
-<p>Leviticus: God's law - exhortation to Holiness</p>
-<p>Numbers: Consequences of disobedience</p>
-<p>The wages of sin is death</p>
-<p>Deuteronomy: Beware lest you forget</p>
-<p><strong>God Never Changes ! !</strong></p></td>
-</tr>
-</tbody>
-</table>
-
 **Questions:**
 
-1\. Do you see a parallel to how God redeems individual men?
+1. Do you see a parallel to how God redeems individual men?
 
 … God elects
 
@@ -1188,9 +946,9 @@ The title of the book means ***Second law***
 
 … Remember the consequences of disobedience
 
-2\. Practically? .... God wants obedience!
+2. Practically? .... God wants obedience!
 
-**<u>2.</u> <u>HISTORICAL BOOKS</u>** - 12 books
+**_2._ _HISTORICAL BOOKS_** - 12 books
 
 This is the history of Israel:
 
@@ -1242,7 +1000,7 @@ right in his own eyes.**"* (Judges 17:6)
 
 **c. RUTH**
 
-**(1) Time:** 30 years - Time of the <u>Judges</u>
+**(1) Time:** 30 years - Time of the _Judges_
 
 **(2) Place:** Moab; Bethlehem
 
@@ -1288,7 +1046,7 @@ right in his own eyes.**"* (Judges 17:6)
 
 ⮚ Capital - Samaria
 
-⮚ <u>No good kings (19 of 19)</u>
+⮚ _No good kings (19 of 19)_
 
 ⮚ Asyria wipes out - 722 B.C. - gone forever
 
@@ -1302,21 +1060,21 @@ right in his own eyes.**"* (Judges 17:6)
 
 ⮚ In line of David
 
-⮚ <u>Some good kings (8 of 20)</u>
+⮚ _Some good kings (8 of 20)_
 
 ⮚ Babylonian captivity - 605 B.C. - 70 years
 
 **d. 1 & 2 CHRONICLES**
 
-\(1\) Same period of Jewish history as 2 Samuel - 2 Kings
+\(1. Same period of Jewish history as 2 Samuel - 2 Kings
 
-\(2\) A religious history - rather than a political history
+\(2. A religious history - rather than a political history
 
-\(3\) Priestly & spiritual perspective
+\(3. Priestly & spiritual perspective
 
-\(4\) 1 Chronicles --\> Davidic covenant (17:11-14; 29:11)
+\(4. 1 Chronicles --\> Davidic covenant (17:11-14; 29:11)
 
-\(5\) 2 Chronicles
+\(5. 2 Chronicles
 
 ⮚ Priestly view of Judah
 
@@ -1330,7 +1088,7 @@ right in his own eyes.**"* (Judges 17:6)
 
 ⮚ Zerubbabel
 
-⮚ <u>Rebuilds the temple</u>
+⮚ _Rebuilds the temple_
 
 **(2) Second return**
 
@@ -1338,7 +1096,7 @@ right in his own eyes.**"* (Judges 17:6)
 
 ⮚ Ezra
 
-⮚ <u>Rebuilds the spiritual condition of people</u>
+⮚ _Rebuilds the spiritual condition of people_
 
 **(3) Note:** Esther lives between the 60 year gap.
 
@@ -1346,64 +1104,35 @@ Queen of Persia.
 
 **f. NEHEMIAH**
 
-\(1\) Time: 19 years (444 B.C. - 425 B.C.)
+\(1. Time: 19 years (444 B.C. - 425 B.C.)
 
-\(2\) Contemporary of Ezra
+\(2. Contemporary of Ezra
 
-\(3\) Nehemiah means: The comfort of Jehovah
+\(3. Nehemiah means: The comfort of Jehovah
 
-\(4\) <u>Rebuilds the walls of Jerusalem</u>
+\(4. _Rebuilds the walls of Jerusalem_
 
 **g. ESTHER**
 
-\(1\) Time: 10 years - Time of Ezra
+\(1. Time: 10 years - Time of Ezra
 
-\(2\) A Jewish Queen of Persia
+\(2. A Jewish Queen of Persia
 
-\(3\) God's providence in caring for Israel through Esther
+\(3. God's providence in caring for Israel through Esther
 
-<table style="width:96%;">
-<colgroup>
-<col style="width: 96%" />
-</colgroup>
-<tbody>
-<tr>
-<td>REVIEW</td>
-</tr>
-<tr>
-<td><p>⮚ How many books in the O.T.? 39 N.T.? 27 Bible? 66</p>
-<p>⮚ Why is it called the O.T.?</p>
-<p>Because it is about the <em>Old Covenant</em>.</p>
-<p>⮚ What was the Old Covenant?</p>
-<p>Obedience/ The Law</p>
-<p>⮚ What is the New Covenant?</p>
-<p>Salvation through the blood of Christ.</p>
-<p>⮚ What did God do to Pharaoh to cause him to release the Jews?</p>
-<p>10 plagues; Passover - killing of the 1st born.</p>
-<p>⮚ How often do the Jews observe Passover?</p>
-<p>Once a year.</p>
-<p>⮚ On what day was Christ crucified?</p>
-<p>Passover.</p>
-<p>⮚ How many historical books are there in the O.T.? 17</p>
-<p>⮚ What are they the history of?</p>
-<p>The history of Israel. God's dealings with Israel.</p></td>
-</tr>
-</tbody>
-</table>
-
-**<u>3.</u> <u>POETICAL BOOKS</u>** - 5 books
+**_3._ _POETICAL BOOKS_** - 5 books
 
 **Themes**
 
-1\. Job ....................... God's sovereignty
+1. Job ....................... God's sovereignty
 
-2\. Psalms .................. Worship
+2. Psalms .................. Worship
 
-3\. Proverbs ................ Wisdom
+3. Proverbs ................ Wisdom
 
-4\. Ecclesiastes ............ All is vanity - without God
+4. Ecclesiastes ............ All is vanity - without God
 
-5\. Song of Solomon ...... Love in Marriage
+5. Song of Solomon ...... Love in Marriage
 
 **a. JOB**
 
@@ -1442,48 +1171,20 @@ If the question is asked .. does God test us?
 
 The answer is yes – see notes on the next page.
 
-<table style="width:96%;">
-<colgroup>
-<col style="width: 96%" />
-</colgroup>
-<tbody>
-<tr>
-<td><strong>ASIDE on TESTING</strong></td>
-</tr>
-<tr>
-<td><p>⮚ <strong>God Tested Abraham</strong> - Genesis 22:1</p>
-<p><em>"Now it came about after these things, that <strong>God tested
-Abraham</strong>, and said to him, 'Abraham!' And he said, 'Here I
-am.'"</em></p>
-<p>⮚ <strong>God refines us</strong> - Isaiah 48:10</p>
-<p><em>"Behold, <strong>I have refined you</strong>, but not as silver;
-<strong>I have tested you in the furnace of
-affliction</strong>."</em></p>
-<p>⮚ <strong>God test the Christians of the early church</strong> - 1
-Timothy 3:10</p>
-<p><em>"And <strong>let these also first be tested</strong>; <u>then let
-them serve</u> as deacons if they are beyond reproach."</em></p>
-<p>⮚ <strong>God allows the testing of the church at Smyrna</strong> -
-Revelation 2:10</p>
-<p><em>"Do not fear what you are about to suffer. Behold, the devil is
-about to cast some of you into prison, <strong>that you may be
-tested</strong>, and you will have tribulation ten days. Be faithful
-until death, and I will give you the crown of life."</em></p></td>
-</tr>
-</tbody>
-</table>
-
-**<u>NOTE</u>**
+**_NOTE_**
 
 God will test us and sometimes allow us to be tempted. But God will
 never let us be tempted beyond what we are able to endure.
 
-**1. God does not temp anyone** – James 1:13
+
+#### 1. God does not temp anyone
+
+*James 1:13*
+
 
 *“Let no one say when he is tempted, "I am being tempted by God"; for
 God cannot be tempted by evil, and He Himself does not tempt anyone.”*
 
-**2. God will not allow you to be tempted beyond what you are able to
 endure** – I Cor. 10:13
 
 *“No temptation has overtaken you but such as is common to man; and God
@@ -1493,27 +1194,27 @@ you may be able to endure it.”*
 
 > **b. PSALMS**
 
-\(1\) Note: Have class split their Bibles to the center ...
+\(1. Note: Have class split their Bibles to the center
 
-\(2\) Collection of songs, poems and prayers -
+\(2. Collection of songs, poems and prayers -
 
 **Songs note:** Psalms 3 4,5,6,7,8,9,11,13,14
 
-\(3\) Author: 73 David; 2 Solomon; 12 Sons of Korah; 12 to Asaph;
+\(3. Author: 73 David; 2 Solomon; 12 Sons of Korah; 12 to Asaph;
 
 1 Heman; 1 Ethan; 1 Moses.
 
-\(4\) During the life of David - II Samuel (10 century BC)
+\(4. During the life of David - II Samuel (10 century BC)
 
 **c. PROVERBS**
 
-\(1\) Written by King Solomon
+\(1. Written by King Solomon
 
-\(2\) A book of wisdom
+\(2. A book of wisdom
 
-\(3\) Solomon had asked for wisdom: 1 Kings 3:5-9; 1 Kings 4:29-31
+\(3. Solomon had asked for wisdom: 1 Kings 3:5-9; 1 Kings 4:29-31
 
-\(4\) Example – Proverbs 3:5,6
+\(4. Example – Proverbs 3:5,6
 
 *“Trust in the Lord with all your heart, And do not lean on your own
 understanding. In all your ways acknowledge Him, And He will make your
@@ -1521,11 +1222,11 @@ paths straight.”*
 
 **d. ECCLESIASTES**
 
-\(1\) Written by King Solomon
+\(1. Written by King Solomon
 
-\(2\) About his **vain** attempts to find meaning in life.
+\(2. About his **vain** attempts to find meaning in life.
 
-\(3\) He concludes - <u>Remember God</u> - Ecclesiastes 12:1
+\(3. He concludes - _Remember God_ - Ecclesiastes 12:1
 
 *"**Remember also your Creator in the days of your youth**, before the
 evil days come and the years draw near when you will say, 'I have no
@@ -1533,17 +1234,17 @@ delight in them';"*
 
 **e. SONG OF SOLOMON**
 
-\(1\) Written by King Solomon
+\(1. Written by King Solomon
 
-\(2\) Love between bride and bridegroom.
+\(2. Love between bride and bridegroom.
 
-\(3\) Maybe a picture of the love of:
+\(3. Maybe a picture of the love of:
 
 (a). Christ and Church
 
 (b). God and His people
 
-**<u>4.</u> <u>PROPHETICAL BOOKS</u>** - 17 books
+**_4._ _PROPHETICAL BOOKS_** - 17 books
 
 Q. Why are the prophets divided into the *Major Prophets* and *Minor
 Prophets?*
@@ -1648,165 +1349,23 @@ worshipping Darius, the king – Dan 6:22.
 
 **b. MINOR PROPHETS** (840 BC - 420 BC) – 12 books
 
-1\. Hosea 7. Nahum
+1. Hosea 7. Nahum
 
-2\. Joel 8. Habakkuk
+2. Joel 8. Habakkuk
 
-3\. Amos 9. Zephaniah
+3. Amos 9. Zephaniah
 
-4\. Obadiah 10. Haggai
+4. Obadiah 10. Haggai
 
-5\. Jonah 11. Zechariah
+5. Jonah 11. Zechariah
 
-6\. Micah 12. Malachi
+6. Micah 12. Malachi
 
-Review: **<u>The History of Israel & The Old Testament Books</u>**
-
-<table>
-<colgroup>
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="4" style="text-align: center;"><strong>BEGINNING OF
-ISRAEL</strong></td>
-<td colspan="2"><strong>JUDGES</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Promise</strong></td>
-<td style="text-align: center;"><strong>People/Law</strong></td>
-<td style="text-align: center;"><strong>40 yr. wait</strong></td>
-<td style="text-align: center;"><strong>Land</strong></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Genesis</strong></td>
-<td style="text-align: center;"><strong>Exodus</strong></td>
-<td style="text-align: center;"><strong>Numbers</strong></td>
-<td style="text-align: center;"><strong>Joshua</strong></td>
-<td><strong>Judges</strong></td>
-<td><strong>1 Samuel</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;">Job</td>
-<td style="text-align: center;">Leviticus</td>
-<td style="text-align: center;">Deuteronomy</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;">Ruth</td>
-<td style="text-align: center;"></td>
-</tr>
-<tr>
-<td style="text-align: center;">2300+ years</td>
-<td style="text-align: center;">430 years</td>
-<td style="text-align: center;">40 years</td>
-<td style="text-align: center;">25 years</td>
-<td colspan="2">400 years</td>
-</tr>
-</tbody>
-</table>
-
-<table style="width:100%;">
-<colgroup>
-<col style="width: 13%" />
-<col style="width: 13%" />
-<col style="width: 14%" />
-<col style="width: 12%" />
-<col style="width: 4%" />
-<col style="width: 14%" />
-<col style="width: 12%" />
-<col style="width: 13%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="3" style="text-align: center;"><strong>UNITED
-KINGDOM</strong></td>
-<td colspan="2" rowspan="2"
-style="text-align: center;"><p><strong>DIVIDED</strong></p>
-<p><strong>KINGDOM</strong></p>
-<p><strong>(Israel/Judah)</strong></p></td>
-<td rowspan="2"
-style="text-align: center;"><p><strong>BABYLONIAN</strong></p>
-<p><strong>CAPTIVITY</strong></p></td>
-<td colspan="2"><strong>RESTORATION</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Saul</strong></td>
-<td style="text-align: center;"><strong>David</strong></td>
-<td style="text-align: center;"><strong>Solomon</strong></td>
-<td><strong>Temple</strong></td>
-<td><strong>City Walls</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>1 Samuel</strong></td>
-<td style="text-align: center;"><strong>2 Samuel</strong></td>
-<td style="text-align: center;"><strong>1 Kings</strong></td>
-<td colspan="2" style="text-align: center;"><strong>1 &amp; 2
-Kings</strong></td>
-<td style="text-align: center;"><strong>2 Kings</strong></td>
-<td><strong>Ezra</strong></td>
-<td><strong>Nehemiah</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p>1 Chronicles</p>
-<p>Psalms</p></td>
-<td style="text-align: center;"><p>2 Chronicles</p>
-<p>Proverbs</p>
-<p>Ecclesiastes</p>
-<p>Song of Sol.</p></td>
-<td style="text-align: center;"><p>1Chronicles</p>
-<p>Obadiah</p>
-<p>Joel</p>
-<p>Jonah</p>
-<p>Amos</p>
-<p>Hosea</p>
-<p>Micah</p>
-<p>Isaiah</p>
-<p>Nahum</p>
-<p>Zephaniah</p>
-<p>Habakkuk</p>
-<p>Jeremiah</p>
-<p>Lamentations</p></td>
-<td style="text-align: center;"><p>E</p>
-<p>J</p>
-<p>A</p>
-<p>I</p>
-<p>I</p>
-<p>J</p>
-<p>J</p>
-<p>A</p>
-<p>J</p>
-<p>J</p>
-<p>J</p>
-<p>J</p></td>
-<td style="text-align: center;"><p>Ezekiel</p>
-<p>Daniel</p></td>
-<td style="text-align: center;"><p>Esther</p>
-<p>Haggai</p>
-<p>Zechariah</p></td>
-<td style="text-align: center;">Malachi</td>
-</tr>
-<tr>
-<td style="text-align: center;">40 years</td>
-<td style="text-align: center;">40 years</td>
-<td style="text-align: center;">40 years</td>
-<td colspan="2" style="text-align: center;">220 years</td>
-<td style="text-align: center;">70 years</td>
-<td>23 years</td>
-<td>19 years</td>
-</tr>
-</tbody>
-</table>
+Review: **_The History of Israel & The Old Testament Books_**
 
 \*\* Times are approximate Note: A=Assyria E=Edom I=Israel J=Judah
 
-**<u>Major events in the Old Testament</u>**
+**_Major events in the Old Testament_**
 
 4000 BC Creation
 
@@ -1832,9 +1391,12 @@ Kings</strong></td>
 
 536 BC Return - Ezra (city walls); Nehemiah (temple)
 
-**E. Christ in the O.T.**
 
-**1. Types**
+### E. Christ in the O.T.
+
+
+#### 1. Types
+
 
 Def. To prefigure; to represent in terms of typical characteristics.
 
@@ -1842,7 +1404,7 @@ a\. Passover lamb – Exodus 12:3-14
 
 b\. Bronze serpent - lifted up
 
-\(1\) O.T. (Numbers 21:7-9)
+\(1. O.T. (Numbers 21:7-9)
 
 *7 "So the people came to Moses and said, '**We have sinned**, because
 we have spoken against the Lord and you; intercede with the Lord, that
@@ -1857,93 +1419,33 @@ looks at it, he shall live.'***
 came about, that if a serpent bit any man, when he looked to the bronze
 serpent, he lived."*
 
-\(2\) N.T. (John 3:14)
+\(2. N.T. (John 3:14)
 
 *"And **as Moses lifted up the serpent in the wilderness, even so must
 the Son of Man be lifted up**; "*
 
-**2. Prophesies** - see table next page.
+
+#### 2. Prophesies
+
+*see table next page.*
+
 
 We will look at the prophecies when we discuss the “Inspiration of
 Scripture”, a few sections ahead.
-
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 74%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2" style="text-align: center;"><p><strong>PROPHECIES AND
-PICTURES</strong></p>
-<p><strong>OF CHRIST</strong></p>
-<p><strong>IN THE OLD TESTAMENT</strong></p></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Genesis</strong></td>
-<td style="text-align: center;">Christ promised through the Blessing of
-Abraham's line (Gen. 12:1-3)</td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Exodus</strong></td>
-<td style="text-align: center;"><p>A picture of redemption.</p>
-<p>The Passover lamb (Exo. 12; John 1:29;36)</p></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Leviticus</strong></td>
-<td style="text-align: center;">The priesthood: Christ is our perfect
-high priest (Heb. 9:11)</td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Numbers</strong></td>
-<td style="text-align: center;">Lifting up of the Bronze serpent (Num.
-21, John 3:14)</td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Deuteronomy</strong></td>
-<td style="text-align: center;">Moses as a <em>type</em> of Christ - a
-deliverer (Deut. 18:15, Acts 7:37)</td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Psalms</strong></td>
-<td style="text-align: center;"><p>Prophesy of Christ's crucifixion -
-hundreds of years before this form of execution even existed (Psalms
-22:1-18).</p>
-<p>Christ's resurrection (Psalms 16:10; Acts 13:35)</p></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Micah</strong></td>
-<td style="text-align: center;">Christ's birthplace predicted (Micah
-5:2)</td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Isaiah</strong></td>
-<td style="text-align: center;"><p>Virgin birth (Isaiah 7:14)</p>
-<p>Deity, power, governmental rule (Isaiah 9:6,7)</p>
-<p>Christ crucifixion - lamb led to slaughter (Isaiah 53:4-7)</p></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Zechariah</strong></td>
-<td style="text-align: center;">Christ's triumphful entry into Jerusalem
-(Zech. 9:9; John 12:12-15)</td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Daniel</strong></td>
-<td style="text-align: center;">Christ's future kingdom, dominion &amp;
-glory (Daniel 7:14)</td>
-</tr>
-</tbody>
-</table>
 
 **Geographical Locations and Distances in the New Testament**
 
 ![](media/image1.wmf)
 
-**IV. INTER-TESTAMENT PERIOD**
 
-**A. NOTE: 400 Silent years**
+## IV. INTER-TESTAMENT PERIOD
 
-**B. Major empires**
+
+### A. NOTE: 400 Silent years
+
+
+### B. Major empires
+
 
 ⮚ Egypt ........ 1600 B.C. to 1200 B.C.
 
@@ -1957,37 +1459,50 @@ glory (Daniel 7:14)</td>
 
 ⮚ Roman ....... 50 B.C. to present
 
-**V. NEW TESTAMENT**
 
-**A. General**
+## V. NEW TESTAMENT
 
-1\. Written from AD 50's - AD 90's
 
-2\. First book written - Mark - AD 50
+### A. General
 
-3\. Last book written - Revelation - AD 90
 
-4\. Council of Carthage (AD 397) - as we know it today
+1. Written from AD 50's - AD 90's
 
-**B. Divisions**
+2. First book written - Mark - AD 50
 
-1\. 5 Historical
+3. Last book written - Revelation - AD 90
 
-2\. 21 Letters/ Epistles
+4. Council of Carthage (AD 397) - as we know it today
 
-3\. 1 Prophetic
 
-**C. Setting** - map (overheads)
+### B. Divisions
 
-1\. Jerusalem - Nazareth - 23 mi.
 
-2\. Jerusalem - Bethlehem - 6 mi.
+1. 5 Historical
 
-**D. THE GOSPELS**
+2. 21 Letters/ Epistles
 
-**1. First 4 history books**
+3. 1 Prophetic
 
-**2. Synoptic Gospels**
+
+### C. Setting
+
+*map (overheads)*
+
+
+1. Jerusalem - Nazareth - 23 mi.
+
+2. Jerusalem - Bethlehem - 6 mi.
+
+
+### D. THE GOSPELS
+
+
+#### 1. First 4 history books
+
+
+#### 2. Synoptic Gospels
+
 
 Q. What does Gospel mean? ... Good news!
 
@@ -1999,13 +1514,15 @@ Q. What does synoptic mean?
 
 **3. Supplemental Gospel:** John
 
-**4. Brief overview of each Gospel**
+
+#### 4. Brief overview of each Gospel
+
 
 **a. MATTHEW**
 
 **(1) Author:** Tax collector; Apostle of Christ (AD 60)
 
-**(2) Presents Christ as <u>King</u>**
+**(2) Presents Christ as _King_**
 
 \(a\) Genealogy of Christ
 
@@ -2048,7 +1565,7 @@ burden.'"*
 
 **(1) Author:** Foreign missionary; disciple of Peter (AD 50)
 
-**(2) Presents Christ as <u>servant</u>**
+**(2) Presents Christ as _servant_**
 
 \(a\) Christ came to serve - Mark 10:43-45
 
@@ -2078,7 +1595,7 @@ his soul?*
 
 **(1) Author:** Physician; disciple of Paul (AD 85/ AD 90)
 
-**(2) Presents Christ as the <u>"Son of Man"</u>** (Christ humanity &
+**(2) Presents Christ as the _"Son of Man"_** (Christ humanity &
 compassion)
 
 \(a\) Longest book in the N.T. – Luke and Acts (written by Luke)
@@ -2125,13 +1642,15 @@ verses.
 
 ⮚ *".. before Abraham was born, I am."* (8:58)
 
-**5. Major events in the Gospels**
+
+#### 5. Major events in the Gospels
+
 
 a\. Birth - Matthew/ Luke
 
 b\. John the Baptist/ Christ's baptism (30 yrs old)
 
-c\. Temptations - 3 (Hunger (40 days); power - all nations) Matt. 4
+c\. Temptations - 3 (Hunger (40 days); power - all nations) Matt
 
 d\. Choosing of the 12 disciples --\> Apostles
 
@@ -2149,25 +1668,27 @@ j\. Christ’s arrest, trial, crucifixion and burial
 
 k\. Christ’s resurrection, appearances, and ascension
 
-**6. What did Christ say?**
+
+#### 6. What did Christ say?
+
 
 **a. Sermon on the Mount**
 
-\(1\) Theme - Christ's standard for righteousness
+\(1. Theme - Christ's standard for righteousness
 
-\(2\) Matthew 5:48
+\(2. Matthew 5:48
 
 *"Therefore you are to be perfect, as your heavenly Father is perfect."*
 
 **b. Olivet Discourse**
 
-\(1\) Matthew 24-25
+\(1. Matthew 24-25
 
-\(2\) Preached on the Mount of Olives
+\(2. Preached on the Mount of Olives
 
 A North-South, 2 mi. ridge, just east of Jerusalem
 
-\(3\) Contents
+\(3. Contents
 
 ⮚ The destruction of the temple
 
@@ -2175,7 +1696,9 @@ A North-South, 2 mi. ridge, just east of Jerusalem
 
 ⮚ Judgement at Christ's 2nd coming
 
-**7. What was the response of the Jewish people to Christ?**
+
+#### 7. What was the response of the Jewish people to Christ?
+
 
 **a. They rejected Him** - Mark 8:31
 
@@ -2183,13 +1706,17 @@ A North-South, 2 mi. ridge, just east of Jerusalem
 and be **rejected by the elders and the chief priests and the scribes,
 and be killed**, and after three days rise again."*
 
-**Q. What is the response of the world today?**
+
+### Q. What is the response of the world today?
+
 
 **E. ACTS (of the Apostles**)
 
 **1. Author:** Physician; disciple of Paul (AD 85/ AD 90)
 
-**2. Contents:**
+
+#### 2. Contents:
+
 
 a\. History of the Early Church
 
@@ -2204,8 +1731,7 @@ e\. Expansion of Gospel (Stephen, Phillip) - ch 8-12 .. Judea, Sumaria
 f\. Paul - chapters 13-28 ..........................…....... To the
 Gentile world
 
-**3. NOTE: This is a transitional book from <u>Judaism to the Church of
-Christ</u>.**
+Christ_.**
 
 \- Not a doctrinal book.
 
@@ -2215,95 +1741,14 @@ Christ</u>.**
 would be renamed Paul, by Christ Himself. Paul would go on to take the
 Gospel to the Gentiles and write the most books of the N.T.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>Aside on PAUL</strong></td>
-</tr>
-<tr>
-<td style="text-align: left;"><p>1. Roman Citizen</p>
-<p>2. Hebrew</p>
-<p>3. Pharisee .... Leader in Jewish religion</p>
-<p>4. Student of Gamaliel (distinguished teacher of the law)</p>
-<p>5. A Jew's Jew</p>
-<p>6. Persecuted the Church of Christ - Acts 8:1</p>
-<p><em>"And <strong>Saul was in hearty agreement with putting him to
-death</strong>. And on that day a <strong>great persecution arose
-against the church</strong> in Jerusalem; and they were all scattered
-throughout the regions of Judea and Samaria, except the
-apostles."</em></p>
-<p>7. God chose Paul (commissioned to the Gentiles) - Acts 9:1-15</p>
-<p><em>“But the Lord said to him, ‘Go, for <strong>he is a chosen
-instrument of Mine, to bear My name before the Gentiles and kings and
-the sons of Israel</strong>;’”</em></p>
-<p>8. Tent maker</p>
-<p>9. Made 3 missionary journeys, founding churches throughout what is
-now Turkey &amp; Greece.</p>
-<p>10. Wrote 13 books of the N.T.</p>
-<p>11. Arrested twice</p>
-<p>12. Died by decapitation - according to tradition</p></td>
-</tr>
-</tbody>
-</table>
 
-<table style="width:96%;">
-<colgroup>
-<col style="width: 96%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="text-align: center;"><p><strong>Paul's Conversion on the
-Damascus Road</strong></p>
-<p><strong>Acts 9:1-15</strong></p></td>
-</tr>
-<tr>
-<td style="text-align: center;"><p>1 <em>"Now Saul, still
-<strong>breathing threats and murder against the disciples of the
-Lord</strong>, went to the high priest,</em></p>
-<p>2 <em>and asked for letters from him to the synagogues at Damascus,
-so that if he found any belonging to the Way, both men and women, he
-might bring them bound to Jerusalem.</em></p>
-<p>3 <em>And it came about that as he journeyed, he was approaching
-Damascus, and suddenly a <strong>light from heaven flashed around
-him</strong>;</em></p>
-<p>4 <em>and he fell to the ground, and heard a voice saying to him,
-"Saul, Saul, why are you persecuting Me?"</em></p>
-<p>5 <em>And he said, "Who art Thou, Lord?" And He said, "I am Jesus
-whom you are persecuting,</em></p>
-<p>6 <em>but rise, and enter the city, and it shall be told you what you
-must do. "</em></p>
-<p>7 <em>And the <strong>men who traveled with him stood speechless,
-hearing the voice, but seeing no one</strong>.</em></p>
-<p>8 <em>And Saul got up from the ground, and though his eyes were open,
-<strong>he could see nothing</strong>; and leading him by the hand, they
-brought him into Damascus.</em></p>
-<p>9 <em>And he was three days without sight, and neither ate nor
-drank.</em></p>
-<p>10 <em>Now there was a certain disciple at Damascus, named Ananias;
-and the Lord said to him in a vision, "Ananias." And he said, "Behold,
-here am I, Lord."</em></p>
-<p>11 <em>And the Lord said to him, "Arise and go to the street called
-Straight, and inquire at the house of Judas for a man from Tarsus named
-Saul, for behold, he is praying,</em></p>
-<p>12 <em>and he has seen in a vision a man named Ananias come in and
-lay his hands on him, so that he might regain his sight. "</em></p>
-<p>13 <em>But Ananias answered, "Lord, I have heard from many about this
-man, how much harm he did to Thy saints at Jerusalem;</em></p>
-<p>14 <em>and here he has authority from the chief priests to bind all
-who call upon Thy name.</em></p>
-<p>15 <em>But the Lord said to him, "Go, for <strong>he is a chosen
-instrument of Mine, to bear My name before the Gentiles and kings and
-the sons of Israel</strong>;</em></p></td>
-</tr>
-</tbody>
-</table>
+### F. LETTERS or EPISTLES
 
-**F. LETTERS or EPISTLES** - Next 21 books
+*Next 21 books*
 
-**1. Doctrinal books**
+
+#### 1. Doctrinal books
+
 
 a\. What do I mean by doctrinal books?
 
@@ -2312,7 +1757,9 @@ a\. What do I mean by doctrinal books?
 b\. On the Doctrinal books is built the foundation of the Fundamentals
 of the Faith.
 
-**2. Pauline letters – 13**
+
+#### 2. Pauline letters – 13
+
 
 These were letters written to various churches that Paul had planted
 throughout the Mediterranean region; or written to people.
@@ -2365,18 +1812,20 @@ the faith;"*
 
 *"Be imitators of me, just as I also am of Christ."*
 
-<u>Application: This is discipleship …</u> Q. Can we say this of
+_Application: This is discipleship …_ Q. Can we say this of
 ourselves?
 
-**3. General Letters**
+
+#### 3. General Letters
+
 
 **a. HEBREWS**
 
-\(1\) Author: Unknown
+\(1. Author: Unknown
 
-\(2\) Superiority of Jesus Christ
+\(2. Superiority of Jesus Christ
 
-\(3\) The person and priesthood of Christ - Hebrews 4:15
+\(3. The person and priesthood of Christ - Hebrews 4:15
 
 *"For we do not have a high priest who cannot sympathize with our
 weaknesses, but One who has been tempted in all things as we are, yet
@@ -2384,15 +1833,15 @@ without sin."*
 
 **b. JAMES**
 
-\(1\) Author: Brother of Jesus (See next page on the brothers of Jesus)
+\(1. Author: Brother of Jesus (See next page on the brothers of Jesus)
 
 Carpenter or fisherman
 
-\(2\) The characteristics of true faith.
+\(2. The characteristics of true faith.
 
-\(3\) Very practical
+\(3. Very practical
 
-\(4\) Challenges the reader to examine their own faith - James 2:14-17
+\(4. Challenges the reader to examine their own faith - James 2:14-17
 
 *14 "What use is it, my brethren, if a man says he has faith, but he has
 no works? Can that faith save him?*
@@ -2409,79 +1858,28 @@ is that?*
 **Note:** James was a brother of Jesus. Jesus had several brothers and
 sisters (See next page.)
 
-<table style="width:96%;">
-<colgroup>
-<col style="width: 96%" />
-</colgroup>
-<tbody>
-<tr>
-<td><strong>ASIDE on "THE BROTHERS &amp; SISTERS OF
-CHRIST"</strong></td>
-</tr>
-<tr>
-<td><p>► <strong>Brothers</strong> - Matthew 12:46</p>
-<p><em>"While He was still speaking to the multitudes, behold, His
-mother and <strong>brothers</strong> were standing outside, seeking to
-speak to Him."</em></p>
-<p>► <strong>Brothers (James, Joseph, Simon &amp; Judas) &amp;
-Sisters</strong> - Matthew 13:55,56</p>
-<p><em>55 "'Is not this the carpenter's son? Is not His mother called
-Mary, and His <strong>brothers, James and Joseph and Simon and
-Judas</strong>?</em></p>
-<p><em>56 And His <strong>sisters</strong>, are they not all with us?
-Where then did this man get all these things?'"</em></p>
-<p>► <strong>Brothers (James, Joses, Judas &amp; Simon) &amp;
-Sisters</strong> - Mark 6:3</p>
-<p><em>"'Is not this the carpenter, the son of Mary, and <strong>brother
-of James, and Joses, and Judas, and Simon</strong>? Are not His
-<strong>sisters</strong> here with us?' And they took offense at
-Him."</em></p>
-<p>► <strong>Brothers</strong> - John 7:3,5,10</p>
-<p><em>3 His <strong>brothers</strong> therefore said to Him, "Depart
-from here, and go into Judea, that Your disciples also may behold Your
-works which You are doing.</em></p>
-<p><em>5 For not even His <strong>brothers</strong> were believing in
-Him.</em></p>
-<p><em>10 But when His <strong>brothers</strong> had gone up to the
-feast, then He Himself also went up, not publicly, but as it were, in
-secret.</em></p>
-<p>► <strong>Brothers</strong> - Acts 1:14</p>
-<p><em>"These all with one mind were continually devoting themselves to
-prayer, along with the women, and Mary the mother of Jesus, and with His
-<strong>brothers</strong>."</em></p>
-<p>► <strong>Brothers</strong> - 1 Cor. 9:5</p>
-<p><em>"Do we not have a right to take along a believing wife, even as
-the rest of the apostles, and the <strong>brothers</strong> of the Lord,
-and Cephas?"</em></p>
-<p>► <strong>James (the Apostle) - Brother</strong> - Galatians 1:19</p>
-<p><em>"But I did not see any other of the apostles except James, the
-Lord's brother."</em></p></td>
-</tr>
-</tbody>
-</table>
-
 **c. 1 PETER**
 
-\(1\) Author: Apostle of Christ - fisherman
+\(1. Author: Apostle of Christ - fisherman
 
-\(2\) An encouragement to stand firm in the midst of persecution.
+\(2. An encouragement to stand firm in the midst of persecution.
 
 To imitate Jesus Christ, as our model, even in the midst of suffering.
 
 **d. 2 PETER**
 
-\(1\) Warning to believers about False Teachers.
+\(1. Warning to believers about False Teachers.
 
-\(2\) Exhortation to grow in true knowledge of Christ - to overcome
+\(2. Exhortation to grow in true knowledge of Christ - to overcome
 false teachers.
 
 **e. 1 JOHN**
 
-\(1\) Author: Apostle of Christ - fisherman
+\(1. Author: Apostle of Christ - fisherman
 
 Also the write of the Gospel of John.
 
-\(2\) The fellowship between God and Christians.
+\(2. The fellowship between God and Christians.
 
 ⮚ He is a God of love - so we must love the brethren
 
@@ -2501,15 +1899,17 @@ Also the write of the Gospel of John.
 
 **h. JUDE**
 
-\(1\) Author: Brother of Christ - carpenter?
+\(1. Author: Brother of Christ - carpenter?
 
-\(2\) Condemn heretics - one who professes to be a Christian belief but
+\(2. Condemn heretics - one who professes to be a Christian belief but
 upholds false doctrines.
 
-\(3\) The defense against false teachers - stand firm & contend for the
+\(3. The defense against false teachers - stand firm & contend for the
 truth.
 
-**G. REVELATION**
+
+### G. REVELATION
+
 
 **(1) Author:** John, an Apostle of Christ - fisherman
 
@@ -2527,269 +1927,31 @@ d\. Judgement - great white throne
 
 e\. Heaven
 
-**H. SUMMARY CHART OF THE NEW TESTAMENT** - Next page
+
+### H. SUMMARY CHART OF THE NEW TESTAMENT
+
+*Next page*
+
 
 **Snapshot of the New Testament Books**
 
-<table>
-<colgroup>
-<col style="width: 4%" />
-<col style="width: 5%" />
-<col style="width: 1%" />
-<col style="width: 1%" />
-<col style="width: 7%" />
-<col style="width: 8%" />
-<col style="width: 8%" />
-<col style="width: 7%" />
-<col style="width: 7%" />
-<col style="width: 7%" />
-<col style="width: 7%" />
-<col style="width: 8%" />
-<col style="width: 8%" />
-<col style="width: 8%" />
-<col style="width: 9%" />
-</colgroup>
-<thead>
-<tr>
-<th></th>
-<th colspan="4" style="text-align: center;"><strong>Christ on
-Earth</strong></th>
-<th colspan="9" style="text-align: center;"><strong>The Church of
-Christ</strong></th>
-<th style="text-align: center;"><p><strong>Return of</strong></p>
-<p><strong>Christ</strong></p></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td></td>
-<td colspan="14"></td>
-</tr>
-<tr>
-<td rowspan="7" style="text-align: center;"><blockquote>
-<p>Historical Books</p>
-</blockquote></td>
-<td colspan="4"
-style="text-align: center;"><strong>Matthew</strong></td>
-<td colspan="6" style="text-align: center;"><strong>Acts: The Acts of
-the Apostles</strong></td>
-<td colspan="3"></td>
-<td rowspan="6" style="text-align: center;"><p>Future</p>
-<p>Events</p>
-<p>Tribulation</p>
-<p>Kingdom</p>
-<p>Judgement</p></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2" style="text-align: center;"><strong>Mark</strong></td>
-<td colspan="2" style="text-align: center;">Beginning of the Church</td>
-<td colspan="7" style="text-align: center;">The Expansion of the
-Church</td>
-</tr>
-<tr>
-<td colspan="4" style="text-align: center;"><strong>Luke</strong></td>
-<td style="text-align: center;">Jews</td>
-<td style="text-align: center;">Samaritans</td>
-<td colspan="6" style="text-align: center;">Paul's Ministry to the
-Gentiles</td>
-<td rowspan="3" style="text-align: center;"></td>
-</tr>
-<tr>
-<td colspan="2" rowspan="2"></td>
-<td rowspan="2" style="text-align: center;"></td>
-<td rowspan="2" style="text-align: center;"><strong>John</strong></td>
-<td rowspan="2" style="text-align: center;">Peter</td>
-<td rowspan="2" style="text-align: center;">Philip</td>
-<td colspan="3" style="text-align: center;">Paul's Missionary
-Journeys</td>
-<td rowspan="2" style="text-align: center;"><p>Paul in</p>
-<p>Prison</p>
-<p>(1st time)</p></td>
-<td rowspan="2" style="text-align: center;">Paul Free</td>
-<td rowspan="2" style="text-align: center;"><p>Paul in</p>
-<p>Prison</p>
-<p>(2nd time)</p></td>
-</tr>
-<tr>
-<td style="text-align: center;">1</td>
-<td style="text-align: center;">2</td>
-<td style="text-align: center;">3</td>
-</tr>
-<tr>
-<td style="text-align: center;">Birth</td>
-<td style="text-align: center;"></td>
-<td colspan="2" style="text-align: center;"><p>Christ’s</p>
-<p>Ministry</p></td>
-<td style="text-align: center;">Jerusalem</td>
-<td style="text-align: center;"><p>Judea &amp;</p>
-<p>Samaria</p></td>
-<td colspan="7" style="text-align: center;">Uttermost Parts of the
-Earth</td>
-</tr>
-<tr>
-<td colspan="2" style="text-align: center;">33 years</td>
-<td colspan="2" style="text-align: center;">3½ years</td>
-<td style="text-align: center;">2 years</td>
-<td style="text-align: center;">13 years</td>
-<td colspan="3" style="text-align: center;">9 years</td>
-<td style="text-align: center;">5 years</td>
-<td style="text-align: center;">5 years</td>
-<td style="text-align: center;">1 year</td>
-<td style="text-align: center;">1900+ years</td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"><blockquote>
-<p>4BC AD</p>
-</blockquote></td>
-<td colspan="2">29 AD</td>
-<td>33 AD</td>
-<td>35 AD</td>
-<td>48 AD</td>
-<td>50 AD</td>
-<td>53 AD</td>
-<td>57 AD</td>
-<td>62 AD</td>
-<td>67 AD</td>
-<td>68</td>
-<td>? Future</td>
-</tr>
-<tr>
-<td colspan="4" rowspan="5" style="text-align: center;"><p>Pauline</p>
-<p>Epistles</p></td>
-<td colspan="3" rowspan="5"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>Galatians</strong></td>
-<td style="text-align: center;"><strong>1 Thess.</strong></td>
-<td style="text-align: center;"><strong>1 Cor.</strong></td>
-<td style="text-align: center;"><strong>Ephesians</strong></td>
-<td style="text-align: center;"><strong>1 Timothy</strong></td>
-<td style="text-align: center;"><strong>2 Timothy</strong></td>
-<td rowspan="4" style="text-align: center;"></td>
-<td rowspan="4"></td>
-</tr>
-<tr>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><strong>2 Thess.</strong></td>
-<td style="text-align: center;"><strong>2 Cor.</strong></td>
-<td style="text-align: center;"><strong>Colosians</strong></td>
-<td style="text-align: center;"><strong>Titus</strong></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><strong>Romans</strong></td>
-<td style="text-align: center;"><strong>Philippians</strong></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><strong>Philemon</strong></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr>
-<td colspan="4" rowspan="4" style="text-align: center;"><p>General</p>
-<p>Epistles</p></td>
-<td colspan="3" rowspan="4"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td rowspan="4"></td>
-</tr>
-<tr>
-<td style="text-align: center;"><strong>James</strong></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><strong>1 Peter</strong></td>
-<td style="text-align: center;"><strong>Hebrews</strong></td>
-<td style="text-align: center;"><strong>1 John</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><strong>2 Peter</strong></td>
-<td style="text-align: center;"><strong>Jude</strong></td>
-<td style="text-align: center;"><strong>2 John</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><strong>3 John</strong></td>
-</tr>
-<tr>
-<td colspan="4" rowspan="3" style="text-align: center;">Prophetic</td>
-<td colspan="3" rowspan="3" style="text-align: center;"></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="text-align: center;"><strong>Revelation</strong></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
-**VI. APPLICATION of BIBLE SURVEY**
+## VI. APPLICATION of BIBLE SURVEY
 
-**A. Use Summary chart of the Bible (Previous page).**
 
-**B. God's Chosen people**
+### A. Use Summary chart of the Bible (Previous page).
 
-1\. The Nation Israel was chosen to represent God on earth.
+
+### B. God's Chosen people
+
+
+1. The Nation Israel was chosen to represent God on earth.
 
 They are God's chosen people & He has not discarded them.
 
 They are still God's chosen people.
 
-2\. We as Christians have also become a chosen nation - 1 Peter 2:9,10
+2. We as Christians have also become a chosen nation - 1 Peter 2:9,10
 
 *9 "But **you are a chosen race, a royal priesthood, a holy nation, a
 people for God's own possession**, that you may proclaim the
@@ -2801,19 +1963,24 @@ you had not received mercy, but now you have received mercy."*
 
 ⮚ We need to proclaim the message of redemption to all nations.
 
-**C. The Bible declares that Christ is coming back to earth again!**
+
+### C. The Bible declares that Christ is coming back to earth again!
+
 
 Questions to ask yourself:
 
-1\. Are you ready?
+1. Are you ready?
 
-2\. Are you *fighting the good fight*, like Paul? (2 Timothy 4:7, above)
+2. Are you *fighting the good fight*, like Paul? (2 Timothy 4:7, above)
 
-**VII. THE INSPIRATION OF THE BIBLE**
 
-**A. Introduction**
+## VII. THE INSPIRATION OF THE BIBLE
 
-1\. We talked about Revelation:
+
+### A. Introduction
+
+
+1. We talked about Revelation:
 
 ⮚ Natural revelation
 
@@ -2822,7 +1989,7 @@ Questions to ask yourself:
 **Definition:** The act of God whereby He discloses to man what would
 otherwise be unknown.
 
-2\. Now we want to talk about **<u>Inspiration</u>**.
+2. Now we want to talk about **_Inspiration_**.
 
 **Definition:** Inspiration involves God overseeing and directing men to
 write His words. It is a process by which God, as the instigator, worked
@@ -2833,7 +2000,7 @@ and styles, to produce divinely authoritative writings.
 “Theopnestos” actually means *God breathed*. It is God breathing out His
 word.
 
-3\. Note: Revelation is God revealing Himself to us.
+3. Note: Revelation is God revealing Himself to us.
 
 Inspiration is how He did it!
 
@@ -2856,19 +2023,6 @@ Inspiration is how He did it!
 What is your concept of the Bible?
 
 Q. Do you believe the Bible is the Inspired word of God?
-
-<table style="width:99%;">
-<colgroup>
-<col style="width: 98%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h1
-id="foundational-thoughts-on-the-inspiration-of-the-bible">Foundational
-Thoughts on the Inspiration of the Bible</h1></td>
-</tr>
-</tbody>
-</table>
 
 It is important to understand from the outset that God has revealed His
 word to us. We have accepted it as His inspired word because of the
@@ -2923,7 +2077,9 @@ of man back into the presence of God.) Moreover, the prophesies of the
 return of Christ and the events of the end times, leads one to believe
 that Rev. 22:18-19 is the end of the Canon.
 
-**B. Divine sovereignty**
+
+### B. Divine sovereignty
+
 
 **First and always:**
 
@@ -2933,13 +2089,21 @@ Himself through the various Special Revelations, covered in section I,
 above. He chose to give us His word in the writings of the Bible.
 Moreover, He promises that His word will be preserved – for all time.
 
-**1. God is in total control of all things** - Isaiah 46:10
+
+#### 1. God is in total control of all things
+
+*Isaiah 46:10*
+
 
 *“Declaring the end from the beginning And from ancient times things
 which have not been done, Saying,' **My purpose will be established, And
 I will accomplish all My good pleasure**';”*
 
-**2. God will preserve His word** – Isa. 40:8; Mat. 5:18; 1Pet 1:25
+
+#### 2. God will preserve His word
+
+*Isa. 40:8; Mat. 5:18; 1Pet 1:25*
+
 
 a\. Isaiah 40:8
 
@@ -2962,13 +2126,15 @@ c\. 1 Peter 1:25
 | **Important** |
 | Man does not determine what Books are God's word. Man just discovers what God has already accomplished in revealing His word to man. |
 
-**C. Witness of the Holy Spirit**
+
+### C. Witness of the Holy Spirit
+
 
 Moreover, we believe the Bible is the inspired Word of God because the
 Holy Spirit has used it to convict us, save us and teach us. We have
 also witnessed this in the lives of others.
 
-1\. **The Word of God is able to lead one to salvation** – the Gospel,
+1. **The Word of God is able to lead one to salvation** – the Gospel,
 as presented in the Bible, says it will change lives – and people give
 testimony to this truth.
 
@@ -2978,24 +2144,30 @@ testimony to this truth.
 able to give you the wisdom that leads to salvation** through faith
 which is in Christ Jesus."*
 
-2\. **Convicts and judges our thoughts & heart** – Hebrews 4:12
+2. **Convicts and judges our thoughts & heart** – Hebrews 4:12
 
 *"For **the word of God** is **living and active** and sharper than any
 two-edged sword, and piercing as far as the division of soul and spirit,
 of both joints and marrow, and **able to judge the thoughts and
 intentions of the heart**.”*
 
-**D. The Bible Claims to be the inspired word of God**
 
-**Let us look at the claim ...**
+### D. The Bible Claims to be the inspired word of God
 
-**1. Paul's message to the Thessalonians was from God** - 1 Thess. 2:13
+
+**Let us look at the claim
+
+
+#### 1. Paul's message to the Thessalonians was from God
+
+*1 Thess. 2:13*
+
 
 **Moreover, it has transforming power**
 
 *"And for this reason we also constantly thank God that when you
 received from us the word of God's message, you accepted it **not as the
-word of men, but for what it really is, the <u>word of God</u>**, which
+word of men, but for what it really is, the _word of God_**, which
 also performs its work in you who believe."*
 
 Q. How was Paul’s message accepted? ... as the word of God
@@ -3009,7 +2181,11 @@ inspired word of God. It would have power.
 Q. Have you experienced the transforming power of God's word in your
 life? How about your salvation?
 
-**2. The Gospel is from God** - Galatians 1:11,12
+
+#### 2. The Gospel is from God
+
+*Galatians 1:11,12*
+
 
 *11 "For I would have you know, brethren, that **the gospel** which was
 preached by me **is not according to man**.*
@@ -3025,7 +2201,9 @@ Q. How did Paul receive the Gospel?
 
 *… through a revelation of Jesus Christ*
 
-**3. The Bible claims to be the spoken word of God:**
+
+#### 3. The Bible claims to be the spoken word of God:
+
 
 a\. Statements: “God said ...”, “The Lord said …”, (over 300 times)
 
@@ -3054,13 +2232,17 @@ The Scripture (words) - not the authors.
 
 Q. How much of the Scripture is inspired? ... ALL!
 
-**5. The prophets wrote and did not know what they wrote!** - 1 Peter
+
+#### 5. The prophets wrote and did not know what they wrote!
+
+*1 Peter*
+
 1:10,11
 
 *10 "As to this salvation, **the prophets who prophesied** of the grace
 that would come to you **made careful search and inquiry**,*
 
-*11 **<u>seeking to know</u>** what person or time the Spirit of Christ
+*11 **_seeking to know_** what person or time the Spirit of Christ
 within them was indicating as He predicted the sufferings of Christ and
 the glories to follow."*
 
@@ -3070,18 +2252,21 @@ salvation through grace.
 Q. However, after they prophesied what did they do? (end of vs. 10 & vs.
 11)
 
-... they *"searched"* what they prophesied *"seeking to know"*
 
 Q. Why would the prophets search their own writings for information?
 
-...they were given the words but not the full understanding of what it
 meant.
 
 Q. How many things have you written and not known what you meant?
 
-**E. The Holy Spirit is the key to Inspiration**
 
-**1. Paul received revelation from God** - 1 Corinthians 2:12-13
+### E. The Holy Spirit is the key to Inspiration
+
+
+#### 1. Paul received revelation from God
+
+*1 Corinthians 2:12-13*
+
 
 *12 "Now **we have received**, not the spirit of the world, but **the
 Spirit** who is from God, **that we might know** the things freely given
@@ -3089,7 +2274,7 @@ to us by God,*
 
 *13 which things **we also speak**, not in words taught by human wisdom,
 but in those taught by the Spirit, combining spiritual thoughts with
-**spiritual <u>words</u>**.”*
+**spiritual _words_**.”*
 
 Q. Who was the source of Paul’s message? … the Spirit
 
@@ -3100,7 +2285,11 @@ At the end of verse 13 what did Paul speak?
 
 *… spiritual thoughts with **spiritual words***
 
-**2. Samuel experienced God speaking through him** - 2 Samuel 23:2-3
+
+#### 2. Samuel experienced God speaking through him
+
+*2 Samuel 23:2-3*
+
 
 *2 “The Spirit of the Lord spoke by me, And **His word was on my
 tongue**.*
@@ -3110,11 +2299,15 @@ who rules over men righteously, Who rules in the fear of God,”*
 
 Q. Who was the source of Samuel's message? ... the Lord
 
-Note: Samuel was given <u>words</u>.
+Note: Samuel was given _words_.
 
-**3. No prophecy except by the Holy Spirit** - 2 Peter 1:20,21
 
-*20 "But know this first of all, that no <u>prophecy of Scripture</u> is
+#### 3. No prophecy except by the Holy Spirit
+
+*2 Peter 1:20,21*
+
+
+*20 "But know this first of all, that no _prophecy of Scripture_ is
 a matter of one's own interpretation,*
 
 *21 for **no prophecy was ever made by an act of human will, but men
@@ -3130,11 +2323,19 @@ The prophet was *"moved by the Holy Spirit"*
 
 Q. Who will was being exibited? vs. 21 … God’s
 
-**F. Verbal Plenary Inspiration**
 
-**1. Verbal** - the words
+### F. Verbal Plenary Inspiration
 
-**2. Plenary** - the whole
+
+#### 1. Verbal
+
+*the words*
+
+
+#### 2. Plenary
+
+*the whole*
+
 
 a\. “*No prophesy (of Scripture) ever made, but … by the Holy Spirit”*
 
@@ -3142,7 +2343,9 @@ a\. “*No prophesy (of Scripture) ever made, but … by the Holy Spirit”*
 
 b\. *All Scripture is inspired by God* (2 Timothy 3:16)
 
-**G. Parallel passages**
+
+### G. Parallel passages
+
 
 (support the claim that the Bible was authored by God)
 
@@ -3150,7 +2353,7 @@ The following parallel passages are NT quotes of OT passages. But when
 reading the NT passage, the author of each OT passage is referred to as
 God!
 
-1\. **Psalms 16:7-10** - The Psalmist (David) writes
+1. **Psalms 16:7-10** - The Psalmist (David) writes
 
 *7 "I will bless the Lord who has counseled me; Indeed, my mind
 instructs me in the night.*
@@ -3180,58 +2383,7 @@ and sure blessings of David.'*
 *35 Therefore He also says in another Psalm, **'Thou wilt not allow Thy
 Holy One to undergo decay**.'*
 
-2\. Other parallel passages:
-
-<table style="width:100%;">
-<colgroup>
-<col style="width: 30%" />
-<col style="width: 17%" />
-<col style="width: 32%" />
-<col style="width: 19%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="2"><strong>Old Testament Designations</strong></td>
-<td colspan="2"><strong>New Testament Designation</strong></td>
-</tr>
-<tr>
-<td>The psalmist said</td>
-<td>Psalm 95:7</td>
-<td>The Holy Spirit says</td>
-<td>Hebrews 3:7</td>
-</tr>
-<tr>
-<td>The psalmist said</td>
-<td>Psalm 45:6,7</td>
-<td>God said</td>
-<td>Hebrews 1:8,9</td>
-</tr>
-<tr>
-<td>The psalmist said</td>
-<td>Psalm 102:25,27</td>
-<td>God said</td>
-<td>Hebrews 1:10-12</td>
-</tr>
-<tr>
-<td>Isaiah said</td>
-<td>Isaiah 7:14</td>
-<td>The Lord spoke by the prophet</td>
-<td>Matthew 1:22-23</td>
-</tr>
-<tr>
-<td>Hosea said</td>
-<td>Hosea 11:1</td>
-<td>The Lord spoke by the prophet</td>
-<td>Matthew 2:15</td>
-</tr>
-<tr>
-<td>Narrator's comments in Genesis</td>
-<td>Genesis 2:24</td>
-<td>God said</td>
-<td>Matthew 19:3-6</td>
-</tr>
-</tbody>
-</table>
+2. Other parallel passages:
 
 **Another Example from table:**
 
@@ -3259,9 +2411,12 @@ companions.'"
 | **CONCLUSION**                           |
 | THE BIBLE CLAIMS TO BE THE WORD OF GOD ! |
 
-**VIII. CANONICITY – HOW WERE THE BOOKS OF THE CANON DECIDED UPON?**
 
-**A. The formation of the Canon:**
+## VIII. CANONICITY – HOW WERE THE BOOKS OF THE CANON DECIDED UPON?
+
+
+### A. The formation of the Canon:
+
 
 **1. Divine Sovereignty** (see section VII.B, above)
 
@@ -3271,78 +2426,84 @@ a\. The Holy Spirit superintended the writing of the books
 
 b\. The Holy Spirit providentially collected and preserved the writings.
 
-**2. Human Responsibility**
+
+#### 2. Human Responsibility
+
 
 a\. The Church does not determine the Canon
 
 b\. The Church recognizes and receives the Canon
 
-**B. Why these 66 books?**
 
-1\. The testimony of God the Holy Spirit to the authority of His own
+### B. Why these 66 books?
+
+
+1. The testimony of God the Holy Spirit to the authority of His own
 Word.
 
-2\. Prophetic authorship - 2 Peter 1:20-21
+2. Prophetic authorship - 2 Peter 1:20-21
 
-3\. Providential Care - Isa. 40:8; Mat. 5:18; 1Pet 1:25 (see VI.B.2,
+3. Providential Care - Isa. 40:8; Mat. 5:18; 1Pet 1:25 (see VI.B.2,
 above).
 
-4\. Validation by Christ (Luke 24:44; Luke 11:51; Matt. 4:4; 4:7; 4:10,
+4. Validation by Christ (Luke 24:44; Luke 11:51; Matt. 4:4; 4:7; 4:10,
 etc.)
 
 (see section IX.A.8, below)
 
-5\. God's people responding in recognition, faith and submission.
+5. God's people responding in recognition, faith and submission.
 
-6\. The books claim to be the Word of God.
+6. The books claim to be the Word of God.
 
-7\. Peter recognized Paul's writings as equal with Scripture – 2Peter
+7. Peter recognized Paul's writings as equal with Scripture – 2Peter
 3:15-16.
 
-8\. Paul recognized Deut. 25:4 and Luke 10:7 as Scripture – 1 Timothy
+8. Paul recognized Deut. 25:4 and Luke 10:7 as Scripture – 1 Timothy
 5:18.
 
-**C. The Apocrypha**
+
+### C. The Apocrypha
+
 
 Note: Apocrypha means hidden; hard to understand)
 
 **⮚ The books** (included in the Roman Catholic Apocrypha) - 14 books
 
-1\. 1 Esdras
+1. 1 Esdras
 
-2\. 2 Esdras
+2. 2 Esdras
 
-3\. Tobit
+3. Tobit
 
-4\. Judith
+4. Judith
 
-5\. Additions to Esther
+5. Additions to Esther
 
-6\. Wisdom of Solomon
+6. Wisdom of Solomon
 
-7\. Ecclesiasticus
+7. Ecclesiasticus
 
-8\. Baruch
+8. Baruch
 
-9\. Addendum to Daniel: The Song of the Three Holy Children
+9. Addendum to Daniel: The Song of the Three Holy Children
 
-10\. Addendum to Daniel: Susanna
+10. Addendum to Daniel: Susanna
 
-11\. Addendum to Daniel: Bel and the Dragon
+11. Addendum to Daniel: Bel and the Dragon
 
-12\. The Prayer of Manasseh
+12. The Prayer of Manasseh
 
-13\. 1 Maccabees
+13. 1 Maccabees
 
-14\. 2 Maccabees
+14. 2 Maccabees
 
 **⮚ Problems with accepting canonicity of the Catholic Apocrypha**
 
-1\. Never once quoted in the New Testament.
+1. Never once quoted in the New Testament.
 
-2\. Lack of endorsement by the ancient Jewish writers.
+2. Lack of endorsement by the ancient Jewish writers.
 
-3\. Problems with content:
+3. Problems with content:
 
 a\. States that Almsgiving can free one from death & hell.
 
@@ -3366,9 +2527,11 @@ Example: 2 Maccabees 12:46
 “Thus he made atonement for the dead that they might be freed from this
 sin.”
 
-4\. No prophetic power - this is a powerful mark of true Scripture.
+4. No prophetic power - this is a powerful mark of true Scripture.
 
-**IX. THE BELIEVABILITY OF THE BIBLE**
+
+## IX. THE BELIEVABILITY OF THE BIBLE
+
 
 Note:
 
@@ -3383,9 +2546,12 @@ God’s word.
 For believers, when looking at the Bible, we would expect the marks of
 inspiration to be present.
 
-**A. Testimonies to Bibical Inspiration**
 
-**1. The Bible was written by common men - yet it is a masterpiece.**
+### A. Testimonies to Bibical Inspiration
+
+
+#### 1. The Bible was written by common men - yet it is a masterpiece.
+
 
 Q. Who wrote the Bible?
 
@@ -3406,7 +2572,9 @@ f\. All in agreement
 
 Q. How could such common men have written such a powerful book?
 
-**2. The Bible is internally consistent!**
+
+#### 2. The Bible is internally consistent!
+
 
 **⮚** No errors - no contradictions!
 
@@ -3418,7 +2586,9 @@ c\. 40 different authors
 
 d\. 3 languages (OT-Hebrew,Aramaic, NT-Greek)
 
-**3. It has withstood time**
+
+#### 3. It has withstood time
+
 
 Over time it has been scrutinized like no other book.
 
@@ -3426,7 +2596,9 @@ Over time it has been scrutinized like no other book.
 
 ⮚ accepted
 
-**4. Powerful & Dynamic**
+
+#### 4. Powerful & Dynamic
+
 
 a\. The Bible is powerful – convicts of sin.
 
@@ -3434,7 +2606,9 @@ b\. Changed lives - millions of testimonies.
 
 **⮚** Note: The Bible has had more influence than any book ever written.
 
-**5. The Biblical model best fits the physical evidence**
+
+#### 5. The Biblical model best fits the physical evidence
+
 
 a\. Creation - verses - evolution
 
@@ -3444,22 +2618,24 @@ c\. Ark - Mr. Ararat
 
 d\. People have always had a void for a God.
 
-**6. Historical accuracy**
+
+#### 6. Historical accuracy
+
 
 **⮚** Archaeology confirms the existence of the people and places
 referred to in the Bible.
 
 **a. The Siloam Tunnel and Inscription**
 
-\(1\) 2 Kings 20:20
+\(1. 2 Kings 20:20
 
 *"Now the rest of the acts of Hezekiah and all his might, and how he
 made the **pool and the conduit**, and brought water into the city, are
 they not written in the Book of the Chronicles of the Kings of Judah?"*
 
-\(2\) Referred to in: 2 Kings 18:17; Isaiah 7:3; Isaiah 36:2
+\(2. Referred to in: 2 Kings 18:17; Isaiah 7:3; Isaiah 36:2
 
-\(3\) The tunnel was discovered:
+\(3. The tunnel was discovered:
 
 ⮚ 1880
 
@@ -3469,30 +2645,32 @@ they not written in the Book of the Chronicles of the Kings of Judah?"*
 
 **b. Code of Hammurabi**
 
-\(1\) 1901
+\(1
 
-\(2\) Law of the 6th king of Babylon
+\(2. Law of the 6th king of Babylon
 
-\(3\) 400-500 years before Moses
+\(3. 400-500 years before Moses
 
-\(4\) Detailed and highly moral law
+\(4. Detailed and highly moral law
 
-\(5\) Authorship of Moses prior to this time had been disputed based on
+\(5. Authorship of Moses prior to this time had been disputed based on
 the premise that a highly moral law did not exist during Moses' time
 period.
 
 **c. Ebla**
 
-\(1\) City and library of Ebla (northern Syria)
+\(1. City and library of Ebla (northern Syria)
 
-\(2\) 1974
+\(2
 
-\(3\) 16,000 tablets
+\(3. 16,000 tablets
 
-\(4\) Confirm many names and places of the Pentateuch and other books of
+\(4. Confirm many names and places of the Pentateuch and other books of
 the O.T.
 
-**7. CHRIST CONFIRMED THE SCRIPTURES**
+
+#### 7. CHRIST CONFIRMED THE SCRIPTURES
+
 
 **a. Christ believed the Law and the Prophets** - Matthew 5:17,18
 
@@ -3505,12 +2683,12 @@ accomplished**."*
 
 **b. Christ confirmed Scripture** (through quotations)
 
-\(1\) Confirms 1 Samuel 21:6 - Matthew 12:3-8
+\(1. Confirms 1 Samuel 21:6 - Matthew 12:3-8
 
 3 *"But He said to them, '**Have you not read** what David did, when he
 became hungry, he and his companions;"*
 
-\(2\) Confirms creation & marriage - Genesis 2:24 - Matthew 19:4-6
+\(2. Confirms creation & marriage - Genesis 2:24 - Matthew 19:4-6
 
 *4 "And He answered and said, '**Have you not read**, that He who
 created them from the beginning made them male and female,*
@@ -3521,7 +2699,7 @@ and shall cleave to his wife; and the two shall become one flesh'?*
 *6 Consequently they are no longer two, but one flesh. What therefore
 God has joined together, let no man separate.'"*
 
-\(3\) Confirms Exodus 3:6 - Matthew 22:31-32
+\(3. Confirms Exodus 3:6 - Matthew 22:31-32
 
 *31 "But regarding the resurrection of the dead, **have you not read**
 that which was spoken to you by God, saying,*
@@ -3529,12 +2707,12 @@ that which was spoken to you by God, saying,*
 *32 'I am the God of Abraham, and the God of Isaac, and the God of
 Jacob'? He is not the God of the dead but of the living."*
 
-\(4\) Confirms Psalm 188:22,23 - Mark 12:10
+\(4. Confirms Psalm 188:22,23 - Mark 12:10
 
-*"**Have you not even read <u>this Scripture</u>**: 'The stone which the
+*"**Have you not even read _this Scripture_**: 'The stone which the
 builders rejected, This became the chief corner stone;'"*
 
-\(5\) Confirms Moses in Exodus 3:6 - Mark 12:26
+\(5. Confirms Moses in Exodus 3:6 - Mark 12:26
 
 *"But regarding the fact that the dead rise again, **have you not read
 in the book of Moses**, in the passage about the burning bush, how God
@@ -3552,7 +2730,9 @@ the heart of the earth."*
 *"Truly I say to you, it will be more tolerable for the land of Sodom
 and Gomorrah in the day of judgment, than for that city."*
 
-**8. PROPHESIES**
+
+#### 8. PROPHESIES
+
 
 Q. But the most important mark of inspiration is prophesy ... Why?
 
@@ -3646,7 +2826,7 @@ on a donkey's colt**.'"*
 
 **d. Christ's crucifixion**
 
-\(1\) Predicted a thousand years before Christ's death and hundreds of
+\(1. Predicted a thousand years before Christ's death and hundreds of
 years before this form of execution was ever used.
 
 **(2) Prophesy:** Psalms 22:14-18
@@ -3675,8 +2855,8 @@ tunic; now the tunic was seamless, woven in one piece.*
 
 *24 They said therefore to one another, "**Let us not tear it, but cast
 lots for it, to decide whose it shall be"; that the Scripture might be
-fulfilled, "<u>They divided My outer garments among them, and for My
-clothing they cast lots</u>**."*
+fulfilled, "_They divided My outer garments among them, and for My
+clothing they cast lots_**."*
 
 *25 Therefore the soldiers did these things. But there were standing by
 the cross of Jesus His mother, and His mother's sister, Mary the wife of
@@ -3690,7 +2870,7 @@ hour the disciple took her into his own household*
 
 *28 After this, Jesus, knowing that all things had already been
 accomplished, **in order that the Scripture might be fulfilled, said,
-"<u>I am thirsty.</u>"***
+"_I am thirsty._"***
 
 *29 A jar full of sour wine was standing there; so they put a sponge
 full of the sour wine upon a branch of hyssop, and brought it up to His
@@ -3708,7 +2888,7 @@ and that they might be taken away.*
 and of the other man who was crucified with Him;*
 
 *33 but coming to Jesus, **when they saw that He was already dead, they
-<u>did not break His legs</u>**;*
+_did not break His legs_**;*
 
 *34 but one of the soldiers pierced His side with a spear, and
 immediately there came out blood and water.*
@@ -3724,7 +2904,7 @@ they pierced."***
 
 **e. Isaiah Predicted Christ's Suffering**
 
-\(1\) Predicted a 700 years before it happened.
+\(1. Predicted a 700 years before it happened.
 
 **(2) Prophesy:** Isaiah 53:4-7
 
@@ -3732,7 +2912,7 @@ they pierced."***
 Yet we ourselves esteemed Him stricken, **Smitten of God**, and
 afflicted.*
 
-*5 But **<u>He was pierced through for our transgressions</u>**, **He
+*5 But **_He was pierced through for our transgressions_**, **He
 was crushed for our iniquities; The chastening for our well-being fell
 upon Him, And by His scourging we are healed**.*
 
@@ -3741,7 +2921,7 @@ own way; But **the Lord has caused the iniquity of us all To fall on
 Him**.*
 
 *7 He was oppressed and He was afflicted, Yet **He did not open His
-mouth**; **Like <u>a lamb</u> that is led to slaughter**, And like a
+mouth**; **Like _a lamb_ that is led to slaughter**, And like a
 sheep that is silent before its shearers, So He did not open His
 mouth."*
 
@@ -3772,72 +2952,74 @@ so that the governor was quite amazed."*
 might die to sin and live to righteousness; for by His wounds you were
 healed."*
 
-**B. Summary**
 
-1\. Written by common men – yet a masterpiece
+### B. Summary
 
-2\. Internally consistent
 
-3\. Has withstood time
+1. Written by common men – yet a masterpiece
 
-4\. POWERFUL & DYNAMIC - The Miracle of Changed Lives - Testimonies
+2. Internally consistent
 
-5\. Biblical model best fits the physical evidence
+3. Has withstood time
 
-6\. Historical accuracy
+4. POWERFUL & DYNAMIC - The Miracle of Changed Lives - Testimonies
 
-7\. CHRIST CONFIRMED THE SCRIPTURES
+5. Biblical model best fits the physical evidence
 
-8\. PROPHESIES
+6. Historical accuracy
 
-<table style="width:96%;">
-<colgroup>
-<col style="width: 96%" />
-</colgroup>
-<tbody>
-<tr>
-<td><strong>CONCLUSION</strong></td>
-</tr>
-<tr>
-<td><p>THE BIBLE CLAIMS TO BE THE WORD OF GOD !</p>
-<p>THE BIBLE HAS ALL THE MARKS OF THE INSPIRATION OF GOD!</p></td>
-</tr>
-</tbody>
-</table>
+7. CHRIST CONFIRMED THE SCRIPTURES
+
+8. PROPHESIES
 
 **Note: And yet some people have never even read a page.**
 
-**X. APPLICATION**
 
-**A. Questions**
+## X. APPLICATION
 
-1\. Do you believe what the Bible says is true?
 
-2\. Do you believe that the Bible is God's word?
+### A. Questions
 
-3\. Do you believe that every word of the Bible was breathed out by God?
+
+1. Do you believe what the Bible says is true?
+
+2. Do you believe that the Bible is God's word?
+
+3. Do you believe that every word of the Bible was breathed out by God?
 
 Note: It will change the way you approach and respond to it.
 
-**B. The Importance of the Bible** - Section "IV" of Lesson 1
+
+### B. The Importance of the Bible
+
+*Section "IV" of Lesson 1*
+
 
 **1. Able to lead to salvation** (IV.B.1) - 2 Timothy 3:15
 
 *"and that from childhood you have known **the sacred writings which are
-able to give you the wisdom that <u>leads to salvation</u>** through
+able to give you the wisdom that _leads to salvation_** through
 faith which is in Christ Jesus."*
 
-**2. Able to judge our thoughts & heart** - Hebrews 4:12
+
+#### 2. Able to judge our thoughts & heart
+
+*Hebrews 4:12*
+
 
 *"For the word of God is living and active and sharper than any
 two-edged sword, and piercing as far as the division of soul and spirit,
 of both joints and marrow, and **able to judge the thoughts and
 intentions of the heart**."*
 
-**3. Four things God's Word can do** - Psalm 19:7,8
 
-*7 The law of the Lord is perfect, <u>restoring the soul</u>; The
-testimony of the Lord is sure, <u>making wise the simple</u>.*
+#### 3. Four things God's Word can do
 
-*8 The precepts of the Lord are right, <u>rejoicing the heart</u>; The
-commandment of the Lord is pure, <u>enlightening the eyes</u>."*
+*Psalm 19:7,8*
+
+
+*7 The law of the Lord is perfect, _restoring the soul_; The
+testimony of the Lord is sure, _making wise the simple_.*
+
+*8 The precepts of the Lord are right, _rejoicing the heart_; The
+commandment of the Lord is pure, _enlightening the eyes_."*

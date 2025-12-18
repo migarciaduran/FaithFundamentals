@@ -1,61 +1,23 @@
-***Fundamentals of the Faith***
+# Fundamentals of the Faith
+
+## Lesson 02: Studying the Bible
+
+---
+
+## Table of Contents
+
+- [I. Why study the Bible](#i-why-study-the-bible)
+- [II. Bible Study Requires Diligence](#ii-bible-study-requires-diligence)
+- [III. Practical: Hear, read, study, memorize, meditate](#iii-practical-hear-read-study-memorize-meditate)
+- [IV. Bible Study](#iv-bible-study)
+- [V. Our response to the word of God](#v-our-response-to-the-word-of-god)
+- [VI. Bible study example](#vi-bible-study-example)
+- [VII. Conclusion](#vii-conclusion)
+
+---
 
 ## Lesson \#2 - How to Know the Bible
 
-**Table of Contents**
-
-**Objective & Preliminary Comments ……………………………………………… i**
-
-**I. Why study the Bible ………………………………………………………………... 1**
-
-A. Lesson - pg. 10
-
-B. To prepare oneself for service
-
-C. To sanctify our lives
-
-D. It is God’s will
-
-E. To know God deeper
-
-F. Application questions
-
-**II. Bible Study Requires Diligence ……………………………………………………. 4**
-
-A. Memory verse
-
-B. Five ways to know the Bible
-
-**III. Practical: Hear, read, study, memorize, meditate ………………………………..
-5**
-
-A. Hear
-
-B. Read & Study
-
-C. Memorization
-
-D. Meditation
-
-**IV. Bible Study ………………………………………………………………………….. 9**
-
-A. Hermeneutics
-
-B. Preparation
-
-C. Observation
-
-D. Interpretation
-
-E. Application
-
-**V. Our response to the word of God …………………………………………………. 15**
-
-**VI. Bible study example ………………………………………………………………… 16**
-
-**VII. Conclusion ………………………………………………………………………….. 16**
-
-***Fundamentals of the Faith***
 
 ## Lesson \#2 - How to Know the Bible
 
@@ -65,9 +27,9 @@ E. Application
 
 The objectives of lesson \#2 are two fold:
 
-1\. To motivate the student to read and study the Bible.
+1. To motivate the student to read and study the Bible.
 
-2\. To teach the student basic Bible study skills.
+2. To teach the student basic Bible study skills.
 
 You want to impart a heart motivation to read and study the Scriptures;
 rather than a motivation of duty to obey the command to read the
@@ -103,7 +65,7 @@ And also remember the motto of Fundamentals of the Faith:
 *"They will not care how much you know, until they know how much you
 care."*
 
-**As always, before entering the Classroom, always ...**
+**As always, before entering the Classroom, always
 
 *Pray that Christ will be glorified through all that you say,
 remembering that your strength*
@@ -111,29 +73,36 @@ remembering that your strength*
 *is supplied by God and the power of your message is the Word of God (1
 Peter 4:11).*
 
-***Fundamentals of the Faith***
 
 ## Lesson \#2 - How to Know the Bible
 
 **Lesson Outline**
 
-**I. WHY STUDY THE BIBLE?**
 
-**A. Lesson - pg. 10**
+## I. WHY STUDY THE BIBLE?
 
-1\. 2 Tim. 2:15 "To be approved of God"
 
-2\. 1 Peter 2:2 "May grow in salvation"
+### A. Lesson - pg
 
-3\. Ps. 119:11 "Not sin against God"
 
-4\. Ps. 119:38 "Produces reverence for God."
+1. 2 Tim. 2:15 "To be approved of God"
 
-5\. Ps. 119:105 "A light to my path - guidance"
+2. 1 Peter 2:2 "May grow in salvation"
 
-**B. To prepare oneself for service**
+3. Ps. 119:11 "Not sin against God"
 
-**1. So we can defend our faith** - 1 Peter 3:15
+4. Ps. 119:38 "Produces reverence for God."
+
+5. Ps. 119:105 "A light to my path - guidance"
+
+
+### B. To prepare oneself for service
+
+
+#### 1. So we can defend our faith
+
+*1 Peter 3:15*
+
 
 *"but sanctify Christ as Lord in your hearts, **always being ready to
 make a defense to everyone who asks you to give an account for the hope
@@ -151,15 +120,24 @@ Q. What is "*the hope that is in you*"?
 
 ⮚ "... Christ Jesus, who is our hope;" - 1 Timothy 1:1
 
-**2. A good servant spends time in God's word** - I Timothy 4:6
+
+#### 2. A good servant spends time in God's word
+
+*I Timothy 4:6*
+
 
 *”In pointing out these things to the brethren, you will be **a good
 servant of Christ** Jesus, constantly **nourished on the words of the
 faith and of the sound doctrine** which you have been following."*
 
-**C. To sanctify our lives**
 
-**1. God's word will set us apart to holiness** - John 17:17
+### C. To sanctify our lives
+
+
+#### 1. God's word will set us apart to holiness
+
+*John 17:17*
+
 
 *"Sanctify them in the truth; Thy word is truth."*
 
@@ -169,7 +147,11 @@ Q. According to this verse - how are we sanctified? ... by truth
 
 Q. What is truth? ... God's word!
 
-**2. We are exhorted to be holy** - 1 Peter 1:14-19
+
+#### 2. We are exhorted to be holy
+
+*1 Peter 1:14-19*
+
 
 *14 "As obedient children, do not be conformed to the former lusts which
 were yours in your ignorance,*
@@ -198,17 +180,18 @@ Q. Why are we to be holy? (verse 16) … because God is holy
 
 Q. What is the motivation for our holiness? (verses 18 &19)
 
-... the cost of our redemption.
 
 Q. Application: Do you want to pursue holiness? ... The word of God
 sanctifies!
 
-**D. It is God's will**
 
-1\. Joshua 1:8 - Dwell on the Word ... and obey.
+### D. It is God's will
+
+
+1. Joshua 1:8 - Dwell on the Word ... and obey.
 
 *"This book of the law shall not depart from your mouth, but **you
-<u>shall</u> meditate on it day and night**, so that you may **be
+_shall_ meditate on it day and night**, so that you may **be
 careful to do according to all that is written in it**; for then you
 will make your way prosperous, and then you will have success."*
 
@@ -220,15 +203,20 @@ Q. Is it enough to just read it, or know it? ... Must obey it.
 
 Q. How much are we to obey? ... all
 
-2\. Colossians 3:16
+2. Colossians 3:16
 
 *"**Let the word of Christ richly dwell within you**, with all wisdom
 teaching and admonishing one another with psalms and hymns and spiritual
 songs, singing with thankfulness in your hearts to God."*
 
-**E. To know God deeper**
 
-**1. You find Christ in the Scriptures** - John 5:39
+### E. To know God deeper
+
+
+#### 1. You find Christ in the Scriptures
+
+*John 5:39*
+
 
 *"You search **the Scriptures**, because you think that in them you have
 eternal life; and it is **these that bear witness of Me**;"*
@@ -238,9 +226,13 @@ Note: Christ is speaking.
 Q. Who do the Scriptures bear witness of? … Christ
 
 Q. According to the beginning of the verse - what do we have to do to
-learn of Christ? … <u>search</u> the Scriptures; Search – to seek out
+learn of Christ? … _search_ the Scriptures; Search – to seek out
 
-**2. To discover the knowledge of God** - Proverbs 2:1,5
+
+#### 2. To discover the knowledge of God
+
+*Proverbs 2:1,5*
+
 
 *1 "My son, if you will receive my sayings, And **treasure my
 commandments within you,***
@@ -254,7 +246,11 @@ Q. What do we have to do to discover the knowledge of God?
 
 Q. Where are his commandments found? .. in the Bible!
 
-**3. A spiritual father - knows God!** - 1 John 2:14
+
+#### 3. A spiritual father - knows God!
+
+*1 John 2:14*
+
 
 *"I have written to you, **fathers**, because you **know Him** who has
 been from the beginning. I have written to you, young men, because you
@@ -271,7 +267,9 @@ Answer: *Knowing God*
 
 Q. What is the difference between "knowing about" God and "knowing" God?
 
-**F. Application questions**
+
+### F. Application questions
+
 
 ⮚ Do you spend time in God's word - every day?
 
@@ -283,23 +281,32 @@ Q. What is the difference between "knowing about" God and "knowing" God?
 
 ⮚ How well do you know God?
 
-**II. BIBLE STUDY REQUIRES DILIGENCE**
 
-**A. Memory verse (on top of lesson)** - 2 Timothy 2:15
+## II. BIBLE STUDY REQUIRES DILIGENCE
+
+
+### A. Memory verse (on top of lesson)
+
+*2 Timothy 2:15*
+
 
 *"Be **diligent** to present yourself approved of God, as a **workman**
 who does not need to be ashamed, **handling accurately** the word of
 truth."*
 
-**1. How do we become approved of God?**
 
-answer: *"Handling <u>accurately</u> the <u>word of truth</u>"*
+#### 1. How do we become approved of God?
+
+
+answer: *"Handling _accurately_ the _word of truth_"*
 
 *accurately*: to cut straight or upright
 
 to know true understanding
 
-**2. Is it easy to handle the word of God accurately?**
+
+#### 2. Is it easy to handle the word of God accurately?
+
 
 a\. Workman - laborer
 
@@ -309,39 +316,27 @@ b\. Diligent - eager/make every effort
 
 It is God's will
 
-... and people will ask, "What is God's will for my life?"!
 
 … start by immersing yourself into the diligent study of God’s Word!
 
-**B. Five ways to know the Bible**
+
+### B. Five ways to know the Bible
+
 
 Q. What percentage do you think is retained through Hearing, Reading,
 Studying or Memorizing?
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td><strong>Five Ways to Know the Bible</strong></td>
-</tr>
-<tr>
-<td><p>⮚ Hearing - Weakest finger - <strong>5% retention</strong>.</p>
-<p>⮚ Reading - Stronger finger - <strong>10-15% retention</strong>, over
-a short time.</p>
-<p>⮚ Studying - Middle finger - <strong>35% retention</strong>.</p>
-<p>⮚ Memorizing - Most powerful finger - <strong>100%</strong></p>
-<p>⮚ Meditation - Thumb; for a firmer grasp</p></td>
-</tr>
-</tbody>
-</table>
 
-**III. PRACTICAL: HEAR – READ - STUDY - MEMORIZE - MEDITATE**
+## III. PRACTICAL: HEAR – READ - STUDY - MEMORIZE - MEDITATE
 
-**A. Hear**
 
-**1. Church** - make sure the church you attend teaches the Word of God!
+### A. Hear
+
+
+#### 1. Church
+
+*make sure the church you attend teaches the Word of God!*
+
 
 **a. Public reading of the Bible** - 1 Timothy 4:13
 
@@ -367,13 +362,17 @@ Q. What was Timothy, or any pastor, to do? … preach the Word of God
 
 Q. How often? … in season & out of season – i.e. all the time!
 
-**2. Hearing the Word of God**
+
+#### 2. Hearing the Word of God
+
 
 a\. Radio - not so obvious - 99.5 KKLA, 6:30AM and 11:00AM.
 
 b\. Tapes
 
-**3. WARNING : Discernment**
+
+#### 3. WARNING : Discernment
+
 
 **a. Not everyone is teaching the truth** - 2 Peter 3:16,17
 
@@ -396,18 +395,22 @@ daily, to see whether these things were so**."*
 
 Q. What did the Bereans do to verify what they were being told?
 
-**B. Read & Study**
+
+### B. Read & Study
+
 
 Q. What is the difference between reading the Bible and Studying the
 Bible?
 
-**1. Reading**
+
+#### 1. Reading
+
 
 **a. Flow, context - Chapters at a time**
 
 **b. Which Bible?**
 
-\(1\) Paraphrase
+\(1. Paraphrase
 
 ⮚ Not a translation from the original biblical languages.
 
@@ -417,7 +420,7 @@ Bible?
 
 ⮚ Example: The Living Bible
 
-\(2\) Translations
+\(2. Translations
 
 ⮚ New King James ….. word for word translation
 
@@ -427,21 +430,23 @@ Bible?
 
 **c. Repetition**
 
-John MacArthur's method (<u>Once a day for a month</u>)
+John MacArthur's method (_Once a day for a month_)
 
-\(1\) Start with a small book like 1 John. Read 1 John, once every day,
+\(1. Start with a small book like 1 John. Read 1 John, once every day,
 for a month. At the end of the month you will know 1 John.
 
-\(2\) Then take another book like the Gospel of John. Divide it into 4
+\(2. Then take another book like the Gospel of John. Divide it into 4
 sections. Read each section for a month, etc.
 
-\(3\) In 4 years you can complete the NT.
+\(3. In 4 years you can complete the NT.
 
 **d. Reading schedules** - in chronological order ( Refer to HANDOUT)
 
 (LESSON, box, pg. 10, bottom)
 
-**2. Studying**
+
+#### 2. Studying
+
 
 ⮚ Goes beyond reading: Observations, interpretation, application
 
@@ -482,11 +487,17 @@ b\. How can we help ourselves?
 
 (4). GOALS -Read the Bible in a year!
 
-**C. Memorization:**
+
+### C. Memorization:
+
 
 Q. Why memorize Scripture?
 
-**1. To defeat sin** - Psalms 119:9,11 (LESSON box, pg. 11)
+
+#### 1. To defeat sin
+
+*Psalms 119:9,11 (LESSON box, pg. 11)*
+
 
 *"How can a young man keep his way pure? By keeping it according to Thy
 word. "**Thy word I have treasured in my heart, that I may not sin
@@ -495,14 +506,19 @@ against Thee**"*
 Note: Christ used Scripture to defeat temptation
 
 (LESSON, pg. 11, bottom, D.2.a) Matthew 4:4,7,10 "***It is written
-...***"
 
-**2. Witnessing – Knowing the Gospel**
+
+#### 2. Witnessing – Knowing the Gospel
+
 
 Q. How practical is it to always carry a Bible with you where ever you
 go?
 
-**3. Exhortation** - Colossians 3:16
+
+#### 3. Exhortation
+
+*Colossians 3:16*
+
 
 *"**Let the word of Christ richly dwell within you**, with all wisdom
 teaching and admonishing one another with psalms and hymns and spiritual
@@ -517,9 +533,12 @@ within you"*?
 
 … Thinking Bibically
 
-**D. Meditation**
 
-**1. What is meditation?**
+### D. Meditation
+
+
+#### 1. What is meditation?
+
 
 a\. To ponder
 
@@ -529,21 +548,9 @@ c\. With a goal of understanding and application
 
 d\. Definition: LESSON, p.12, middle
 
-<table style="width:85%;">
-<colgroup>
-<col style="width: 84%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p>Meditation is prayerful reflection on Scripture with a view
-toward under-</p>
-<p>standing and application. Give prayerful thought to God's Word</p>
-<p>with the goal of conforming your life to His will.</p></td>
-</tr>
-</tbody>
-</table>
 
-**2. What Meditation is NOT**
+#### 2. What Meditation is NOT
+
 
 a\. Trying to empty your mind of all conscious thought - peace.
 
@@ -551,7 +558,9 @@ b\. Eastern religions & cults
 
 c\. Grounded in Hinduism
 
-**3. Why Meditate?**
+
+#### 3. Why Meditate?
+
 
 a\. Source of Blessing - Psalm 1:1-3 (LESSON, box, pg. 12)
 
@@ -576,7 +585,9 @@ living water!*
 
 b\. Helps us to obey - Joshua 1:8 (LESSON, p.12, \#2, bottom)
 
-**4. Meditation Exercise**
+
+#### 4. Meditation Exercise
+
 
 Read **Romans 10:9** around the room, having each student emphasize a
 different word:
@@ -584,37 +595,15 @@ different word:
 *"... if you confess with your mouth Jesus as Lord, and believe in your
 heart that God raised Him from the dead, you shall be saved;"*
 
-**NOTE:** <u>You can meditate while in bed, stuck in traffic, alone,
-walking...</u>
+**NOTE:** _You can meditate while in bed, stuck in traffic, alone,
+walking..._
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td><strong>In the process we will be changed!</strong></td>
-</tr>
-<tr>
-<td><p>1. Luke 6:45 (LESSON top, pg 13)</p>
-<p><em>"<strong>The good man out of the good treasure of his heart
-brings forth what is good</strong>; and the evil man out of the evil
-treasure brings forth what is evil; <strong>for his mouth speaks from
-that which fills his heart</strong>."</em></p>
-<p>Q. What is the heart of a man? ... the center of a person; mind;
-soul</p>
-<p>Q. How do we get a good heart? ... fill it with the word of God!</p>
-<p>2. Proverbs 23:7</p>
-<p><em>"For <strong>as he thinks</strong> within himself, <strong>so he
-is</strong>."</em></p>
-<p><strong>Note:</strong> You start to think Biblically!</p></td>
-</tr>
-</tbody>
-</table>
 
-**IV. BIBLE STUDY**
+## IV. BIBLE STUDY
 
-**A. HERMENEUTICS**
+
+### A. HERMENEUTICS
+
 
 **1. Origin:** Hermes - Greek god who allegedly interpreted the messages
 from the gods to man - therefore - Hermeneuo.
@@ -622,7 +611,9 @@ from the gods to man - therefore - Hermeneuo.
 **2. Definition:** The process of utilizing methods and rules to arrive
 at a proper interpretation.
 
-**3. Basic rules of Hermeneutics**
+
+#### 3. Basic rules of Hermeneutics
+
 
 a\. All Scripture will agree
 
@@ -630,7 +621,9 @@ b\. Synthesis: Scripture is interpreted in light of all Scripture.
 
 c\. Context
 
-**4. Warnings**
+
+#### 4. Warnings
+
 
 a\. Do not read in you own preconceived ideas
 
@@ -646,7 +639,9 @@ e\. Superficial study
 
 **B. PREPARATION:** What is the first step of Bible study?
 
-**1. Put aside sin, put on humility:**
+
+#### 1. Put aside sin, put on humility:
+
 
 a\. James 1:21
 
@@ -664,11 +659,15 @@ b\. I Peter 2:1,2 (LESSON pg. 13)
 envy and all slander**, like newborn babes, long for the pure milk of
 the word ..."*
 
-**2. Pray for understanding** - Psalm 119:18 (LESSON box pg. 13)
+
+#### 2. Pray for understanding
+
+*Psalm 119:18 (LESSON box pg. 13)*
+
 
 *"**open my eyes**, that I may behold wonderful things from Thy law"*
 
-Q. Before beginning Bible Study, what are we to pray for? ...
+Q. Before beginning Bible Study, what are we to pray for?
 Understanding
 
 **3. Setting your heart attitude -** Ezra 7:10
@@ -680,46 +679,55 @@ Q. According to Ezra 7:10, what did Ezra do? ... He set his heart.
 
 Q. What does it mean to set your heart?
 
-**C. OBSERVATION:**
 
-1\. What has God said in this passage?
+### C. OBSERVATION:
 
-2\. How has He said it?
 
-3\. What is taking place in the passage?
+1. What has God said in this passage?
 
-4\. Ask questions - who, what, where, when?
+2. How has He said it?
+
+3. What is taking place in the passage?
+
+4. Ask questions - who, what, where, when?
 
 WRITE THEM DOWN!
 
-5\. Key words, subjects, commands, etc. - lesson pg. 13,14
+5. Key words, subjects, commands, etc. - lesson pg. 13,14
 
-6\. Verb tenses, etc.
+6. Verb tenses, etc.
 
 NOTE: TAKE YOU TIME - THE LONGER YOU LOOK THE MORE YOU WILL DISCOVER.
 
-**D. INTERPRETATION**
 
-**1. What does it mean?**
+### D. INTERPRETATION
+
+
+#### 1. What does it mean?
+
 
 **Note:** There is only one correct interpretation of a given
 Scripture - the author's originally intended meaning.
 
 Q. And who is the author? ... God!
 
-**2. Does not mean:**
+
+#### 2. Does not mean:
+
 
 a\. Preconceived ideas brought to the passage
 
 b\. What ever "warms the heart"
 
-c\. God revealed to me ...
+c\. God revealed to me
 
 d\. What others have said
 
-**3. Ask interpretive questions:**
 
-What is the importance of ...
+#### 3. Ask interpretive questions:
+
+
+What is the importance of
 
 What is the meaning of a particular word?
 
@@ -727,7 +735,9 @@ What was the city like in Christ's time?
 
 ⮚ It takes observation one step further.
 
-**4. To uncover the meaning of a passage use:**
+
+#### 4. To uncover the meaning of a passage use:
+
 
 a\. Culture
 
@@ -743,21 +753,21 @@ f\. Cross reference ............ EXAMPLE (John 1:1) NEXT PAGE
 
 g\. Bible study tools:
 
-\(1\) *The MacArthur Study Bible*, John Mac Arthur
+\(1. *The MacArthur Study Bible*, John Mac Arthur
 
-\(2\) *Commentary on the Who* Bible, Jamieson Fausset and Brown
+\(2. *Commentary on the Who* Bible, Jamieson Fausset and Brown
 
-\(3\) *Unger's Bible Dictionary*, Merrill Unger
+\(3. *Unger's Bible Dictionary*, Merrill Unger
 
-\(4\) *The Moody Handbook of Theology*, Paul Enns
+\(4. *The Moody Handbook of Theology*, Paul Enns
 
-\(5\) *Zondervan Pictorial Encyclopedia of the Bible*
+\(5. *Zondervan Pictorial Encyclopedia of the Bible*
 
-\(6\) *Talk Thru the Bible*, Wilkinson & Boa
+\(6. *Talk Thru the Bible*, Wilkinson & Boa
 
-\(7\) *The Expanded vines* *Expository Dictionary of N.T. Words*, Vines
+\(7. *The Expanded vines* *Expository Dictionary of N.T. Words*, Vines
 
-\(8\) Exhaustive Concordance
+\(8. Exhaustive Concordance
 
 **Cross Reference Example**
 
@@ -766,7 +776,9 @@ g\. Bible study tools:
 *"In the beginning was **the Word**, and the Word was with God, and the
 Word was God."*
 
-**1. Cross reference "*the Word"***
+
+#### 1. Cross reference "*the Word"*
+
 
 Look at John 1:1 and note if there is a small letter next to the word
 *Word*. If so, note, in the margins of your Bible the verses that are
@@ -787,7 +799,9 @@ called The Word of God**."*
 16 *"And on His robe and on His thigh He has a name written, **'KING OF
 KINGS, AND LORD OF LORDS.**'"*
 
-**2. Cross reference "*In the beginning*"**
+
+#### 2. Cross reference "*In the beginning*"
+
 
 a\. 1 John 1:1
 
@@ -811,7 +825,9 @@ together.*
 the first-born from the dead; so that He Himself might come to have
 first place in everything."*
 
-**5. Scripture can be clear**
+
+#### 5. Scripture can be clear
+
 
 a\. 1 John 2:27 (LESSON, pg. 14, middle)
 
@@ -831,15 +847,17 @@ Note: 1 Corinthians 6:19
 *"Or do you not know that your body is a temple of **the Holy Spirit who
 is in you**, whom you have from God, and that you are not your own?"*
 
-**6. Figures of Speech**
+
+#### 6. Figures of Speech
+
 
 **a. Parables**
 
-\(1\) A true to life narrative used to illustrate a truth.
+\(1. A true to life narrative used to illustrate a truth.
 
-\(2\) Contrast often used
+\(2. Contrast often used
 
-\(3\) Used to reveal and conceal truth - judgement
+\(3. Used to reveal and conceal truth - judgement
 
 ⮚ Luke 8:10
 
@@ -849,17 +867,17 @@ seeing they may not see, and hearing **they may not understand'**"*
 
 ⮚ Also Matthew 13:10,11 - next page
 
-\(4\) Example: Matt. 13:3-9; 18-23 --\> See next page
+\(4. Example: Matt. 13:3-9; 18-23 --\> See next page
 
 **b. Allegories**
 
-\(1\) Picture to convey a truth
+\(1. Picture to convey a truth
 
-\(2\) Not always literally true
+\(2. Not always literally true
 
-\(3\) Interpretation is contained within itself
+\(3. Interpretation is contained within itself
 
-\(4\) Examples:
+\(4. Examples:
 
 ⮚ "*I am the door* ...", Matt. 10:7-10
 
@@ -871,11 +889,11 @@ seeing they may not see, and hearing **they may not understand'**"*
 
 **c. Types**
 
-\(1\) An illustration of a greater reality
+\(1. An illustration of a greater reality
 
-\(2\) A picture of the future
+\(2. A picture of the future
 
-\(3\) Example: The passover lamb – which pictures Christ – the lamb of
+\(3. Example: The passover lamb – which pictures Christ – the lamb of
 God.
 
 **Parable of "The Sower"**
@@ -931,11 +949,13 @@ riches choke the word, and it becomes unfruitful.*
 who hears the word and understands it; who indeed bears fruit, and
 brings forth, some a hundredfold, some sixty, and some thirty."*
 
-**E. APPLICATION**
 
-1\. Personalize the passage (LESSON pg. 16, top)
+### E. APPLICATION
 
-⮚ Warnings, promises, example, command ...
+
+1. Personalize the passage (LESSON pg. 16, top)
+
+⮚ Warnings, promises, example, command
 
 **S** in to forsake?
 
@@ -947,13 +967,18 @@ brings forth, some a hundredfold, some sixty, and some thirty."*
 
 **S** tumbling block to avoid?
 
-2\. There can be many applications of a given passage
+2. There can be many applications of a given passage
 
-3\. Demonstration of the truths in my life ... what do others see?
+3. Demonstration of the truths in my life ... what do others see?
 
-**V. OUR RESPONSE TO THE WORD OF GOD**
 
-**A. Conviction & Obedience** - Acts 2:37
+## V. OUR RESPONSE TO THE WORD OF GOD
+
+
+### A. Conviction & Obedience
+
+*Acts 2:37*
+
 
 *"Now **when they heard this, they were pierced to the heart**, and said
 to Peter and the rest of the apostles, "Brethren, **what shall we
@@ -964,13 +989,15 @@ who heard? ... *"they were pierced to the heart"* - conviction
 
 Q. What was their response? ... *"what shall we do?"* - obedience
 
-**B. NOTE**
 
-1\. When we study the Bible, it will convict us.
+### B. NOTE
+
+
+1. When we study the Bible, it will convict us.
 
 Q. What should be our response? ... obedience
 
-2\. GOD HAS GIVEN US HIS WORD
+2. GOD HAS GIVEN US HIS WORD
 
 ⮚ HEAR IT
 
@@ -982,29 +1009,13 @@ Q. What should be our response? ... obedience
 
 ⮚ MEDITATE ON IT
 
-**VI. BIBLE STUDY EXAMPLE**
+
+## VI. BIBLE STUDY EXAMPLE
+
 
 Go over the Bible Study example, Lesson, page 17.
 
-**VII. CONCLUSION**
 
-<table style="width:81%;">
-<colgroup>
-<col style="width: 80%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>The Bible</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><p>◙ Believe it</p>
-<p>◙ Revere it</p>
-<p>◙ Honor it</p>
-<p>◙ Love it</p>
-<p>◙ Obey it</p>
-<p>◙ Fight for it</p>
-<p>◙ Study it</p>
-<p>◙ Proclaim it</p></td>
-</tr>
-</tbody>
-</table>
+## VII. CONCLUSION
+
+

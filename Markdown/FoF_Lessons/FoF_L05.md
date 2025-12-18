@@ -1,64 +1,21 @@
-***Fundamentals of the Faith***
+# Fundamentals of the Faith
 
-# Lesson \#5 - The Work of Christ
+## Lesson 05: Work of Christ
 
-**Table of Contents**
+---
 
-**Objective & Preliminary Comments ……………………………………………… i**
+## Table of Contents
 
-**I. Introduction ………………………………………………………………………… 1**
+- [I. Introduction](#i-introduction)
+- [II. Man’s need for Christ’s work](#ii-mans-need-for-christs-work)
+- [III. The Work of Christ](#iii-the-work-of-christ)
+- [IV. The Judgment of God at the Cross](#iv-the-judgment-of-god-at-the-cross)
+- [V. Christ’s Death](#v-christs-death)
+- [VI. Christ’s Resurrection and Continuing Work](#vi-christs-resurrection-and-continuing-work)
+- [VII. The Provision of Christ’s Work](#vii-the-provision-of-christs-work)
+- [VIII. Application](#viii-application)
 
-A. What is sin?
-
-B. Man is a slave to sin
-
-**II. Man’s need for Christ’s work ……………………………………………………… 2**
-
-A. The condition of man
-
-B. The consequence of man’s sin
-
-**III. The Work of Christ ………………………………………………………………… 8**
-
-A. The need for a sacrifice
-
-B. The provision of the sacrifice
-
-C. The cost of the sacrifice
-
-**IV. The Judgment of God at the Cross ………………………………………………… 14**
-
-A. The wrath of God upon Christ
-
-B. God’s Judgment - seen in darkness
-
-**V. Christ’s Death ………………………………………………………………………. 17**
-
-A. Christ’s last words
-
-B. Events at His death
-
-**VI. Christ’s Resurrection and Continuing Work …………………………………….. 18**
-
-A. Christ rose from the dead
-
-B. He is now the intercessor for us before God
-
-C. He went to prepare a place for us ... and will come again
-
-D. The Necessity of the Resurrection of Christ ………………………..………….. 19
-
-**VII. The Provision of Christ’s Work …………………………………………………… 20**
-
-A. Bring us to God
-
-B. Reconciliation
-
-**VIII. Application ………………………………………………………………………….. 21**
-
-***Fundamentals of the Faith***
-
-# Lesson \#5 - The Work of Christ
+---
 
 **Objective & Preliminary Comments**
 
@@ -66,15 +23,15 @@ B. Reconciliation
 
 The objective of lesson \#5 is five fold:
 
-1\. To explain man’s need for a savior.
+1. To explain man’s need for a savior.
 
-2\. To show the cost of Christ’s work.
+2. To show the cost of Christ’s work.
 
-3\. To show the provision of Christ’s work.
+3. To show the provision of Christ’s work.
 
-4\. To present the resurrected Christ.
+4. To present the resurrected Christ.
 
-5\. A call to repentance.
+5. A call to repentance.
 
 **Exhortation to the teacher:**
 
@@ -90,32 +47,37 @@ And remember:
 *"They will not care how much you know, until they know how much you
 care."*
 
-**As always, before entering the Classroom, always ...**
+**As always, before entering the Classroom, always
 
-***Pray that Christ will be glorified through all that you say,
 remembering that your strength***
 
-***is supplied by God and the power of your message is the Word of God
 (1 Peter 4:11).***
 
-***Fundamentals of the Faith***
-
-# Lesson \#5 - The Work of Christ
 
 **Lesson Outline**
 
-**I. INTRODUCTION**
 
-**A. What is sin?**
+## I. INTRODUCTION
 
-**1. Sin is Lawlessness** - I John 3:4
+
+### A. What is sin?
+
+
+#### 1. Sin is Lawlessness
+
+*I John 3:4*
+
 
 *"Everyone who practices sin also practices lawlessness; and **sin is
 lawlessness**."*
 
 Q. What is lawlessness? ... breaking God's law.
 
-**2. Sin is not doing what you know is right (Sin of Omission)** - James
+
+#### 2. Sin is not doing what you know is right (Sin of Omission)
+
+*James*
+
 4:17
 
 *"Therefore, to **one who knows the right thing to do, and does not do
@@ -123,33 +85,35 @@ it**, to him it is sin."*
 
 Q. How is sin defined in this verse?
 
-... Not doing what you know to be the right thing to do
 
 Q. What is the difference between *not doing what you know to be right*
 and *not breaking God's law*?
 
-... This is not restricted to just breaking one of God's laws.
 
-... This could mean not following one of God's commands - such as
 "reading the Bible; or sharing your faith"
 
-**3. Sin is having immoral thoughts** - Matthew 5:28
+
+#### 3. Sin is having immoral thoughts
+
+*Matthew 5:28*
+
 
 *"but I say to you, that everyone who looks on a woman to lust for her
-has **committed adultery with her already <u>in his heart</u>**."*
+has **committed adultery with her already _in his heart_**."*
 
 Q. What can we learn about sin from this verse?
 
-... that even an unrighteous thought is sin
 
-**4. Obscene speech is sin** - Colossians 3:8
+#### 4. Obscene speech is sin
+
+*Colossians 3:8*
+
 
 *"But now you also, put them all aside: anger, wrath, malice, slander,
 and abusive speech from your mouth."*
 
 Q. What type of sin is being referred to here?
 
-... your speech
 
 |                                                                |
 |:---------------------------------------------------------------|
@@ -157,7 +121,9 @@ Q. What type of sin is being referred to here?
 | **Sin in anything contrary to God in thought, word, or deed.** |
 |                                                                |
 
-**B. Man is a slave to sin**
+
+### B. Man is a slave to sin
+
 
 **1. Man has a sin nature** (Adam's sin is passed onto us) - Romans 5:12
 
@@ -167,14 +133,18 @@ sinned**--*
 
 Q. What entered into the world due to Adam's disobedience? ... sin
 
-Q. Note: not <u>sins</u> - Why is this significant?
+Q. Note: not _sins_ - Why is this significant?
 
 ⮚ It was the indwelling sin nature that was passed on to man.
 
 ⮚ Adam passed on his Spiritual nature just as he did his physical nature
 to his offspring.
 
-**2. Man is a slave to sin** - John 8:34 (LESSON I.B)
+
+#### 2. Man is a slave to sin
+
+*John 8:34 (LESSON I.B)*
+
 
 *"Jesus answered them, 'Truly, truly, I say to you, everyone who commits
 sin is the **slave of sin**.'*
@@ -186,11 +156,17 @@ Q. What does it mean to be a slave to sin? ... under its control
 **Transition:** Recognizing man's sinful nature, let us look at God's
 indictment of man's condition.
 
-**II. MAN’S NEED FOR CHRIST’S WORK**
 
-**A. The Condition of Man**
+## II. MAN’S NEED FOR CHRIST’S WORK
 
-**1. God's indictment of man** - Romans 3:10-12 (LESSON, pg. 35, I.A)
+
+### A. The Condition of Man
+
+
+#### 1. God's indictment of man
+
+*Romans 3:10-12 (LESSON, pg. 35, I.A)*
+
 
 *10 "as it is written, 'There is **none righteous**, not even one;*
 
@@ -216,19 +192,18 @@ Q. What are six things man is guilty of?
 
 **a. *None righteous***
 
-\(1\) What does *righteous* mean?
+\(1. What does *righteous* mean?
 
 ⮚ Being right before God
 
 ⮚ Being as God created man to be
 
-Q. How many are righteous? ... none ... *<u>not even one</u>*
+Q. How many are righteous? ... none ... *_not even one_*
 
 Q. How can Paul say *none* are righteous?
 
-... A different standard; God's standard
 
-\(2\) People do many things that are morally right, however,
+\(2. People do many things that are morally right, however,
 
 Not even close to the standard of God - Matthew 5:48
 
@@ -237,22 +212,7 @@ Not even close to the standard of God - Matthew 5:48
 
 Q. What is God's standard of righteousness? ... perfection
 
-<table style="width:66%;">
-<colgroup>
-<col style="width: 66%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p><strong>There is not a single person who has ever</strong></p>
-<p><strong>lived, apart from the sinless Lord Jesus Christ,</strong></p>
-<p><strong>whose innermost being could be characterized as</strong></p>
-<p><strong>righteous by God's standard.</strong></p>
-<p><em>The MacArthur N.T. Commentary, Romans 1-8</em>, pg. 182</p></td>
-</tr>
-</tbody>
-</table>
-
-\(3\) How did Isaiah view his righteous deeds? - Isaiah 64:6
+\(3. How did Isaiah view his righteous deeds? - Isaiah 64:6
 
 *"For all of us have become like one who is unclean, And **all our
 righteous deeds are like a filthy garment**; And all of us wither like a
@@ -260,7 +220,7 @@ leaf, And our iniquities, like the wind, take us away."*
 
 Q. How did Isaiah view man's deeds? ... filthy
 
-\(4\) Example: Man righteousness compared to God's
+\(4. Example: Man righteousness compared to God's
 
 ⮚ A group of people were on a south sea island
 
@@ -282,9 +242,9 @@ infinite righteousness
 
 **b. *None who understands***
 
-\(1\) Man has no spiritual capacity to understand or know God.
+\(1. Man has no spiritual capacity to understand or know God.
 
-\(2\) Men are Darkened in their understanding - Ephesians 4:17,18
+\(2. Men are Darkened in their understanding - Ephesians 4:17,18
 
 *17 "This I say therefore, and affirm together with the Lord, that you
 walk no longer just as the Gentiles also walk, in the futility of their
@@ -301,11 +261,11 @@ hearts
 
 **c. *None who seeks God***
 
-\(1\) Because of their hard hearts
+\(1. Because of their hard hearts
 
-\(2\) Rebellious
+\(2. Rebellious
 
-\(3\) Man only seeks God in response to God seeking him - John 6:37
+\(3. Man only seeks God in response to God seeking him - John 6:37
 
 *"**No one can come to Me, unless the Father who sent Me draws him**;
 and I will raise him up on the last day."*
@@ -316,7 +276,7 @@ Q. How then does man find God? ... God must draw him.
 
 Q. What has man turned aside from? ... God
 
-\(1\) The person who is:
+\(1. The person who is:
 
 ⮚ Unrighteous
 
@@ -324,9 +284,8 @@ Q. What has man turned aside from? ... God
 
 ⮚ Rebellious against God
 
-... will live apart from God's will.
 
-\(2\) Isaiah 53:6
+\(2. Isaiah 53:6
 
 *"**All of us like sheep have gone astray, Each of us has turned to his
 own way**; But the Lord has caused the iniquity of us all To fall on
@@ -344,40 +303,33 @@ Q. How many people are lost; have gone their own way?
 
 Q. What does it mean to be useless?
 
-\(1\) Worthless - Titus 1:16
+\(1. Worthless - Titus 1:16
 
 *"They profess to know God, but by their deeds they deny Him, being
 detestable and disobedient, and **worthless for any good deed**."*
 
-\(2\) A person is spiritually dead; lifeless
+\(2. A person is spiritually dead; lifeless
 
-\(3\) A dead branch, unable to produce any fruit
+\(3. A dead branch, unable to produce any fruit
 
 **f. Summary: *None who does good***
 
-<table style="width:59%;">
-<colgroup>
-<col style="width: 58%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p><em><strong>“There is none who does good, There
-is</strong></em></p>
-<p><em><strong>not even on” (Romans 3:12)</strong></em></p></td>
-</tr>
-</tbody>
-</table>
 
-**2. Further indictment of man** - Romans 3:13-18
+#### 2. Further indictment of man
+
+*Romans 3:13-18*
+
 
 a\. Throat is an open grave - cursing/ bitterness
 
 b\. No fear of God - Romans 3:18 *"There is no fear of God before their
 eyes."*
 
-**3. Man is totally depraved**
 
-**a. Does <u>not</u> mean:**
+#### 3. Man is totally depraved
+
+
+**a. Does _not_ mean:**
 
 1). Devoid of any qualities pleasing to man.
 
@@ -403,9 +355,14 @@ eyes."*
 |-----------------------|
 | ***Total Depravity*** |
 
-**B. The Consequence of man's sin**
 
-**1. God is your enemy** - James 4:4
+### B. The Consequence of man's sin
+
+
+#### 1. God is your enemy
+
+*James 4:4*
+
 
 *"You adulteresses, do you not know that friendship with the world is
 hostility toward God? Therefore whoever wishes to be **a friend of the
@@ -413,7 +370,6 @@ world makes himself an enemy of God.**"*
 
 Q. What does it mean to be a friend of the world?
 
-... The pleasure and lusts of the world
 
 ⮚ Satan has power in the world - 1 John 5:19
 
@@ -423,9 +379,11 @@ the evil one**."*
 Q. What is the consequence of being a friend of the world or Satan's
 system?
 
-... God is your enemy.
 
-**2. Facing death** - Romans 6:23
+#### 2. Facing death
+
+*Romans 6:23*
+
 
 *"For **the wages of sin is death**, but the free gift of God is eternal
 life in Christ Jesus our Lord."*
@@ -440,11 +398,15 @@ b\. Physical death
 
 c\. Eternal death
 
-\(1\) Called 2nd death - Revelation 21:8
+\(1. Called 2nd death - Revelation 21:8
 
-\(2\) Eternal separation from God
+\(2. Eternal separation from God
 
-**3. Facing condemnation & eternal separation from God** - 2
+
+#### 3. Facing condemnation & eternal separation from God
+
+*2*
+
 Thessalonians 1:8-9
 
 *8 "dealing out retribution **to those who do not know God** and to
@@ -457,62 +419,30 @@ Q. Who will be separated from God? ... *those who do not know Him*
 
 Q. For how long? ... *forever*
 
-**4. Helpless to save himself** - Romans 5:6
+
+#### 4. Helpless to save himself
+
+*Romans 5:6*
+
 
 *"For while **we were still helpless**, at the right time Christ died
 for the ungodly."*
 
 Q. In what way are we helpless?
 
-<table style="width:74%;">
-<colgroup>
-<col style="width: 6%" />
-<col style="width: 59%" />
-<col style="width: 7%" />
-</colgroup>
-<tbody>
-<tr>
-<td colspan="3"><strong>The Helpless state of Man</strong></td>
-</tr>
-<tr>
-<td colspan="3"><p>... Separated from God</p>
-<p>... Unable to do any righteous deed to please God</p>
-<p>... Unable to understand God</p>
-<p>... Lost, unable to find God</p>
-<p>... Useless to God</p>
-<p>... An enemy of God</p>
-<p>... Facing death</p>
-<p>... Facing eternal separation from God</p></td>
-</tr>
-<tr>
-<td></td>
-<td><p><strong>The only hope for man was for God to reach
-out</strong></p>
-<p><strong>to man and save him.</strong></p>
-<p><em><strong>We needed a new nature.</strong></em></p>
-<p><em><strong>One to replace our sinful nature.</strong></em></p>
-<p><strong>We needed Christ!</strong></p></td>
-<td></td>
-</tr>
-<tr>
-<td colspan="3"><p>2 Peter 1:4</p>
-<blockquote>
-<p><em>"For by these He has granted to us His precious and magnificent
-promises, in order that by them you might become <strong>partakers of
-the divine nature</strong>, having escaped the corruption that is in the
-world by lust."</em></p>
-</blockquote></td>
-</tr>
-</tbody>
-</table>
-
 **Note:** We will see in the next lesson that Salvation is all of God.
 
-**III. THE WORK OF CHRIST**
 
-**A. The need for a sacrifice**
+## III. THE WORK OF CHRIST
 
-**1. Forgiveness requires the shedding of blood** - Hebrews 9:22
+
+### A. The need for a sacrifice
+
+
+#### 1. Forgiveness requires the shedding of blood
+
+*Hebrews 9:22*
+
 
 *"And according to the Law, one may almost say, all things are cleansed
 with blood, and **without shedding of blood there is no forgiveness**."*
@@ -521,22 +451,9 @@ Q. Man has a sin problem.
 
 What must happen before forgiveness can occur?
 
-... there had to be the *shedding of blood*.
 
-<table style="width:71%;">
-<colgroup>
-<col style="width: 71%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p><strong>God's Justice required a sacrifice ...</strong></p>
-<p><strong>There could be no forgiveness of our sin</strong></p>
-<p><strong>without the shedding of blood.</strong></p></td>
-</tr>
-</tbody>
-</table>
+#### 2. God had set the requirement for the atonement of sin
 
-**2. God had set the requirement for the atonement of sin**
 
 **The shedding of blood was required** - Leviticus 17:11
 
@@ -544,27 +461,15 @@ What must happen before forgiveness can occur?
 you on the altar **to make atonement for your souls**; for it is the
 blood by reason of the life that makes atonement."*
 
-**B. The provision of the sacrifice**
 
-<table style="width:73%;">
-<colgroup>
-<col style="width: 72%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p><strong>God's love provided a sacrifice ...</strong></p>
-<p><strong>His beloved Son.</strong></p>
-<p>John 3:16</p>
-<p><em>“For <strong>God so loved the world, that He gave His only
-begotten Son</strong>, that whoever believes in Him should not perish,
-but have eternal life."</em></p></td>
-</tr>
-</tbody>
-</table>
+### B. The provision of the sacrifice
 
-**C. The Cost of the Sacrifice**
 
-**1. Christ's Humiliation**
+### C. The Cost of the Sacrifice
+
+
+#### 1. Christ's Humiliation
+
 
 **a. The Humiliation of the Incarnation** (LESSON, pg. 36, II.A)
 
@@ -572,21 +477,12 @@ Q. What are the three things Christ did when He came to earth?
 
 (answers on lesson)
 
-... ⮚ Emptied Himself
-
-... ⮚ Took on the form of a bondservant
-
-... ⮚ Made in the likeness of a man
 
 Q. This event of God becoming a man - what was it called?
 
-... The incarnation or Kenosis
 
 Q. Why was the incarnation so humiliating?
 
-... Christ gave up His glory
-
-... He came knowing He would die a disgraceful death
 
 **b. Despised of men** - Isaiah 53:3 (LESSON, pg. 36, II.B)
 
@@ -618,7 +514,9 @@ He confronted man's sin.
 
 Would He have been treated any differently today?
 
-**2. The burden of carrying the sin of all mankind**
+
+#### 2. The burden of carrying the sin of all mankind
+
 
 **a. The agony before His crucifixion** - Luke 22:41-44
 
@@ -641,37 +539,26 @@ Context:
 
 Q. What was Christ praying for? (verse 42)
 
-... That the cup be removed
 
 Q. What was the cup?
 
-... His crucifixion
 
 Q. What was Christ feeling? (verse 44)
 
-... He was in agony
 
 Q. How intense was His agony?
 
-... He needed strengthening (verse 43)
-
-... He was praying fervently (verse 44)
-
-... He was sweating drops of blood (verse 44)
 
 Q. Can you feel His pain?
 
 Q. Why do you think Christ was feeling such pain?
 
-... The weight of the cross
-
-... The weight of bearing the sin of mankind
-
-... Anticipating the separation from the love of the Father
 
 Q. Do you think it was easy for Christ to go to the cross?
 
-**3. The Crucifixion**
+
+#### 3. The Crucifixion
+
 
 ◙ Have five different students read through the following passages.
 
@@ -819,11 +706,17 @@ themselves, casting lots;*
 *37 And they put up above His head the charge against Him which read,
 'THIS IS JESUS THE KING OF THE JEWS.'"*
 
-**IV. THE JUDGEMENT OF GOD AT THE CROSS**
 
-**A. The Wrath of God upon Christ**
+## IV. THE JUDGEMENT OF GOD AT THE CROSS
 
-**1. Christ forsaken by the Father** - Matthew 27:46
+
+### A. The Wrath of God upon Christ
+
+
+#### 1. Christ forsaken by the Father
+
+*Matthew 27:46*
+
 
 *"And about the ninth hour Jesus cried out with a loud voice, saying,
 'Eli, Eli, lama sabachthani?' that is, '**My God, My God, why hast Thou
@@ -836,19 +729,12 @@ Me?'*
 
 Q. What title did Christ address God with? ... *God*
 
-... This is the only time Jesus did not address God as Father.
-
-... Why? ... We will see as we go along.
 
 Q. What does *forsaken* mean?
 
-... To leave behind
-
-... To abandoned; to desert
 
 Q. Why did the Father forsake or abandon the Son?
 
-... Christ had become sin
 
 ◙ **Christ had taken on sin - the Father turned His back**
 
@@ -872,7 +758,6 @@ from the Son.
 
 ⮚ God was separated from God:
 
-**2. During the separation - The wrath of the Father falls on the
 Son** - Isaiah 53:10
 
 *"But **the Lord was pleased To crush Him**, putting Him to grief; If He
@@ -886,57 +771,20 @@ Can you imagine crushing your son.
 
 God did it for you.
 
-<table style="width:71%;">
-<colgroup>
-<col style="width: 71%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>The God-Man Separated from
-God</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><p>“In some way and by some means, in
-the secrets of divine sovereignty and omnipotence, the God-Man was
-separated from God for a brief time at Calvary, as the furious wrath of
-the Father was poured out on the sinless Son, who in matchless grace
-became sin for those who believe in Him."</p>
-<p>"This mystery is so great that Martin Luther is said to have gone
-into seclusion for a long time trying to understand it and</p>
-<p>came away as confused as when he began."</p>
-<p>The MacArthur New Testament Commentary, Matthew 24-28, page
-270</p></td>
-</tr>
-</tbody>
-</table>
-
 ◙ **Christ did not cease to exist as God**
 
 ⮚ He did cease to know the intimacy of fellowship with the Father.
 
 ⮚ Some of the intimacy had already been forfeited in the incarnation.
 
-<table style="width:71%;">
-<colgroup>
-<col style="width: 71%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>True Love
-Demonstrated</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><p>1John 4:10</p>
-<p><em>"<strong>In this is love</strong>, not that we loved God, but
-that <u>He loved us</u> and sent His Son to be the propitiation for our
-sins."</em></p></td>
-</tr>
-</tbody>
-</table>
 
-**B. God's Judgement - seen in darkness**
+### B. God's Judgement - seen in darkness
 
-**1. At Christ's birth - glorious light** - Luke 2:9
+
+#### 1. At Christ's birth - glorious light
+
+*Luke 2:9*
+
 
 *"And an angel of the Lord suddenly stood before them, and **the glory
 of the Lord shone around them**; and they were terribly frightened."*
@@ -945,14 +793,22 @@ Q. Was it dark at Christ birth?
 
 Q. What was shinning?
 
-**2. Christ Himself was the light of men** - John 1:4,5
+
+#### 2. Christ Himself was the light of men
+
+*John 1:4,5*
+
 
 *4 "In Him was life, and the life was the **light of men**.*
 
 *5 And the light shines in the darkness, and the darkness did not
 comprehend it."*
 
-**3. At Christ's death - Supernatural darkness** - Matthew 27:45
+
+#### 3. At Christ's death - Supernatural darkness
+
+*Matthew 27:45*
+
 
 *"Now from the sixth hour **darkness fell** upon all the land until the
 ninth hour."*
@@ -973,9 +829,14 @@ Q. Why?
 
 ⮚ MacArthur - Judgement
 
-**V. CHRIST’S DEATH**
 
-**A. Christ's last words** - John 19:26-30
+## V. CHRIST’S DEATH
+
+
+### A. Christ's last words
+
+*John 19:26-30*
+
 
 *26 "When Jesus therefore saw His mother, and the disciple whom He loved
 standing nearby, He said to His mother, 'Woman, behold, your son!'*
@@ -994,7 +855,11 @@ mouth.*
 *30 When Jesus therefore had received the sour wine, He said, '**It is
 finished!**' And **He bowed His head, and gave up His spirit.**"*
 
-**B. Events at His death** - Matthew 27:51-53
+
+### B. Events at His death
+
+*Matthew 27:51-53*
+
 
 *51 "And behold, **the veil of the temple was torn in two from top to
 bottom**, and **the earth shook**; and the rocks were split,*
@@ -1009,21 +874,24 @@ Q. What events happened at Christ's death?
 
 ⮚ Veil of temple torn - top to bottom (verse 51)
 
-... The veil isolating the Holy of Holies
 
 Represented the presence of God
 
 Entered in once a year by the High Priest only
 
-... Now everyone can enter into God's presence!
 
 ⮚ Earthquake
 
 ⮚ Resurrection of saints
 
-**VI. CHRIST’S RESURRECTION AND CONTINUING WORK**
 
-**A. Christ rose from the Dead** - Romans 1:4 (LESSON, pg. 39, V.A)
+## VI. CHRIST’S RESURRECTION AND CONTINUING WORK
+
+
+### A. Christ rose from the Dead
+
+*Romans 1:4 (LESSON, pg. 39, V.A)*
+
 
 *"who was **declared the Son of God with power by the resurrection from
 the dead**, according to the Spirit of holiness, Jesus Christ our
@@ -1037,64 +905,39 @@ Because He lives we may live also
 
 See *"The Necessity of the Resurrection of Christ"*, next page.
 
-**B. He is now the intercessor for us before God**
 
-**1. Intercessor** - Hebrews 7:25 (LESSON pg. 39, V.D)
+### B. He is now the intercessor for us before God
+
+
+#### 1. Intercessor
+
+*Hebrews 7:25 (LESSON pg. 39, V.D)*
+
 
 *"Hence, also, He is able to save forever those who draw near to God
 through Him, since **He always lives to make intercession for them.**"*
 
-**2. Mediator** - I Timothy 2:5 (LESSON pg. 40, V.E)
+
+#### 2. Mediator
+
+*I Timothy 2:5 (LESSON pg. 40, V.E)*
+
 
 *"For there is one God, and **one mediator also between God and men**,
 the man **Christ Jesus**,"*
 
-**C. Went to prepare a place for us ... And will come again!**
+
+### C. Went to prepare a place for us ... And will come again!
+
 
 John 14:3 (LESSON pg. 40, V.F)
 
 *"And if **I go and prepare a place for you, I will come again**, and
 receive you to Myself; that where I am, there you may be also."*
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>The Necessity of the
-Resurrection of Christ</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><p>◙ 1 Corinthians 15:13-21</p>
-<p><em>13 But if there is no resurrection of the dead, not even Christ
-has been raised;</em></p>
-<p><em>14 and if Christ has not been raised, then <strong>our preaching
-is vain, your faith also is vain.</strong></em></p>
-<p><em>15 Moreover <strong>we are even found to be false witnesses of
-God</strong>, because we witnessed against God that He raised Christ,
-whom He did not raise, if in fact the dead are not raised.</em></p>
-<p><em>16 For if the dead are not raised, <strong>not even Christ has
-been raised</strong>;</em></p>
-<p><em>17 and if Christ has not been raised, <strong>your faith is
-worthless; you are still in your sins</strong>.</em></p>
-<p><em>18 Then <strong>those also who have fallen asleep in Christ have
-perished</strong>.</em></p>
-<p><em>19 If we have hoped in Christ in this life only, <strong>we are
-of all men most to be pitied</strong>.</em></p>
-<p><em>20 But now <u>Christ has been raised from the dead, the first
-fruits of those who are asleep</u>.</em></p>
-<p><em>21 For since by a man came death, by a man also came the
-resurrection of the dead.</em></p>
-<p><em>22 <strong>For as in Adam all die, so also in Christ all shall be
-made alive</strong>.</em></p></td>
-</tr>
-</tbody>
-</table>
-
 **Questions:**
 
-1\. What are some of the consequences of Christ not rising from the
+1. What are some of the consequences of Christ not rising from the
 dead?
 
 ⮚ Verse 14: Our preaching is in vain
@@ -1113,11 +956,11 @@ dead?
 
 ⮚ Verse 19: We are to be pitied for being deluded
 
-2\. Why is Christ called a first fruits?
+2. Why is Christ called a first fruits?
 
 ⮚ ... Because there would be many to follow ... us!
 
-3\. **Conclusion: Adam brought death; Christ brought life.**
+3. **Conclusion: Adam brought death; Christ brought life.**
 
 **VII. THE PROVISION OF CHRIST’S WORK** (LESSON, pg. 37, section III)
 
@@ -1125,21 +968,27 @@ Q. What did Christ's work on the cross provide?
 
 Have students read their answers.
 
-**A. Bring us to God** - 1 Peter 3:18 (LESSON, pg. 37, III.A)
+
+### A. Bring us to God
+
+*1 Peter 3:18 (LESSON, pg. 37, III.A)*
+
 
 *"For Christ also died for sins once for all, the just for the unjust,
 in order that **He might bring us to God**, having been put to death in
 the flesh, but made alive in the spirit;"*
 
-**B. Reconciliation**
 
-1\. Once Enemies - James 4:4b
+### B. Reconciliation
+
+
+1. Once Enemies - James 4:4b
 
 *"You adulteresses, do you not know that friendship with the world is
 hostility toward God? Therefore whoever wishes to be a friend of the
 world makes himself **an enemy of God**."*
 
-2\. Now Reconciled - Romans 5:10 (LESSON, pg. 37, III.B)
+2. Now Reconciled - Romans 5:10 (LESSON, pg. 37, III.B)
 
 *"For if while we **were enemies**, we were **reconciled to God**
 through the death of His Son, much more, having been reconciled, we
@@ -1151,18 +1000,27 @@ shall be saved by His life."*
 
 ⮚ Now peace with God ("*... we have peace with God*", Rom. 5:1)
 
-**C. Refer to LESSON, page 38 - Table.**
 
-**VIII. APPLICATION - OUR RESPONSE TO CHRIST’S WORK**
+### C. Refer to LESSON, page 38 - Table.
 
-**A. If not a Christian**
 
-**1. Recognize who Christ is ... God & Savior** - Titus 2:13
+## VIII. APPLICATION - OUR RESPONSE TO CHRIST’S WORK
+
+
+### A. If not a Christian
+
+
+#### 1. Recognize who Christ is ... God & Savior
+
+*Titus 2:13*
+
 
 *"looking for the blessed hope and the appearing of the glory of our
 **great God and Savior, Christ Jesus**;"*
 
-**2. Recognize your condition before God**
+
+#### 2. Recognize your condition before God
+
 
 ⮚ Separated from God
 
@@ -1180,13 +1038,21 @@ shall be saved by His life."*
 
 ⮚ Facing eternal separation from God
 
-**3. Repent of your sin & call upon Christ as your savior** - Acts 3:19
+
+#### 3. Repent of your sin & call upon Christ as your savior
+
+*Acts 3:19*
+
 
 *"**Repent therefore** and return, that your sins may be wiped away, in
 order **that times of refreshing may come from the presence of the
 Lord**;"*
 
-**4. Acknowledge Christ as Lord** - Romans 10:9,10
+
+#### 4. Acknowledge Christ as Lord
+
+*Romans 10:9,10*
+
 
 *9 "that if you **confess with your mouth Jesus as Lord**, and **believe
 in your heart that God raised Him from the dead**, you shall be saved;*
@@ -1194,8 +1060,10 @@ in your heart that God raised Him from the dead**, you shall be saved;*
 *10 for with the heart man believes, resulting in righteousness, and
 with the mouth he confesses, resulting in salvation.*
 
-**B. If a Christian**
 
-1\. Thank Christ continually for your salvation.
+### B. If a Christian
 
-2\. Offer Him worship and praise.
+
+1. Thank Christ continually for your salvation.
+
+2. Offer Him worship and praise.

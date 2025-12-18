@@ -1,14 +1,28 @@
-**═════════════════════════════════════════════════════════════════**
+# Fundamentals of the Faith
 
-***Fundamentals of the Faith***
+## Lesson 10: Spiritual Gifts
+
+---
+
+## Table of Contents
+
+- [I. GENERAL](#i-general)
+- [II. THE GIVING OF SPIRITUAL GIFTS](#ii-the-giving-of-spiritual-gifts)
+- [III. THE MINISTRY AND PURPOSE OF SPIRITUAL GIFTS](#iii-the-ministry-and-purpose-of-spiritual-gifts)
+- [IV. A LOOK AT THE GIFTS](#iv-a-look-at-the-gifts)
+- [V. THE DISCOVERY OF YOUR GIFT](#v-the-discovery-of-your-gift)
+- [VI. EXPANSION ON THE GIFT OF TONGUES](#vi-expansion-on-the-gift-of-tongues)
+- [VII. APPLICATION](#vii-application)
+
+---
 
 **Lesson \#10**
 
 **Spiritual Gifts**
 
-**══════════════════════════════════════════════════════════════════**
 
-**I. GENERAL**
+## I. GENERAL
+
 
 **\* A. Spiritual giftedness - definition**
 
@@ -21,7 +35,7 @@ words:
 (This section from John MacArthur, The MacArthur N.T. Commentary, 1
 Corinthians, pg. 290)
 
-1\. *Charismata*
+1. *Charismata*
 
 a\. root is *charis* - meaning grace or undeserved favor
 
@@ -39,7 +53,7 @@ You don't work for it or strive for it (Quiz question \#2)
 
 A gift is given to you. It is free.
 
-2\. *Pneumatika*
+2. *Pneumatika*
 
 a\. Spiritualities; something from the Spirit
 
@@ -49,13 +63,15 @@ b\. Indicates the source is from God
 
 Not a physical talent
 
-**C. Different from talents**
 
-1\. Both have their origin in God
+### C. Different from talents
 
-2\. They may work together
 
-3\. Note: Talents .... come from natural birth
+1. Both have their origin in God
+
+2. They may work together
+
+3. Note: Talents .... come from natural birth
 
 Gifts ....... come from the second birth
 
@@ -63,22 +79,32 @@ Therefore: Believers and non-believers have talents
 
 Only believers have spiritual giftedness
 
-**II. THE GIVING OF SPIRITUAL GIFTS**
+
+## II. THE GIVING OF SPIRITUAL GIFTS
+
 
 Q. Who is the source of spiritual giftedness? (LESSON I, pg. 73)
 
-**A. The Holy Spirit** - 1 Corinthians 12:11 (LESSON I.A.1)
+
+### A. The Holy Spirit
+
+*1 Corinthians 12:11 (LESSON I.A.1)*
+
 
 *"But one and **the** same **Spirit** works all these things,
 **distributing to each one** **individually** just as He wills."*
 
-**B. God** - 1 Corinthians 12:28 (LESSON I.A.2)
+
+### B. God
+
+*1 Corinthians 12:28 (LESSON I.A.2)*
+
 
 *"And **God has appointed** in the church, first apostles, second
 prophets, third teachers, then miracles, then gifts of healings, helps,
 administrations, various kinds of tongues."*
 
-\* **C. <u>All Christians</u> have been given a special gift** - 1 Peter
+\* **C. _All Christians_ have been given a special gift** - 1 Peter
 4:10 (LESSON I.B)
 
 *"As **each one has received a special gift**, employ it in serving one
@@ -89,81 +115,38 @@ Q. Who possesses spiritual giftedness?
 Q. Who is "*each one*"? ... Peter is addressing Christians (context
 verse 3:21)
 
-... all Christians
 
 **Note:**
 
 Q. If all ChristianS have a ***spiritual gift*** then when did they
 receive it?
 
-... at the time of salvation
 
 Q. Again, when do Christians receive their spiritual gift?
 
-... at the time of salvation
 
 Q. How many Christians have a spiritual gift?
 
-... all Christians
-
-<table style="width:74%;">
-<colgroup>
-<col style="width: 73%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p>* The body of believers cannot Scripturally be divided
-between</p>
-<p><em><strong>Charismatic</strong></em> and
-<em><strong>Non-charismatic</strong></em> groups.</p></td>
-</tr>
-</tbody>
-</table>
 
 Q. Note, what else can you learn from 1 Peter 4:10?
 
 In the beginning of the verse, what is the significance of the article
 "*a*"?
 
-... one, a singular gift!
 
 \_ ***Gift*** is singular
 
 Q. What is the significance?
 
-... it is one gift or giftedness
 
-... it is a unique mixture of all the gifts!
+### D. Your spiritual gift is unique
 
-**D. Your spiritual gift is unique**
 
-1\. Your gift is a mixture of several gifts - like a painting
+1. Your gift is a mixture of several gifts - like a painting
 
-2\. The Holy Spirit paints you for given ministries
+2. The Holy Spirit paints you for given ministries
 
-<table style="width:77%;">
-<colgroup>
-<col style="width: 77%" />
-</colgroup>
-<tbody>
-<tr>
-<td><strong>* A <em>Unique</em> Spiritual Gift</strong></td>
-</tr>
-<tr>
-<td><p>"A believer's gifts can be an overlapping combination, taken in
-different proportions from the categories of gifts. ...</p>
-<p>It is best to see a person's gift as a unique blend of the categories
-of giftedness, granted to that individual in connection with his or her
-traits and experiences and the needs of the church.</p>
-<p>Each believer becomes as unique spiritually as his fingerprints are
-physically."</p>
-<p>John MacArthur, The MacArthur N.T. Commentary, 1 Corinthians, pg.
-291</p></td>
-</tr>
-</tbody>
-</table>
-
-4\. **Example:** The church is like a football team
+4. **Example:** The church is like a football team
 
 Many team members - each uniquely gifted
 
@@ -201,75 +184,60 @@ just as He desired.*
 
 *19 And if they were all one member, where would the body be?"*
 
-\_ That leads us to the purpose of spiritual gifts ...
+\_ That leads us to the purpose of spiritual gifts
 
-**III. THE MINISTRY AND PURPOSE OF SPIRITUAL GIFTS**
 
-**A. For the common good** - 1 Corinthians 12:7 (LESSON I.C.1)
+## III. THE MINISTRY AND PURPOSE OF SPIRITUAL GIFTS
+
+
+### A. For the common good
+
+*1 Corinthians 12:7 (LESSON I.C.1)*
+
 
 *"But to each one is given the manifestation of the Spirit **for the
 common good**."*
 
 Q. The common good of who?
 
-... the church (see below)
 
-**B. For the edification of the church** - 1 Corinthians 14:12 (LESSON
+### B. For the edification of the church
+
+*1 Corinthians 14:12 (LESSON*
+
 I.C.2)
 
 *"So also you, since you are zealous of **spiritual gifts**, seek to
-**abound for the <u>edification</u> of the church**."*
+**abound for the _edification_ of the church**."*
 
 Q. What is edification?
 
-... "to build up"
 
 \* **C. Serving one another** (refer back to 1 Peter 4:10 - LESSON I.C)
 
-*"As **each one has received a special gift, employ it in <u>serving one
-another</u>**, as good stewards of the manifold grace of God."*
+*"As **each one has received a special gift, employ it in _serving one
+another_**, as good stewards of the manifold grace of God."*
 
 Q. Again - how many Christians have received a spiritual gift? ... all
 Christians
 
 Q. From the second part of the verse - what are we suppose to do?
 
-... employ it
-
-... in service
 
 Q. What does *employ mean*? ... a command; do it
 
 Q. Note: *steward*. What is a steward? ... someone entrusted with
 something
 
-... in this context - entrusted to employ our gifts in service within
 the Church
 
 Q. Who are we suppose to serve? ... one another
 
 Q. Are we suppose to use the gift to serve or edify ourselves? ... no
 
-... spiritual gifts are not meant for self edification
 
-... spiritual gifts are for the edification of others
+### D. The context of the giving of the spiritual gifts
 
-<table style="width:65%;">
-<colgroup>
-<col style="width: 64%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p><strong>*</strong></p>
-<p><strong>God gives His gifts <em>to</em> us <em>for</em>
-others.</strong></p>
-<p>John MacArthur, The MacArthur N.T. Commentary, 1 Corinthians, pg.
-292</p></td>
-</tr>
-</tbody>
-</table>
-
-**D. The context of the giving of the spiritual gifts**
 
 \_ The context of the giving of *spiritual gifts* is that of the body of
 Christ, and the need for each member to carry out his or her God-given
@@ -297,9 +265,6 @@ should have the same care for one another."*
 
 Q. What are the two commands given here?
 
-... no divisions in the body
-
-... care for one another
 
 **Points:**
 
@@ -328,7 +293,7 @@ not have love, I am nothing.*
 *3 And if I give all my possessions to feed the poor, and if I deliver
 my body to be burned, but do not have love, it profits me nothing.*
 
-*4 **<u>Love is</u>** **patient**, love is **kind**, and is **not
+*4 **_Love is_** **patient**, love is **kind**, and is **not
 jealous**; love **does not brag** and is **not arrogant**,*
 
 *5 **does not act unbecomingly**; it **does not seek its own**, is **not
@@ -340,11 +305,17 @@ truth**;*
 *7 **bears all things**, **believes all things**, **hopes all things**,
 **endures all things**."*
 
-**IV. A LOOK AT THE GIFTS**
 
-**A. The Number of Gifts** - scholars disagree - from 9 to 22
+## IV. A LOOK AT THE GIFTS
 
-**1. Because the lists are not identical**
+
+### A. The Number of Gifts
+
+*scholars disagree - from 9 to 22*
+
+
+#### 1. Because the lists are not identical
+
 
 God did not give a rigid, precise and exhaustive compilation
 
@@ -364,7 +335,7 @@ I **We believe these were gifted men appointed by God to the church**
 \- 1 Corinthians 12:28
 
 *"And **God has appointed** in the church, first apostles, second
-prophets, third teachers, **then** miracles, **<u>then gifts</u>** of
+prophets, third teachers, **then** miracles, **_then gifts_** of
 healings, helps, administrations, various kinds of tongues."*
 
 **Note:** *Appointed* means to set or place, indicates an official
@@ -375,7 +346,9 @@ You don't receive the gift of Apostle - it is an appointment
 **Note:** We saw last week that the office of apostle and prophet have
 passed away (see LESSON 9, page 7, section II.B)
 
-**B. Categories:**
+
+### B. Categories:
+
 
 I 1. According to their nature - speaking, serving - 1 Peter 4:11
 
@@ -384,9 +357,9 @@ I 1. According to their nature - speaking, serving - 1 Peter 4:11
 so that in all things God may be glorified through Jesus Christ, to whom
 belongs the glory and dominion forever and ever. Amen."*
 
-2\. According to their aspects - motivation, ministries, manifestations
+2. According to their aspects - motivation, ministries, manifestations
 
-3\. According to their duration - permanent or temporary
+3. According to their duration - permanent or temporary
 
 **Note:** You don't divide over such issues.
 
@@ -394,14 +367,16 @@ The Bible is not that specific.
 
 **C. The permanent gifts** (See LESSON II.B, pg. 74)
 
-**1. Prophecy**
+
+#### 1. Prophecy
+
 
 I A gift to be coveted by the Church because it builds the church up
 
 1 Corinthians 14:3
 
-*"But **one who prophesies** <u>speaks to men for edification and
-exhortation and consolation</u>."*
+*"But **one who prophesies** _speaks to men for edification and
+exhortation and consolation_."*
 
 To foretell the future
 
@@ -440,7 +415,7 @@ Amen. Come, Lord Jesus.*
 \_ People are saying, "The Lord said ..." ... is God speaking to people
 today?
 
-\_ Jack Hayford ... saw Jesus on the right hand of the Father, robe ...
+\_ Jack Hayford ... saw Jesus on the right hand of the Father, robe
 
 \_ Copeland - school of prophets - train to be a prophet
 
@@ -454,35 +429,37 @@ today?
 
 **\_ See the lesson for definition of the following gifts:**
 
-2\. Teaching
+2. Teaching
 
-3\. Faith
+3. Faith
 
-4\. Wisdom
+4. Wisdom
 
-5\. Knowledge
+5. Knowledge
 
-6\. Discernment
+6. Discernment
 
-7\. Mercy
+7. Mercy
 
-8\. Exhortation
+8. Exhortation
 
-9\. Giving
+9. Giving
 
-10\. Administration/ Leadership
+10. Administration/ Leadership
 
-11\. Helps
+11. Helps
 
-12\. Service
+12. Service
 
-**D. The temporary gifts**
 
-1\. Tongues/ interpretation of tongues
+### D. The temporary gifts
 
-2\. Healing
 
-3\. Miracles
+1. Tongues/ interpretation of tongues
+
+2. Healing
+
+3. Miracles
 
 \_ **We believe:** They ceased to be evident as the church was
 established
@@ -492,7 +469,7 @@ established
 **Confirmation of the gospel** - Hebrews 2:3-4
 
 *3 "how shall we escape if we neglect so great a **salvation**? After it
-was at the first spoken through the Lord, <u>it was confirmed to us</u>
+was at the first spoken through the Lord, _it was confirmed to us_
 by those who heard,*
 
 *4 **God also bearing witness** with them, both **by signs and wonders
@@ -501,13 +478,13 @@ His own will."*
 
 **Confirmation of the apostles** - 2 Corinthians 12:12
 
-*"The <u>signs of a true apostle</u> were performed among you with all
+*"The _signs of a true apostle_ were performed among you with all
 perseverance, by **signs** and **wonders** and **miracles**."*
 
 **Attested to the deity of Christ** - Acts 2:22
 
-*"Men of Israel, listen to these words: **Jesus the Nazarene**, <u>a man
-attested to</u> you by God with **miracles and wonders and signs** which
+*"Men of Israel, listen to these words: **Jesus the Nazarene**, _a man
+attested to_ you by God with **miracles and wonders and signs** which
 God performed through Him in your midst, just as you yourselves know--"*
 
 **Gift of tongues was a special sign gift**
@@ -522,14 +499,18 @@ no longer needed to attest to their authority
 Christ is now revealed to us through the Holy Spirit and through the
 Bible
 
-**1. Tongues/ interpretation of tongues**
+
+#### 1. Tongues/ interpretation of tongues
+
 
 Manifested by the speaking of a language unknown to the speaker. This
 gift had to be accompanied by the gift of interpretation.
 
 (Will be developed, two sections ahead)
 
-**2. The gift of healing**
+
+#### 2. The gift of healing
+
 
 **a. Who had the gift?**
 
@@ -537,7 +518,7 @@ gift had to be accompanied by the gift of interpretation.
 
 *"And **Jesus** was going about **in all Galilee**, teaching in their
 synagogues, and proclaiming the gospel of the kingdom, and **healing
-<u>every kind</u> of disease and <u>every kind</u> of sickness** among
+_every kind_ of disease and _every kind_ of sickness** among
 the people."*
 
 \* **(2) The disciples** - Matthew 10:1
@@ -588,14 +569,19 @@ Did not heal Epaproditus - Philippians 2:27
 
 Did not heal Timothy - 1 Timothy 5:23
 
-**3. The gift of miracles**
 
-**1. Definition:**
+#### 3. The gift of miracles
+
+
+#### 1. Definition:
+
 
 A supernatural intrusion into the natural world and its natural laws. An
 event explainable only by divine intrusion.
 
-**2. Examples of Christ's miracles:**
+
+#### 2. Examples of Christ's miracles:
+
 
 Jesus turning water into wine - John 2:11
 
@@ -620,37 +606,12 @@ name."*
 
 **Note:** No disciple did a miracle of nature.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p><strong>*</strong></p>
-<p><strong>Recap of Spiritual Gifts</strong></p></td>
-</tr>
-<tr>
-<td><p>1. A gift from God</p>
-<p>2. At the time of salvation</p>
-<p>3. All Christians have a special gift</p>
-<p>4. The gift is singular - a mixture or painting of gifts</p>
-<p>5. We are exhorted to employ it in serving others - not
-self-centered</p>
-<p>6. Their purpose is to build up the body of Christ</p>
-<p>7. Permanent gifts - for today</p>
-<p>8. Temporary gifts - have passed away</p>
-<p>9. The purpose of temporary gifts were:</p>
-<p>Confirmation of the gospel - Hebrews 2:3-4</p>
-<p>Confirmation of the apostles - 2 Corinthians 12:12</p>
-<p>Attest to the deity of Christ - Acts 2:22</p>
-<p>Tongues - a special sign gift</p></td>
-</tr>
-</tbody>
-</table>
 
-**V. THE DISCOVERY OF YOUR GIFT**
+## V. THE DISCOVERY OF YOUR GIFT
 
-**A. We should all be ministering in many of the gifted areas**
+
+### A. We should all be ministering in many of the gifted areas
+
 
 Q. If you do not have the gift of *giving*, do you not give?
 
@@ -658,7 +619,7 @@ If you do not have the gift of *helps*, do you not help?
 
 If you do not have the give of *mercy*, do you not show mercy?
 
-**\_ Some Christians are just <u>specially gifted</u>** in different
+**\_ Some Christians are just _specially gifted_** in different
 areas for ministry.
 
 I,S **\_ All Christians should exhibit:** (LESSON IV.A, pg. 78, box)
@@ -693,36 +654,21 @@ f\. Care for one another (helps) - 1 Corinthians 12:25
 *"that there should be no division in the body, but that **the members
 should have the same care for one another**."*
 
-**B. Finding your giftedness**
 
-1\. The Bible does not specifically say how
+### B. Finding your giftedness
 
-2\. Move out in faith - let God guide you into ministry
 
-3\. Be obedient in the areas above, some areas may stand out!
+1. The Bible does not specifically say how
 
-4\. Some believe in taking tests to find your gift
+2. Move out in faith - let God guide you into ministry
 
-... not really much value
+3. Be obedient in the areas above, some areas may stand out!
 
-<table style="width:77%;">
-<colgroup>
-<col style="width: 77%" />
-</colgroup>
-<tbody>
-<tr>
-<td><strong>* Finding One's Spiritual Gift</strong></td>
-</tr>
-<tr>
-<td><p>"There is not much value in taking tests, formal or informal, to
-determine what spiritual gifts you have."</p>
-<p>John MacArthur, The MacArthur N.T. Commentary, 1 Corinthians, pg.
-291</p></td>
-</tr>
-</tbody>
-</table>
+4. Some believe in taking tests to find your gift
 
-**VI. EXPANSION ON THE GIFT OF TONGUES**
+
+## VI. EXPANSION ON THE GIFT OF TONGUES
+
 
 S **A. Pentecost - languages** - Acts 2:1-13
 
@@ -743,12 +689,12 @@ nation under heaven.*
 
 *6 And when this sound occurred, the multitude came together, and were
 bewildered, because **they were each one hearing them speak in his own
-<u>language</u>**.*
+_language_**.*
 
 *7 And they were amazed and marveled, saying, 'Why, are not all these
 who are speaking Galileans?*
 
-*8 'And how is it that **we each hear them in our own <u>language</u> to
+*8 'And how is it that **we each hear them in our own _language_ to
 which we were born**?*
 
 *9 'Parthians and Medes and Elamites, and residents of Mesopotamia,
@@ -769,19 +715,20 @@ one another, 'What does this mean?'*
 
 Q. There were three groups, who were they?
 
-1\. The ones in the upper room that the Holy Spirit fell upon
+1. The ones in the upper room that the Holy Spirit fell upon
 
-2\. Devout Jews from every nation (verse 5)
+2. Devout Jews from every nation (verse 5)
 
-3\. Those who did not understand (verse 13)
+3. Those who did not understand (verse 13)
 
 Q. How did the men from every nation hear the Galileans speaking?
 
-... heard them in their own language of the day
 
 **Note:** To the mocking Jews - tongues were a sign of judgement
 
-**B. The purpose of tongues**
+
+### B. The purpose of tongues
+
 
 \* **1. A sign for unbelieving Jews** - 1 Corinthians 14:21-22
 
@@ -793,7 +740,6 @@ listen to Me,' says the Lord.*
 **to unbelievers**; but prophecy is for a sign, not to unbelievers, but
 to those who believe."*
 
-**2. Attested to the acceptance of the Gentiles into the body of
 Christ**
 
 \_ Note: The Gentiles were outsiders to the Jewish religion.
@@ -816,7 +762,7 @@ Gentiles also.*
 Then Peter answered,*
 
 *47 '**Surely no one can refuse the water for these to be baptized
-<u>who have received the Holy Spirit just as we did</u>, can he?**'*
+_who have received the Holy Spirit just as we did_, can he?**'*
 
 *48 And he ordered them to be baptized in the name of Jesus Christ. Then
 they asked him to stay on for a few days."*
@@ -825,7 +771,6 @@ they asked him to stay on for a few days."*
 
 Q. How did the Gentiles receive the Holy Spirit? (verse 47)
 
-... they received the Holy Spirit in the same way that Peter did in
 
 Acts 2:4-11 (above)
 
@@ -833,9 +778,9 @@ A sign to cause the Gentiles to be accepted into the church by the Jews:
 
 (see passages on the next page)
 
-1\. Peter defending the Gentiles before the Jews - Acts 11:1-18
+1. Peter defending the Gentiles before the Jews - Acts 11:1-18
 
-2\. Peter recapping before the Jewish Pharisees - Acts 15:3-9
+2. Peter recapping before the Jewish Pharisees - Acts 15:3-9
 
 **\_ Peter defending the Gentiles**
 
@@ -852,10 +797,10 @@ took issue with him**,*
 *4 But Peter began speaking and proceeded to explain to them in orderly
 sequence, saying,*
 
-*...*
+*
 
-*15 'And as I began to speak, **the Holy Spirit fell upon them, <u>just
-as He did upon us at the beginning</u>**.*
+*15 'And as I began to speak, **the Holy Spirit fell upon them, _just
+as He did upon us at the beginning_**.*
 
 *16 'And I remembered the word of the Lord, how He used to say, 'John
 baptized with water, but you shall be baptized with the Holy Spirit.'*
@@ -883,7 +828,7 @@ you, that **by my mouth the Gentiles should hear the word of the gospel
 and believe**.*
 
 *8 '**And God**, who knows the heart, bore witness to them, **giving
-them the Holy Spirit, <u>just as He also did to us</u>**;*
+them the Holy Spirit, _just as He also did to us_**;*
 
 *9 and **He made no distinction between us and them**, cleansing their
 hearts by faith.'"*
@@ -920,7 +865,6 @@ them, and they began speaking with tongues** and prophesying.*
 They were not Christians before Paul arrived. They had not heard the
 gospel.
 
-**They received the Holy Spirit after their baptism and the laying on of
 hands.**
 
 Why did Paul have to lay on his hands for them to receive the Holy
@@ -965,10 +909,10 @@ You have to speak in tongues or you are not a Christian!
 \* **The following passage is written to Christians** - 1 Corinthians
 12:28-31
 
-*28 "And God has appointed in the church, first <u>apostles</u>, second
-<u>prophets</u>, third <u>teachers</u>, then <u>miracles</u>, then gifts
-of <u>healings</u>, <u>helps</u>, <u>administrations</u>, various kinds
-of <u>tongues</u>.*
+*28 "And God has appointed in the church, first _apostles_, second
+_prophets_, third _teachers_, then _miracles_, then gifts
+of _healings_, _helps_, _administrations_, various kinds
+of _tongues_.*
 
 *29 All are not apostles, are they? All are not prophets, are they? All
 are not teachers, are they? All are not workers of miracles, are they?*
@@ -983,7 +927,9 @@ Q. What is the implied answer to each of the above questions? ... no
 
 Q. Do all speak in tongues (verse 30)? ... no
 
-**C. The warning about tongues**
+
+### C. The warning about tongues
+
 
 \_ 1 Corinthians 14:1-19
 
@@ -996,7 +942,7 @@ no one understands, but in his spirit he speaks mysteries.*
 *3 But one who prophesies speaks to men for **edification and
 exhortation and consolation**.*
 
-*4 **One who speaks in a tongue <u>edifies himself</u>**; but one who
+*4 **One who speaks in a tongue _edifies himself_**; but one who
 prophesies **edifies the church**.*
 
 *5 Now I wish that you all spoke in tongues, but even more that you
@@ -1029,8 +975,8 @@ to me.*
 *12 So also you, since you are zealous of spiritual gifts, **seek to
 abound for the edification of the church**.*
 
-*13 **<u>Therefore</u> let one who speaks in a tongue pray that he may
-<u>interpret</u>.***
+*13 **_Therefore_ let one who speaks in a tongue pray that he may
+_interpret_.***
 
 *14 For if I pray in a tongue, my spirit prays, but my mind is
 unfruitful.*
@@ -1076,13 +1022,15 @@ Prophecy, teaching & instruction should be the priority - verses 1,6,19
 
 Gifts are not meant to edify oneself (section III, above)
 
-**D. Tongues regulated**
+
+### D. Tongues regulated
+
 
 \* 1. 1 Corinthians 14:26-28,40
 
 *26 "What is the outcome then, brethren? When you assemble, each one has
 a psalm, has a teaching, has a revelation, **has a tongue, has an
-interpretation**. Let all things be done for <u>edification</u>.*
+interpretation**. Let all things be done for _edification_.*
 
 *27 If anyone speaks in a tongue, it should be by **two or at the most
 three, and each in turn, and let one interpret**;*
@@ -1090,28 +1038,21 @@ three, and each in turn, and let one interpret**;*
 *28 but **if there is no interpreter, let him keep silent in the
 church**; and let him speak to himself and to God.*
 
-*40 "But **let all things be done properly and in an <u>orderly
-manner</u>**."*
+*40 "But **let all things be done properly and in an _orderly
+manner_**."*
 
 Q. What regulation is put on tongues?
 
-... 2 or 3, and in turn (verse 27)
-
-... must have an interpreter - or keep silent (verse 28)
-
-... goal is the building up (edification) (verse 26)
 
 Q. What does interpretation imply?
 
-... revelation is being given from God
 
 Q. Is there a need today for further revelation from God?
 
-... no, we have the revealed Bible, they did not
 
 \* **E. Do tongues exist today?**
 
-1\. The original purposes of tongues no longer exist today
+1. The original purposes of tongues no longer exist today
 
 A sign to the unbelieving Jews
 
@@ -1121,71 +1062,32 @@ A sign to the unbelieving Jews
 
 Revelation from God through interpretation
 
-2\. The true manifestation of the gift of tongues is not evidenced today
+2. The true manifestation of the gift of tongues is not evidenced today
 
 What is seen is Tongues at the forefront ... uncontrolled
 
 1 Cor. 14 could be written as warning to the Pentecostal Church of today
 
-3\. Tongues will cease - 1 Corinthians 13:8
+3. Tongues will cease - 1 Corinthians 13:8
 
 *"Love never fails; but if there are gifts of prophecy, they will be
 done away; **if there are tongues, they will cease**; if there is
 knowledge, it will be done away."*
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td><strong>Summary on Tongues</strong></td>
-</tr>
-<tr>
-<td><p>_ Languages</p>
-<p>_ Not a criterion for salvation</p>
-<p>_ Not all Christians spoke in tongues</p>
-<p>_ Not to be used in the church unless interpreted</p>
-<p>_ Regulated - 2 or 3 at a time</p>
-<p>_ Edification and the common good</p>
-<p>_ Original purposes of tongues no longer exist today:</p>
-<p>A sign to unbelieving Jews</p>
-<p>Revelation from God</p>
-<p>_ The true manifestation of the gift of tongues is not evidenced
-today.</p></td>
-</tr>
-</tbody>
-</table>
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td><strong>* The Unity of the Body</strong></td>
-</tr>
-<tr>
-<td><p>_ Don't let an issue over tongues cause a division within the
-body of Christ.</p>
-<p>_ We are exhorted to preserve the unity - Ephesians 4:3</p>
-<p><em>"being diligent to <u>preserve the unity</u> of the Spirit in the
-bond of peace."</em></p></td>
-</tr>
-</tbody>
-</table>
+## VII. APPLICATION
 
-**VII. APPLICATION**
 
-**A. Review**
+### A. Review
 
-1\. We all have been gifted by God - uniquely
 
-2\. We must use our gift for the common good of the body of Christ
+1. We all have been gifted by God - uniquely
 
-3\. Our gift will be useless if not exercised in love
+2. We must use our gift for the common good of the body of Christ
 
-4\. We use our gift to serve each other - building each other up
+3. Our gift will be useless if not exercised in love
+
+4. We use our gift to serve each other - building each other up
 
 \* **B. Exhortation to exercise your gift** - Romans 12:6-8
 
@@ -1200,34 +1102,7 @@ he who leads, with diligence; he who shows mercy, with cheerfulness."*
 
 Q. What is Paul exhorting us to do?
 
-... get busy ministering our gift
 
-**C. Exhortation of John MacArthur**
+### C. Exhortation of John MacArthur
 
-<table style="width:77%;">
-<colgroup>
-<col style="width: 77%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p>*</p>
-<p>"No child in the world could substitute for one of our own
-children.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>Neither are God's children replaceable or the ministries He has given
-them replaceable.</p>
-<p>.</p>
-<p>.</p>
-<p>.</p>
-<p>He has given no one the exact gift He has given us and He has given
-no one the exact ministry He has given us.</p>
-<p><strong>If we do not use our gift no one else will;</strong></p>
-<p><strong>if we do not fulfill our ministry it will not be
-fulfilled."</strong></p>
-<p>John MacArthur, The MacArthur N.T. Commentary, 1 Corinthians, pg.
-293</p></td>
-</tr>
-</tbody>
-</table>
+

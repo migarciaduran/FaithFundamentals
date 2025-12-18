@@ -1,16 +1,30 @@
-**═════════════════════════════════════════════════════════════════**
+# Fundamentals of the Faith
 
-***Fundamentals of the Faith***
+## Lesson 09: Church, Fellowship and Worship
+
+---
+
+## Table of Contents
+
+- [I. The Church Universal](#i-the-church-universal)
+- [II. The Local Church](#ii-the-local-church)
+- [III. Fellowship](#iii-fellowship)
+- [IV. Worshiping God](#iv-worshiping-god)
+- [V. Worship God by - Giving God Glory](#v-worship-god-by-giving-god-glory)
+- [VI. APPLICATION](#vi-application)
+
+---
 
 **Lesson \#9**
 
 **The Church: Fellowship and Worship**
 
-**══════════════════════════════════════════════════════════════════**
 
-**I. The Church Universal**
+## I. The Church Universal
 
-**A. Definition**
+
+### A. Definition
+
 
 Q. When you think of church what do you think of?
 
@@ -18,43 +32,22 @@ Q. Is it an organization made up of programs and systems? ... NO
 
 Q. What is the church? What is it not?
 
-... Not an organization ..... A living organism
 
-... Not buildings & offices ..... A fellowship that includes all
 believers
 
-... Not made up of programs or activities ..... Looks for individual
 growth
 
-... Not administration focused ..... Ministry focused
-
-... In constant need of feeding, healing, etc.
-
-<table style="width:57%;">
-<colgroup>
-<col style="width: 57%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p>* The church is people:</p>
-<p>Living and loving</p>
-<p>Learning and laboring</p>
-<p>Leading and following</p>
-<p>Together for the Glory of Jesus Christ !!</p></td>
-</tr>
-</tbody>
-</table>
 
 Q. Who makes up the church - Go to LESSON, I.C
 
-\_ Made up of the *<u>called out ones</u>*
+\_ Made up of the *_called out ones_*
 
-a\. Colossians 3:15 - LESSON I.C.1
+a\. Colossians 3:15 - LESSON I.C
 
 *"And let the peace of Christ rule in your hearts, to which indeed **you
 were called in one body**; and be thankful."*
 
-b\. Baptized into one body - 1 Corinthians 12:13 - LESSON I.C.2
+b\. Baptized into one body - 1 Corinthians 12:13 - LESSON I.C
 
 *"For **by one Spirit we were all baptized into one body**, whether Jews
 or Greeks, whether slaves or free, and we were all made to drink of one
@@ -66,9 +59,12 @@ Q. Which church should we attend?
 
 These are questions we need to answer.
 
-**B. The Believer's relationship to Christ and to Each other:**
 
-**1. Family**
+### B. The Believer's relationship to Christ and to Each other:
+
+
+#### 1. Family
+
 
 S a. Children of God - John 1:12
 
@@ -85,21 +81,14 @@ S c. Christ is our brother; God is our Father - Hebrews 2:11
 
 *"For both He who sanctifies and those who are sanctified are all from
 one **Father**; for which reason **He is not ashamed to call them
-<u>brethren</u>**,"*
+_brethren_**,"*
 
 Q. What relationships do we see in the above verses?
 
-... We are children of God
-
-... We are all brothers and sisters in Christ
-
-... We have a Father
-
-... i.e. we are a Family
 
 Q. What does it mean to be a family?
 
-<u>As a **Family:**</u>
+_As a **Family:**_
 
 Closeness of the family
 
@@ -113,7 +102,9 @@ The children's obedience to the Father
 
 The honor of the family
 
-**2. Flock of sheep**
+
+#### 2. Flock of sheep
+
 
 S a. John 10:11
 
@@ -132,7 +123,7 @@ Q. How are the believers represented? ... as sheep
 
 Q. What relationship is true about a shepherd and his flock of sheep?
 
-<u>As a **Flock of sheep**:</u>
+_As a **Flock of sheep**:_
 
 The Shepherd gives guidance for the sheep.
 
@@ -153,7 +144,7 @@ Q. Who is speaking here? ... Christ
 
 Q. How is Christ represented and how are believers represented?
 
-<u>As a **Vineyard:**</u>
+_As a **Vineyard:**_
 
 We are to bear fruit.
 
@@ -161,7 +152,9 @@ As branches we are dependent upon the vine (roots).
 
 We would die apart from the vine.
 
-**4. Bridegroom & Bride**
+
+#### 4. Bridegroom & Bride
+
 
 S **a. Christ is pictured as the Bridegroom** - Mark 2:19-20
 
@@ -208,7 +201,6 @@ holy and blameless**."*
 
 Q. As the Bride of Christ, what can we say about the Church?
 
-... <u>As the **Bride of Christ:**</u>
 
 We, the Church, belong only to Christ.
 
@@ -216,7 +208,9 @@ We, the Church, must be kept pure and chaste.
 
 Church discipline.
 
-**5. Body of Christ**
+
+#### 5. Body of Christ
+
 
 S **a. Christ is the Head** - Ephesians 1:22,23
 
@@ -251,15 +245,12 @@ Each member has a different function (verse 4)
 
 Q. Is each member the same?
 
-... No each has a different gift
 
 Q. What are we exhorted to do?
 
-... exercise our gift
 
 Q. What happens to a body if a member stops functioning?
 
-... The body is crippled
 
 Q. What are you currently doing in the Church?
 
@@ -329,16 +320,22 @@ crippled.
 
 Q. What are we exhorted to? ... unity (verse 25)
 
-**II. The Local Church**
+
+## II. The Local Church
+
 
 **Note:** Do 1st part of Lesson II.A
 
-**A. The spiritual duties of the Church** - Acts 2:42 (LESSON, II.A.3,
+
+### A. The spiritual duties of the Church
+
+*Acts 2:42 (LESSON, II.A.3,*
+
 pg. 60)
 
 \* *"And they were **continually devoting themselves** to the apostles'
-<u>teaching</u> and to <u>fellowship</u>, to the <u>breaking of
-bread</u> and to <u>prayer</u>."*
+_teaching_ and to _fellowship_, to the _breaking of
+bread_ and to _prayer_."*
 
 Q. What four things was the early Church involved in?
 
@@ -358,7 +355,9 @@ building up of the body of Christ;"*
 
 Q. What gifted men were given to the church?
 
-**1. Apostles**
+
+#### 1. Apostles
+
 
 Q. What is an apostle? Who were the Apostles?
 
@@ -368,31 +367,31 @@ Most technical sense in N.T. - the twelve
 
 b\. The twelve (Apostles of Jesus Christ) - Mark 3:16-19
 
-1\. Simon (to whom He gave the name Peter)
+1. Simon (to whom He gave the name Peter)
 
-2\. James, the son of Zebedee
+2. James, the son of Zebedee
 
-3\. John the brother of James
+3. John the brother of James
 
 (to them He gave the name Boanerges, which means, "Sons of Thunder")
 
-4\. Andrew
+4. Andrew
 
-5\. Philip
+5. Philip
 
-6\. Bartholomew
+6. Bartholomew
 
-7\. Matthew
+7. Matthew
 
-8\. Thomas
+8. Thomas
 
-9\. James the son of Alphaeus
+9. James the son of Alphaeus
 
-10\. Thaddaeus
+10. Thaddaeus
 
-11\. Simon the Zealot
+11. Simon the Zealot
 
-12\. Judas Iscariot, who also betrayed Him.
+12. Judas Iscariot, who also betrayed Him.
 
 (replaced by Matthais (Acts 1:26)
 
@@ -422,23 +421,31 @@ Silas & Timothy - 1 Thess. 2:6
 
 Others - Rom. 16:7; 2 Cor. 8:23; Phil. 2:25
 
-**2. Prophets** - spoke revelation from God - Acts 11:27-28
 
-\_ <u>We believe that the office of Apostle and Prophet ceased with the
-completion of the New Testament</u> - Ephesians 2:20
+#### 2. Prophets
+
+*spoke revelation from God - Acts 11:27-28*
+
+
+\_ _We believe that the office of Apostle and Prophet ceased with the
+completion of the New Testament_ - Ephesians 2:20
 
 I *"having been built upon the foundation of the apostles and prophets,
 Christ Jesus Himself being the corner stone,"*
 
 (*The MacArthur N.T. Commentary, Ephesians*, pg. 142)
 
-**3. Evangelists**
+
+#### 3. Evangelists
+
 
 gifted men given to the church to reach the lost
 
 This should be a priority of the church
 
-**4. Pastors/teachers**
+
+#### 4. Pastors/teachers
+
 
 a\. *Pastor*: means shepherd
 
@@ -453,40 +460,12 @@ rebuke, exhort, with great patience and instruction."*
 
 Q. What is the job of the Pastor/teacher?
 
-... to constantly preach the word of God
 
 Q. How?
 
-... patience & <u>instruction</u>
 
-<table style="width:77%;">
-<colgroup>
-<col style="width: 77%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p>APPLICATION</p>
-<p>Why were these gifted men given to the Church?</p></td>
-</tr>
-<tr>
-<td><p>_ Ephesians 4:12</p>
-<p><em>12 <strong>for the equipping of the saints for the work of
-service</strong>, to the building up of the body of Christ;"</em></p>
-<p><u>To equip the saints</u></p>
-<p>Q. Who are the saints? ... you &amp; I</p>
-<p>Q. Why are we being equipped? ... To do the work</p>
-<p>Q. What is the result? ... the building up of the Church</p>
-<p>Q. So what are two things that you should look for in a Church?</p>
-<p>A place where I can be equipped</p>
-<p>A place where I can serve</p>
-<p>Q. Have you thought about serving in the Church?</p>
-<p>Q. Are you here to equip yourself so you can build up Christ's
-Church?</p></td>
-</tr>
-</tbody>
-</table>
+### C. The Structure of the Church
 
-**C. The Structure of the Church**
 
 Question: Congregational rule?
 
@@ -494,7 +473,9 @@ Pastoral rule?
 
 Pope?
 
-**1. Elders**
+
+#### 1. Elders
+
 
 **a. The appointment of elders**
 
@@ -517,9 +498,9 @@ remains, and **appoint elders in every city** as I directed you,"*
 
 **b. Qualification of Elders**
 
-\(1\) 1 Timothy 3:1-7
+\(1. 1 Timothy 3:1-7
 
-\(2\) Titus 1:6-9
+\(2. Titus 1:6-9
 
 **c. Responsibilities of Elders**
 
@@ -554,9 +535,6 @@ complete in the **same mind** and in the **same judgment**."*
 
 Q. What should be true of the Elders?
 
-... all agree
-
-... same mind/ same judgement
 
 \* "The Holy Spirit is undivided - Philippians 1:27
 
@@ -572,17 +550,17 @@ Also Ephesians 4:3-6; Philippians 2:2
 \* **d. Our responsibility to the Elders** - Heb. 13:17 (LESSON, pg. 61,
 II.B.2)
 
-***"Obey your leaders, and submit to them**; for <u>they keep watch over
-your souls</u>, as those who will give an account. Let them do this with
+***"Obey your leaders, and submit to them**; for _they keep watch over
+your souls_, as those who will give an account. Let them do this with
 joy and not with grief, for this would be unprofitable for you."*
 
 Q. What is out responsibility? ... obey & submit
 
 Q. Why? ... They keep watch over your souls
 
-... They will give an account to God
 
-**2. Deacons**
+#### 2. Deacons
+
 
 a\. Qualifications - 1 Timothy 3:8-13 (HANDOUT)
 
@@ -601,37 +579,40 @@ drawing near."*
 
 Q. What are we not to neglect?
 
-... *"assembling together*" (i.e. attending church)
 
 Q. What are we to be doing?
 
-... "*encouraging one another*"
 
-... i.e. FELLOWSHIP together
+## III. Fellowship
 
-**III. Fellowship**
 
 \* **Question:** What is fellowship?
 
-**A. Definition**
 
-1\. Comes from the Greek word *koinonia*.
+### A. Definition
 
-2\. Means to share in something with someone.
 
-3\. To share something in common.
+1. Comes from the Greek word *koinonia*.
 
-4\. Used 20 times in the New Testament.
+2. Means to share in something with someone.
 
-5\. The Latin equivalent is *communio* --\> communion.
+3. To share something in common.
 
-**B. We have fellowship with God & Other believers**
+4. Used 20 times in the New Testament.
+
+5. The Latin equivalent is *communio* --\> communion.
+
+
+### B. We have fellowship with God & Other believers
+
 
 \_ Simply note the table on the bottom of LESSON, pg. 62.
 
 Verses below are for instructors use as needed.
 
-**1. Fellowship with God**
+
+#### 1. Fellowship with God
+
 
 I 1 John 1:3 - LESSON III.D (table)
 
@@ -648,32 +629,21 @@ I **2. Fellowship with other believers**
 
 1 John 1:7 - Lesson III.D (table)
 
-*"but <u>if we walk in the light</u> as He Himself is in the light, **we
+*"but _if we walk in the light_ as He Himself is in the light, **we
 have fellowship with one another**, and the blood of Jesus His Son
 cleanses us from all sin."*
 
-<table style="width:80%;">
-<colgroup>
-<col style="width: 80%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p>* <strong>Fellowship</strong></p>
-<p>Sharing something in common</p>
-<p>What do we share in common with all believers? ... Salvation</p>
-<p>What do we share in common with God? ... Christ's sacrifice</p></td>
-</tr>
-</tbody>
-</table>
 
-**C. The basis of True Fellowship**
+### C. The basis of True Fellowship
 
-**1. Based on our salvation in Christ**
+
+#### 1. Based on our salvation in Christ
+
 
 \* a. 1 Peter 1:22-23
 
 *22 "Since you have **in obedience to the truth purified your souls**
-for a <u>sincere love of the brethren</u>, fervently love one another
+for a _sincere love of the brethren_, fervently love one another
 from the heart,*
 
 *23 for you have **been born again** not of seed which is perishable but
@@ -684,13 +654,9 @@ again*)
 
 Q. What does obedience to the truth produce?
 
-... a purified soul
 
 Q. What does is mean to have a purified soul?
 
-... The soul is the totality of a man; it is what we are
-
-... Your whole being has been renewed
 
 Galatians 6:14,15 - "*a new creation*"
 
@@ -700,68 +666,45 @@ Titus 3:5 - "*Renewing by the Holy Spirit*"
 
 Q. What does a purified soul produce?
 
-... a sincere love of the brethren
-
-... i.e. true fellowship
-
-<table style="width:69%;">
-<colgroup>
-<col style="width: 69%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p>* <strong>True Fellowship</strong></p>
-<p><strong>Founded on the common ground at the foot of the
-cross</strong></p></td>
-</tr>
-<tr>
-<td><p>We were all sinners in complete darkness.</p>
-<p>We were all unworthy of Christ righteousness.</p>
-<p>We were all given the free grace of God and the forgiveness of our
-sin.</p>
-<p>We have all been purified in Christ's blood.</p>
-<p>In response we all love Christ &amp; have given our lives over to
-Him.</p>
-<p>We share a common purpose - to glorify God and to build up His
-church.</p></td>
-</tr>
-</tbody>
-</table>
 
 Q. Have you ever experienced the bond between Christians?
 
-... A bond that exists even though you have never met.
 
-... A bond that breaks the barriers of nationality.
+#### 2. True fellowship cannot be shared with an unbeliever
 
-**2. True fellowship cannot be shared with an unbeliever**
 
 \* a. We can have no harmony with an unbeliever - LESSON III.D
 
 2 Corinthians 6:14-15
 
 *14 "Do not be bound together with unbelievers; for **what partnership
-have <u>righteousness</u> and <u>lawlessness</u>**, or **what fellowship
-has <u>light</u> with <u>darkness</u>?***
+have _righteousness_ and _lawlessness_**, or **what fellowship
+has _light_ with _darkness_?***
 
 *15 Or what harmony has Christ with Belial, or **what has a
-<u>believer</u> in common with an <u>unbeliever</u>?**"*
+_believer_ in common with an _unbeliever_?**"*
 
 **Question:** How are believers and unbelievers described?
 
-1\. Believers: Righteousness, light
+1. Believers: Righteousness, light
 
-2\. Unbelievers: Lawlessness, darkness
+2. Unbelievers: Lawlessness, darkness
 
 Note: Belial = Satan
 
 b\. They reject the one we seek to lift up and bring glory to: Christ.
 
-**D. Practical Fellowship - with other believers**
+
+### D. Practical Fellowship - with other believers
+
 
 \_ Do LESSON, pg. 62, sections A,B,C (verses below for reference)
 
-**1. Exhortation to Unity** - 1 Corinthians 1:9,10 (LESSON III.A)
+
+#### 1. Exhortation to Unity
+
+*1 Corinthians 1:9,10 (LESSON III.A)*
+
 
 *9 "God is faithful, through whom you were called into fellowship with
 His Son, Jesus Christ our Lord.*
@@ -786,20 +729,13 @@ Q. What is the one mind? ... to serve Christ & build His church.
 **a. Gentleness, patience** - Ephesians 4:2-3
 
 *2 "with **all humility** and **gentleness**, with **patience**, showing
-forbearance to one another in **<u>love</u>**,*
+forbearance to one another in **_love_**,*
 
 *3 being **diligent to preserve the unity** of the Spirit in the bond of
 peace."*
 
 Q. What will promote unity?
 
-... Humility
-
-... Gentleness
-
-... Patience
-
-... Love
 
 **b. Humility** - Philippians 2:1-4
 
@@ -811,21 +747,16 @@ affection and compassion,*
 same love, united in spirit, intent on one purpose**.*
 
 *3 **Do nothing from selfishness** or empty conceit, but with
-**<u>humility of mind let each of you regard one another as more
-important than himself</u>**;*
+important than himself_**;*
 
 *4 do not merely look out for your own personal interests, **but also
 for the interests of others**."*
 
 Q. What are the keys to unity?
 
-... Not selfish.
 
-... Regard others as more important.
+#### 3. Exhortation: The one anothers
 
-**3. Exhortation: The one anothers**
-
-... (handout) ... next two pages.
 
 Have students take turns reading through the list.
 
@@ -835,154 +766,157 @@ Highlight a few
 
 **The *One Another's* of the New Testament**
 
-Be at peace with one another ........................................
+Be at peace with one another
 Mark 9:50
 
-Love one another ......................................................
+Love one another
 John 13:34
 
 We are individually members of one another ..................... Romans
 12:5
 
-Be devoted to one another ...........................................
+Be devoted to one another
 Romans 12:10
 
-Give preference to one another ......................................
+Give preference to one another
 Romans 12:10
 
 Being of the same mind toward one another ...................... Romans
 12:16
 
-Don't judge one another's liberty ...................................
+Don't judge one another's liberty
 Romans 14:13
 
-Be of the same mind as one another ...............................
+Be of the same mind as one another
 Romans 15:5
 
-Accept one another ....................................................
+Accept one another
 Romans 15:7
 
-Admonish one another ................................................
+Admonish one another
 Romans 15:14
 
-Greet one another with a holy kiss .................................
+Greet one another with a holy kiss
 Romans 16:16
 
-Don't have lawsuits with one another .............................. 1
+Don't have lawsuits with one another
 Corinthians 6:7
 
-Marriage couples are not to deprive one another ................ 1
+Marriage couples are not to deprive one another
 Corinthians 7:5
 
-Wait for one another at the Lord's table .......................... 1
+Wait for one another at the Lord's table
 Corinthians 11:33
 
-Care for one another ..................................................
+Care for one another
 1 Corinthians 12:25
 
-Serve one another ......................................................
+Serve one another
 Galatians 5:13
 
-Don't bite and devour one another .................................
+Don't bite and devour one another
 Galatians 5:15
 
-Don't become boastful in challenging one another ..............
+Don't become boastful in challenging one another
 Galatians 5:26
 
-Don't be envying one another .......................................
+Don't be envying one another
 Galatians 5:26
 
-Showing forbearance to one another ...............................
+Showing forbearance to one another
 Ephesians 4:2
 
-Be kind to one another ................................................
+Be kind to one another
 Ephesians 4:32
 
 Speak to one another in psalms & hymns & spiritual songs ... Ephesians
 5:19
 
-Submitting to one another in the fear of Christ ..................
+Submitting to one another in the fear of Christ
 Ephesians 5:21
 
-Regard one another as more important than himself ............
+Regard one another as more important than himself
 Philippians 2:3
 
-Do not lie to one another .............................................
+Do not lie to one another
 Colossians 3:9
 
-Bearing with one another .............................................
+Bearing with one another
 Colossians 3:13
 
-Teaching and admonishing one another ............................
+Teaching and admonishing one another
 Colossians 3:16
 
-Abound in love for one another ..................................... 1
+Abound in love for one another
 Thessalonians 3:12
 
-Comfort one another .................................................. 1
+Comfort one another
 Thessalonians 4:18
 
-Bear one another's burdens ..........................................
+Bear one another's burdens
 Galatians 6:2
 
-Encourage one another ................................................ 1
+Encourage one another
 Thessalonians 5:11
 
-Build up one another ..................................................
+Build up one another
 1 Thessalonians 5:11
 
-Live in peace with one another ...................................... 1
+Live in peace with one another
 Thessalonians 5:13
 
-Don't repay one another with evil .................................. 1
+Don't repay one another with evil
 Thessalonians 5:15
 
-Seek the good of one another ........................................ 1
+Seek the good of one another
 Thessalonians 5:15
 
-Don't hate one another ...............................................
+Don't hate one another
 Titus 3:3
 
-Stimulate one another to love and good deeds ....................
+Stimulate one another to love and good deeds
 Hebrews 10:23
 
-Don't forsake assembling with one another .......................
+Don't forsake assembling with one another
 Hebrews 10:24
 
-Do not speak against one another ...................................
+Do not speak against one another
 James 4:11
 
 Do not complain against one another .............................. James
 5:9
 
-Confess your sins to one another ...................................
+Confess your sins to one another
 James 5:16
 
-Pray for one another ..................................................
+Pray for one another
 James 5:16
 
-Fervently love one another from the heart ........................ 1
+Fervently love one another from the heart
 Peter 1:22
 
-Be hospitable to one another without complaint .................. 1
+Be hospitable to one another without complaint
 Peter 4:9
 
-Employ your spiritual gift in serving one another ............... 1
+Employ your spiritual gift in serving one another
 Peter 4:10
 
 Clothe yourselves with humility toward one another ............ 1 Peter
 5:5
 
-Have fellowship with one another .................................. 1
+Have fellowship with one another
 John 1:7
 
-**E. Fellowship with God**
 
-**1. Fellowship learned at the Cross**
+### E. Fellowship with God
+
+
+#### 1. Fellowship learned at the Cross
+
 
 Note: Fellowship means to share in something with someone.
 
-Q. In the following passages ...
+Q. In the following passages
 
 What are we to be willing to share in with Christ?
 
@@ -1021,9 +955,6 @@ fellowship of His sufferings**, being conformed to His death;"*
 
 Q. What does it mean to suffer with Christ?
 
-... To be willing to stand up for Him in any situation.
-
-... Never to compromise His truth.
 
 \* **2. Communion** (LESSON, pg. 65 (last page), box)
 
@@ -1033,21 +964,14 @@ The other is Baptism.
 
 Q. What is an ordinance?
 
-... A decree
-
-... In this case a decree by who? ... By God
-
-... Note: It is not a sacrament.
 
 Q. What is a sacrament?
 
-... An act that bring favor or grace to the one doing it.
 
 **b. Purpose of Communion:**
 
 Q. What is the purpose of communion?
 
-... To keep us in remembrance of Christ's death.
 
 S **c. Communion instigated at Passover** - Matthew 26:19,26-29
 
@@ -1072,7 +996,6 @@ Context: Jesus with His disciples observing the passover (verse 19)
 
 Q. What was "Passover"?
 
-... sacrifice of a precious lamb for sins ... millions of them
 
 Q. What is the first thing Jesus gave them? (verse 26) ... bread
 
@@ -1086,7 +1009,6 @@ Q. What was the second thing Jesus gave them? (verse 27) ... the cup
 
 Q. Was it real blood? His blood? ... No look at verse 29
 
-... it was the "*fruit of the vine*"
 
 **NOTE:** The passover was transformed into the "Lord's supper" or
 communion.
@@ -1108,31 +1030,22 @@ the Lord's death until He comes.*
 
 Q. Why was the communion given?
 
-... In remembrance of Christ
-
-... In remembrance of His death
-
-... To proclaim His death - to show forth
 
 Q. How often are we to have communion?
 
-... No frequency is given
-
-... The early church did it continually - Acts 2:42 (LESSON II.A.3)
 
 *"And **they were continually devoting themselves** to the apostles'
-**<u>teaching</u>** and to **<u>fellowship</u>**, to the **<u>breaking
-of bread</u>** and to **<u>prayer</u>**."*
+**_teaching_** and to **_fellowship_**, to the **_breaking
+of bread_** and to **_prayer_**."*
 
 Q. How long will it last?
 
-... until Christ comes again! (verse 26)
 
 \* **e. Warning of communion** - 1 Corinthians 11:27-30
 
 *27 "Therefore **whoever eats the bread or drinks the cup of the Lord in
-an <u>unworthy manner</u>, shall be <u>guilty of the body and the blood
-of the Lord</u>.***
+an _unworthy manner_, shall be _guilty of the body and the blood
+of the Lord_.***
 
 *28 But **let a man examine himself**, and so let him eat of the bread
 and drink of the cup.*
@@ -1153,9 +1066,11 @@ Q. Why? ... You bring judgement upon yourself (verse 29)
 
 Q. What must accompany communion?
 
-**NOTE:** **<u>Confession is an integral part of communion.</u>**
+**NOTE:** **_Confession is an integral part of communion._**
 
-**IV. Worshiping God**
+
+## IV. Worshiping God
+
 
 **Transition:** Close fellowship with God drive us to worship Him.
 
@@ -1164,18 +1079,20 @@ Q. What must accompany communion?
 "People play at their worship, worship their work, and work at their
 play."
 
-**B. Definition: Worship**
 
-1\. To ascribe worth or value
+### B. Definition: Worship
 
-2\. Scripturally, the word translated *worship* is derived from the
+
+1. To ascribe worth or value
+
+2. Scripturally, the word translated *worship* is derived from the
 ancient practice of bowing oneself to the ground in reverence.
 
-\_ Exodus 34:8 - Moses bowed down and worshiped - LESSON IV.D.1
+\_ Exodus 34:8 - Moses bowed down and worshiped - LESSON IV.D
 
 *"And Moses made haste to bow low toward the earth and worship."*
 
-3\. Note: The word for worship means:
+3. Note: The word for worship means:
 
 bowed down
 
@@ -1185,7 +1102,9 @@ prostrated
 
 worship
 
-**C. Worship belongs exclusively to God**
+
+### C. Worship belongs exclusively to God
+
 
 I 1. Exodus 20:4-6
 
@@ -1205,14 +1124,16 @@ I 2. Isaiah 42:8
 *"I am the Lord, that is My name; **I will not give My glory to
 another**, Nor My praise to graven images."*
 
-**D. True worship**
+
+### D. True worship
+
 
 \* **1. God wants worship from the heart** - Matthew 15:8-9
 
-*8 "'This people honors Me with their lips, But **<u>their heart is far
-away from Me</u>**.*
+*8 "'This people honors Me with their lips, But **_their heart is far
+away from Me_**.*
 
-*9 'But **<u>in vain</u> do they worship Me**, Teaching as doctrines the
+*9 'But **_in vain_ do they worship Me**, Teaching as doctrines the
 precepts of men.'"*
 
 Q. How were these people worshiping God? ... with their lips
@@ -1221,16 +1142,16 @@ Q. What kind of worship is this? ... vain worship
 
 Q. Where were their hearts? ... far away
 
-Q. When you attend the worship service on Sunday ...
+Q. When you attend the worship service on Sunday
 
-When you sing the songs of praise to God ...
+When you sing the songs of praise to God
 
 Is your heart far away?
 
 Do you truly worship God from your heart?
 
 **2. We are to worship - *in spirit and truth*** - John 4:24 - LESSON
-IV.A, pg. 63
+IV.A, pg
 
 *"God is spirit, and those who worship Him must **worship in spirit and
 truth**."*
@@ -1241,7 +1162,9 @@ Note box in lesson (IV.A):
 |----|
 | If we are to worship God in truth (i.e., not in error), then we must seek to know Him by learning His attributes and actions. |
 
-**V. Worship God by - Giving God Glory**
+
+## V. Worship God by - Giving God Glory
+
 
 **\* A. Our lives should be a reflection of God's glory** - Corinthians
 3:18
@@ -1252,17 +1175,14 @@ glory, just as from the Lord, the Spirit."*
 
 Q. What is the person doing here? What is he or she looking into?
 
-... Looking into a mirror
 
 Q. What should they see?
 
-... The glory of God
 
 Q. When you look into the mirror - what do you see?
 
 Q. Is God glorified through your life?
 
-**\_ God's Glory reflected back to Him by us - through acts of
 devotion:**
 
 S **Glorifying God in all that you do** - 1 Cor. 10:31
@@ -1273,7 +1193,7 @@ glory of God**."*
 S **Glorifying God in Prayer** - John 14:13
 
 *"And **whatever you ask in My name**, that will I do, **that the Father
-may be <u>glorified in the Son</u>**."*
+may be _glorified in the Son_**."*
 
 S **Not sinning with our body** - 1 Corinthians 6:18-20
 
@@ -1283,27 +1203,30 @@ body, but the immoral man sins against his own body.*
 *19 Or do you not know that your body is a temple of the Holy Spirit who
 is in you, whom you have from God, and that you are not your own?*
 
-*20 For you have been bought with a price: therefore **<u>glorify God in
-your body</u>**."*
+*20 For you have been bought with a price: therefore **_glorify God in
+your body_**."*
 
 I **B. The spreading of the Gospel - gives God glory**
 
-1\. 2 Corinthians 4:15
+1. 2 Corinthians 4:15
 
 *"For all things are for your sakes, that **the grace which is spreading
 to more and more people** may cause the giving of thanks to **abound to
 the glory of God**."*
 
-2\. Salvation - Philippians 2:9
+2. Salvation - Philippians 2:9
 
 *"and **that every tongue should confess that Jesus Christ is Lord**,
-**<u>to the glory of God the Father</u>**."*
+**_to the glory of God the Father_**."*
 
 **\***
 
-**VI. APPLICATION**
 
-**A. Remember: Your relationship to Christ & other believers**
+## VI. APPLICATION
+
+
+### A. Remember: Your relationship to Christ & other believers
+
 
 Family .......... Christ calls us brethren; God is our father
 
@@ -1315,7 +1238,9 @@ Bride ............ Christ is the Bridegroom
 
 Body ............ Christ is the Head
 
-**B. Remember your Church Leadership:**
+
+### B. Remember your Church Leadership:
+
 
 Submit to the Elders ..... God gave them to us to watch over our souls.
 
@@ -1323,13 +1248,17 @@ Pray for the Elders & support them
 
 Seek to serve in the church
 
-**C. Remember the Fellowship of the Believers**
+
+### C. Remember the Fellowship of the Believers
+
 
 The common ground at the foot of the cross
 
 Practice the "One anothers"
 
-**D. Remember to offer up to God - true worship**
+
+### D. Remember to offer up to God - true worship
+
 
 Always from the heart
 

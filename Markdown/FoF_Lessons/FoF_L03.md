@@ -1,50 +1,17 @@
-***Fundamentals of the Faith***
+# Fundamentals of the Faith
 
-# Lesson \#3 – God: His Character & Attributes
+## Lesson 03: Attributes of God
 
-**Table of Contents**
+---
 
-**Objective & Preliminary Comments ……………………………………………… i**
+## Table of Contents
 
-**I. The Person of God …………………………………………………………………. 1**
+- [I. The Person of God](#i-the-person-of-god)
+- [II. God’s Attributes](#ii-gods-attributes)
+- [III. Conclusion](#iii-conclusion)
+- [I. LOVE](#i-love)
 
-A. God’s existence
-
-B. How many Gods are there?
-
-C. Where is God?
-
-D. How does God manifest Himself?
-
-E. The depth of God
-
-F. Knowing God
-
-**II. God’s Attributes ……………………………………………………………………. 10**
-
-A. Holiness
-
-B. Righteousness & Justice
-
-C. Sovereignty
-
-D. Omnipotence
-
-E. Omniscience
-
-F. Eternality
-
-G. Immutability
-
-H. Omnipresence
-
-I. Love
-
-**III. Conclusion ………………………………………………………………………….. 25**
-
-***Fundamentals of the Faith***
-
-# Lesson \#3 – God: His Character & Attributes
+---
 
 **Objective & Preliminary Comments**
 
@@ -52,17 +19,17 @@ I. Love
 
 The objective of lesson \#3 can are two fold:
 
-1\. To provide the students with a fuller understanding of God’s
+1. To provide the students with a fuller understanding of God’s
 attributes so they may offer Him truer and more honoring worship.
 
-2\. To give the student a glimpse of the infinite majesty and glory of
+2. To give the student a glimpse of the infinite majesty and glory of
 God.
 
 The class plan is divided into two sections:
 
-1\. General information on the person of God.
+1. General information on the person of God.
 
-2\. The attributes of God.
+2. The attributes of God.
 
 The first section presents God as one and only God, self existent and
 with no beginning or and no end. It presents Him as being the God who is
@@ -88,21 +55,18 @@ revealed of Himself to man, to give God glory is to acknowledge His
 glory and extol it,” John MacArthur, *The MacArthur N.T. Commentary,
 Romans 1-8*, pg. 83.
 
-**As always, before entering the Classroom, always ...**
+**As always, before entering the Classroom, always
 
-***Pray that Christ will be glorified through all that you say,
 remembering that your strength***
 
-***is supplied by God and the power of your message is the Word of God
 (1 Peter 4:11).***
 
-***Fundamentals of the Faith***
-
-# Lesson \#3 – God: His Character & Attributes
 
 **Lesson Outline**
 
-**I. THE PERSON OF GOD**
+
+## I. THE PERSON OF GOD
+
 
 - God’s existence
 
@@ -116,20 +80,25 @@ remembering that your strength***
 
 - Can He be known?
 
-**A. God's existence**
 
-**1. God's existence is never questioned - it is assumed** - Genesis 1:1
+### A. God's existence
+
+
+#### 1. God's existence is never questioned - it is assumed
+
+*Genesis 1:1*
+
 
 There was a time when God existed alone … No heaven, no earth, no angels
 … Just God
 
-*"**In the beginning <u>God</u>** created the heavens and the earth."*
+*"**In the beginning _God_** created the heavens and the earth."*
 
 Q. What does the Bible say about the existence of God?
 
-... His existence is a given - right from the start!
 
-**2. God was not created - He is**
+#### 2. God was not created - He is
+
 
 **a. I am - Self existence** - Exodus 3:14
 
@@ -140,7 +109,6 @@ Q. What name does God give to Himself?
 
 Q. What is the significance of *"I AM"*?
 
-... self existence
 
 **b. Existed from eternity** - Isaiah 43:13
 
@@ -159,19 +127,18 @@ Q. Can a finite mind conceive God?
 ungodliness and unrighteousness of men, who suppress the truth in
 unrighteousness,*
 
-*1:19 because **that which is known about God is evident <u>within
-them</u>**; for God made it evident to them.*
+*1:19 because **that which is known about God is evident _within
+them_**; for God made it evident to them.*
 
 *1:20 "For since the creation of the world His invisible attributes,
-**His eternal power and divine nature, have been clearly seen, being
-understood <u>through what has been made</u>**, so that **they are
+understood _through what has been made_**, so that **they are
 without excuse**.*
 
 *1:21 For even though they knew God, **they did not honor Him as God**,
 or give thanks; but they became futile in their speculations**, and**
 **their foolish heart was darkened**.*
 
-*1*:*22 Professing to be wise, **they became <u>fools</u>**,"*
+*1*:*22 Professing to be wise, **they became _fools_**,"*
 
 :
 
@@ -187,7 +154,7 @@ accusing or else defending them**,*
 *2:16 on the day when, according to my gospel, God will judge the
 secrets of men through Christ Jesus.*
 
-<u>Q. What are two ways God has revealed Himself to men?</u>
+_Q. What are two ways God has revealed Himself to men?_
 
 **a. The Evidence of God has been revealed within man**
 
@@ -205,8 +172,8 @@ Psalm 19:1 – Creation reveals the glory of God
 the glory of God; And their expanse is declaring the work of His
 hands**.*
 
-<u>Q. When people ignore God’s creation, and their conscience & turn
-from God - what is the result?</u>
+_Q. When people ignore God’s creation, and their conscience & turn
+from God - what is the result?_
 
 Verse 1:20 – They are judged, *“they are without excuse”*
 
@@ -214,7 +181,9 @@ Verse 1:21 – “*their foolish heart was darkened”*
 
 Verse 1:22 – *“they* *became fools*”
 
-**4. Those who deny the existence of God are fools:**
+
+#### 4. Those who deny the existence of God are fools:
+
 
 a\. Psalms 14:1
 
@@ -226,9 +195,12 @@ Q. How does the Bible comment on those who say there is no God?
 
 … they are fools
 
-**B. God is the only God**
 
-**1. He declares Himself as the only God:**
+### B. God is the only God
+
+
+#### 1. He declares Himself as the only God:
+
 
 a\. Isaiah 45:22
 
@@ -265,7 +237,11 @@ Me**.*
 it to you and declared it? And you are My witnesses. **Is there any God
 besides Me, Or is there any other Rock? I know of none**.'"*
 
-**2. However God is plural** - refers to himself as "us" and "our"
+
+#### 2. However God is plural
+
+*refers to himself as "us" and "our"*
+
 
 a\. Genesis 1:26a
 
@@ -282,7 +258,9 @@ b\. Genesis 3:22
 **Us**, knowing good and evil; and now, lest he stretch out his hand,
 and take also from the tree of life, and eat, and live forever'"*
 
-**3. Trinity**
+
+#### 3. Trinity
+
 
 Q. Why does God refer to Himself in the Plural? ... Trinity
 
@@ -298,9 +276,12 @@ Lesson \#4: *The Person of Jesus Christ*
 
 Lesson \#7: *The Person and Ministry of the Holy Spirit*
 
-**C. Where is God?**
 
-**1. Father - in heaven**
+### C. Where is God?
+
+
+#### 1. Father - in heaven
+
 
 a\. Matthew 6:9
 
@@ -315,14 +296,20 @@ b\. Matthew 16:17
 because flesh and blood did not reveal this to you, but My **Father who
 is in heaven**.'"*
 
-**2. Christ the Son** - Hebrews 10:12
+
+#### 2. Christ the Son
+
+*Hebrews 10:12*
+
 
 *"but He, having offered one sacrifice for sins for all time, **sat down
 at the right hand of God**,"*
 
 Q. Where is Christ now? ... in heaven - at the right hand of the Father
 
-**3. Holy Spirit - On earth - ministering within us!**
+
+#### 3. Holy Spirit - On earth - ministering within us!
+
 
 a\. Romans 8:11 - Indwelling of the H.S.
 
@@ -343,44 +330,15 @@ c\. John 14:26 - Holy Spirit sent to teach us
 name, He **will teach you all things**, and bring to your remembrance
 all that I said to you."*
 
-<table style="width:92%;">
-<colgroup>
-<col style="width: 91%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="text-align: center;"><strong>WHERE IS HEAVEN</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"><p><strong>Heaven is up!</strong></p>
-<p>1. Revelation 3:12</p>
-<p><em>"'He who overcomes, I will make him a pillar in the temple of My
-God, and he will not go out from it anymore; and I will write upon him
-the name of My God, and the name of the city of My God, the new
-Jerusalem, which <strong>comes down out of heaven from My God</strong>,
-and My new name."</em></p>
-<p>2. John 3:13</p>
-<p><em>"And no one has <strong>ascended into</strong> heaven, but He who
-<strong>descended from</strong> heaven, even the Son of Man."</em></p>
-<p>3. Acts 1:9-11</p>
-<p>9 <em>"And after He had said these things, <strong>He was lifted
-up</strong> while they were looking on, and <strong>a cloud received
-Him</strong> out of their sight.</em></p>
-<p>10 <em>And as they were gazing intently into the sky while He was
-departing, behold, two men in white clothing stood beside them;</em></p>
-<p>11 <em>and they also said, 'Men of Galilee, why do you stand looking
-into the sky? This Jesus, who has been <strong>taken up from you into
-heaven</strong>, will come in just the same way as you have watched Him
-go into heaven.'"</em></p></td>
-</tr>
-</tbody>
-</table>
 
-**D. How does God manifest Himself?**
+### D. How does God manifest Himself?
+
 
 Q. What does God look like?
 
-**1. God is Spirit**
+
+#### 1. God is Spirit
+
 
 a\. John 4:24
 
@@ -398,7 +356,9 @@ b\. This is a declaration of God's invisible nature - Colossians 1:15
 *"And He is the image of the **invisible God**, the first-born of all
 creation."*
 
-**2. God's Glory - can be seen**
+
+#### 2. God's Glory - can be seen
+
 
 **a. Moses on Mount Sinai:** Exodus 24:16-17
 
@@ -413,14 +373,13 @@ Q. What was the appearance of God's glory? ... fire
 
 Q. Was it a consuming fire?
 
-... No - it was <u>like</u> a consuming fire (i.e. Moses & burning bush,
 below)
 
 **b. Moses and the burning bush** - Exodus 3:2
 
 *"And the angel of the Lord appeared to him in a blazing fire from the
 midst of a bush; and he looked, and behold, **the bush was burning with
-fire, yet the bush was <u>not consumed</u>**."*
+fire, yet the bush was _not consumed_**."*
 
 Q. How did God appear to Moses? ... like fire
 
@@ -448,9 +407,14 @@ Like fire ... Radiance
 
 Rainbow ... surrounding radiance
 
-**E. The depth of God**
 
-**1. God is incomprehensible** - Romans 11:33,34
+### E. The depth of God
+
+
+#### 1. God is incomprehensible
+
+*Romans 11:33,34*
+
 
 33 *"Oh, the depth of the riches both of the wisdom and knowledge of
 God! **How unsearchable are His judgments and unfathomable His ways**!*
@@ -464,7 +428,11 @@ Q. What does unfathomable mean? .. So deep the bottom cannot be reached
 
 (Thorndike Century Dictionary)
 
-**2. God has no boundaries** - Job 11:7
+
+#### 2. God has no boundaries
+
+*Job 11:7*
+
 
 *"**Can you discover the depths of God**? Can you discover the limits of
 the Almighty?"*
@@ -472,25 +440,14 @@ the Almighty?"*
 Q. What is the implied answer? ... No, God is limitless; without
 boundaries!
 
-<table style="width:42%;">
-<colgroup>
-<col style="width: 42%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="text-align: center;"><p><strong>What is your concept of
-God?</strong></p>
-<p><strong>Is your God in a box?</strong></p></td>
-</tr>
-</tbody>
-</table>
-
 > **\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*HERE
 > \*\*\*\*\*\*\*\*\*\*\*\*\*\***
 >
 > **F. Knowing God**
 
-**1. God can only be divinely perceived**
+
+#### 1. God can only be divinely perceived
+
 
 **a. Through the Holy Spirit** - 1 Corinthians 2:9-16
 
@@ -512,7 +469,7 @@ Q. These things that are not seen and heard, who are they prepared for?
 
 **b. Through Christ**
 
-\(1\) Matthew 11:27
+\(1. Matthew 11:27
 
 *"All things have been handed over to Me by My Father; and no one knows
 the Son, except the Father; **nor does anyone know the Father, except
@@ -522,7 +479,7 @@ Q. Who is the only one that fully knows the Father? ... Christ
 
 Q. How can we come to know the Father? ... Through Christ
 
-\(2\) John 14:8,9 (LESSON, pg. 20, III.A) - Have student refer to Lesson
+\(2. John 14:8,9 (LESSON, pg. 20, III.A) - Have student refer to Lesson
 
 Q. What does Jesus say about the means for knowing God (John 14:8,9)?
 
@@ -533,7 +490,7 @@ us."*
 not come to know Me, Philip? **He who has seen Me has seen the Father**;
 how do you say, 'Show us the Father'?"*
 
-\(3\) Colossians 2:9? (LESSON, pg. 20, III.B) - Have student refer to
+\(3. Colossians 2:9? (LESSON, pg. 20, III.B) - Have student refer to
 lesson
 
 Q. What does Paul say about Christ?
@@ -542,19 +499,9 @@ Q. What does Paul say about Christ?
 
 Q. What is Deity. The essence of God!
 
-<table style="width:42%;">
-<colgroup>
-<col style="width: 42%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p><strong>You want to know God?</strong></p>
-<p><strong>God can be seen in Christ.</strong></p></td>
-</tr>
-</tbody>
-</table>
 
-**2. Practically - knowing God**
+#### 2. Practically - knowing God
+
 
 **a. Set your mind/ desire to seek God** - Psalm 27:8
 
@@ -563,7 +510,6 @@ face, O Lord, **I shall seek**.'"*
 
 Q. What can we learn from the Psalmist on how to know God?
 
-... Determine to seek God.
 
 **b. Keep His commandments** - John 14:21
 
@@ -573,19 +519,15 @@ and will disclose Myself to him**."*
 
 Q. Who does God promise to reveal Himself to?
 
-... those who keep His commandments
 
 Q. Who are those who keep God's commandments?
 
-... Those who love Him.
 
 Q. Who are those that love Him?
 
-... Christians
 
 Q. So what is a prerequisite to knowing God?
 
-... You must be a Christian
 
 **c. We can never know everything about God?** - Deuteronomy 29:29
 
@@ -593,27 +535,16 @@ Q. So what is a prerequisite to knowing God?
 belong to us and to our sons forever, that we may observe all the words
 of this law."*
 
-**II. GOD'S ATTRIBUTES**
+
+## II. GOD'S ATTRIBUTES
+
 
 **Introduction to God's attributes**
 
 **Question**: What is an attribute of a person?
 
-... A quality or characteristic that is true of a person.
 
 **Question:** What do I mean by this statement?
-
-<table style="width:66%;">
-<colgroup>
-<col style="width: 66%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p><strong>Understanding the Attributes of God</strong></p>
-<p><strong>allows us to offer up true worship to God.</strong></p></td>
-</tr>
-</tbody>
-</table>
 
 Answer:
 
@@ -630,18 +561,6 @@ Etc.
 **Question:** How about the harmony of God's attributes?
 
 What do I mean by this statement?
-
-<table style="width:66%;">
-<colgroup>
-<col style="width: 66%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p><strong>All of God's Attributes</strong></p>
-<p><strong>Work in Harmony</strong>.</p></td>
-</tr>
-</tbody>
-</table>
 
 Example: How does God's Love and God's Justice harmonize together?
 
@@ -663,7 +582,9 @@ Lesson: Untouched and unstained by sin.
 
 Absolutely pure and perfect.
 
-**2. Lesson verses:**
+
+#### 2. Lesson verses:
+
 
 a\. Exodus 15:11
 
@@ -675,7 +596,9 @@ b\. Psalm 99:9
 *"Exalt the Lord our God, And worship at His holy hill; For **holy is
 the Lord our God**."*
 
-**3. Emphasis of Holiness**
+
+#### 3. Emphasis of Holiness
+
 
 **a. Repetition** - (may refer to trinity) - Revelation 4:8
 
@@ -686,13 +609,12 @@ who is and who is to come.'"*
 
 Q. Why do you think Holy is repeated three times?
 
-... Emphasis
-
-... Trinity?
 
 **b. Note:** Most often repeated attribute of God.
 
-**4. God swears by His holiness** **-** **(the highest standard)**
+
+#### 4. God swears by His holiness** **-** **(the highest standard)
+
 
 a\. Psalm 89:35
 
@@ -704,11 +626,12 @@ Q. How does God swear? ... By Himself!
 
 Q. What is the highest standard?
 
-... God's holiness is the highest standard.
 
 b\. Amos 4:2 - *"The Lord God has **sworn by His holiness**, ..."*
 
-**5. Personal application**
+
+#### 5. Personal application
+
 
 Q. What does God's holiness mean to you?
 
@@ -734,7 +657,9 @@ f\. Causes me to praise God for his majestic holiness.
 
 Q. What is the difference between Righteousness & Justice
 
-**1. Definitions:**
+
+#### 1. Definitions:
+
 
 **a. Righteousness** - God does no wrong
 
@@ -744,7 +669,9 @@ He only does what is right.
 
 The consequence of doing wrong.
 
-**2. Lesson verses:**
+
+#### 2. Lesson verses:
+
 
 a\. Righteousness & Justice - Psalm 119:137
 
@@ -763,7 +690,9 @@ Q. What do you think is meant by the box in the LESSON, page 22:
 
 Answer: God **is** the perfect standard.
 
-**3. God Righteousness and Justice applied to man**
+
+#### 3. God Righteousness and Justice applied to man
+
 
 **a. God sets the standard** - Matthew 5:48
 
@@ -776,14 +705,13 @@ Q. What is His standard? ... perfection
 
 Q. What standards do men normally set?
 
-... one that makes them O.K. in God's eyes.
 
 **b. Unbelievers: Will be judged** - Hebrews 9:27
 
 *"And inasmuch as it is appointed for men to die once and after this
 comes **judgment**,"*
 
-Q. According to this verse, what will man face after death? ...
+Q. According to this verse, what will man face after death?
 judgement
 
 Q. How about believers? ... no, verse below
@@ -795,9 +723,9 @@ become the righteousness of God in Him**."*
 
 Q. In light of God's justice, how does God see the believer?
 
-... as righteousness.
 
-**4. Personal Applications**
+#### 4. Personal Applications
+
 
 Q. How does God's righteousness affect you personally?
 
@@ -823,9 +751,11 @@ my sinfulness.
 
 Supreme in position to all others.
 
-**2. Lesson verses:**
 
-**a. God <u>will</u> accomplish His purposes** - Isaiah 46:9,10
+#### 2. Lesson verses:
+
+
+**a. God _will_ accomplish His purposes** - Isaiah 46:9,10
 
 *9 "Remember the former things long past, For **I am God**, and there is
 **no other**; I am God, and **there is no one like Me**,*
@@ -840,7 +770,9 @@ I will accomplish all My good pleasure**';"*
 righteousness And will not turn back, That **to Me every knee will bow,
 every tongue will swear allegiance**."*
 
-**3. Application:**
+
+#### 3. Application:
+
 
 Q. What does God's sovereignty mean to you?
 
@@ -867,7 +799,9 @@ e\. I can praise God for His power.
 
 Having more than enough strength to do anything.
 
-**2. Lesson verses:**
+
+#### 2. Lesson verses:
+
 
 **a. No other God** - Revelation 19:6
 
@@ -888,7 +822,9 @@ difficult for Thee**,"*
 *"Once God has spoken; Twice I have heard this: That **power belongs to
 God**;"*
 
-**3. God's Power Displayed**
+
+#### 3. God's Power Displayed
+
 
 Q. In what areas do we see God's power?
 
@@ -914,7 +850,9 @@ in his way.*
 *24 When he falls, he shall not be hurled headlong; Because the Lord is
 the One who holds his hand."*
 
-**4. Personal application**
+
+#### 4. Personal application
+
 
 Q. When you stop and ponder on God's power, what is your response?
 
@@ -942,7 +880,9 @@ e\. Our salvation is secure in His power.
 
 Nothing takes God by surprise.
 
-**2. Lesson verses:**
+
+#### 2. Lesson verses:
+
 
 **a. God sees everything we do** - Job 34:21
 
@@ -957,7 +897,9 @@ APPLICATION: He knows our sin.
 
 He accepts us as we are (really are - inside).
 
-**3. Other verses:**
+
+#### 3. Other verses:
+
 
 **a. Infinite understanding** - Psalm 147:5
 
@@ -979,17 +921,16 @@ counselor?**"*
 Q. What is implied by the statement "*who has known the mind of the
 Lord*"?
 
-... We cannot even conceive of the depth of God's mind.
 
 **c. God knows man's thoughts**
 
-\(1\) Matthew 12:25
+\(1. Matthew 12:25
 
 *"And **knowing their thoughts** He said to them, 'Any kingdom divided
 against itself is laid waste; and any city or house divided against
 itself shall not stand.'"*
 
-\(2\) Isaiah 66:18
+\(2. Isaiah 66:18
 
 *"For **I know their** works and their **thoughts**; the time is coming
 to gather all nations and tongues. And they shall come and see My
@@ -997,7 +938,9 @@ glory."*
 
 **E. OMNISCIENCE** (continued)
 
-**4. Personal application**
+
+#### 4. Personal application
+
 
 Q. How does God's omniscience affect your view of your sin?
 
@@ -1022,7 +965,9 @@ f\. He knows us better than we know ourselves - He know the future.
 **1. Definition:** LESSON: There has never been a time when God did not
 exist!
 
-**2. Lesson verses:**
+
+#### 2. Lesson verses:
+
 
 **a. The Beginning & the End** - Isaiah 44:6
 
@@ -1039,7 +984,9 @@ Q. What other attribute is seen in this verse - Sovereignty.
 
 Note: God's attributes are interwoven throughout Scripture.
 
-**3. Personal application**
+
+#### 3. Personal application
+
 
 Q. What consequence does this have on our eternal salvation?
 
@@ -1055,7 +1002,9 @@ c\. **Reverse**: Hell is eternal - How about the lost?
 
 **1. Definition:** LESSON: God never changes in His nature or purpose!
 
-**2. Lesson verses:**
+
+#### 2. Lesson verses:
+
 
 a\. Malachi 3:6
 
@@ -1078,13 +1027,19 @@ Q. What is the promise? Eternal life
 
 Q. What is our hope? Eternal life - Christ 2nd coming.
 
-**3. God does not vary** - James 1:17
+
+#### 3. God does not vary
+
+*James 1:17*
+
 
 *"Every good thing bestowed and every perfect gift is from above, coming
 down from the **Father** of lights, with whom **there is no variation**,
 or shifting shadow."*
 
-**4. Personal application**
+
+#### 4. Personal application
+
 
 Q. What personal application does God's immutability have for you?
 
@@ -1098,7 +1053,9 @@ b\. God will not change His mind about sin - judgement will happen.
 
 **1. Definition:** LESSON: God is present everywhere in the universe.
 
-**2. Lesson verses:**
+
+#### 2. Lesson verses:
+
 
 a\. Proverbs 15:3
 
@@ -1121,9 +1078,11 @@ hold of me."*
 
 Q. What do we learn about God from these passages?
 
-... that He is everwhere
 
-**3. God is near** - Jeremiah 23:23,24
+#### 3. God is near
+
+*Jeremiah 23:23,24*
+
 
 *23 "'**Am I a God who is near**,' declares the Lord, 'And **not a God
 far off**?*
@@ -1134,7 +1093,9 @@ earth?**' declares the Lord."*
 
 Q. What does it mean to you that God is near?
 
-**4. Personal application**
+
+#### 4. Personal application
+
 
 Q. How does God's omnipresence apply to you?
 
@@ -1155,7 +1116,9 @@ at same time!
 
 **I. LOVE** (Lesson, page 26, attribute \#9)
 
-**1. Definition:**
+
+#### 1. Definition:
+
 
 a\. LESSON: Unconditional love; not based on the loveliness or merit of
 the object.
@@ -1174,11 +1137,13 @@ truth**;*
 *7 **bears all things**, **believes all things**, **hopes all things**,
 **endures all things**."*
 
-**2. Lesson verses:**
+
+#### 2. Lesson verses:
+
 
 a\. John 3:16
 
-*"For **God <u>so</u> loved** the world, that He gave His only begotten
+*"For **God _so_ loved** the world, that He gave His only begotten
 Son, that whoever believes in Him should not perish, but have eternal
 life."*
 
@@ -1189,7 +1154,11 @@ were yet sinners, Christ died for us."*
 
 Q. How does God love? In action.
 
-**3. God's great love demonstrated in His mercy** - Ephesians 2:4-5
+
+#### 3. God's great love demonstrated in His mercy
+
+*Ephesians 2:4-5*
+
 
 *4 "But God, being **rich in mercy**, because of **His great love** with
 which He loved us,*
@@ -1203,7 +1172,9 @@ Q. What is grace? God giving us something we don't deserve.
 
 **I. LOVE** (continued)
 
-**4. Personal application**
+
+#### 4. Personal application
+
 
 Q. How does God's love affect you?
 
@@ -1219,17 +1190,22 @@ b\. Be thankful for His mercy.
 
 c\. We should want to love like God, toward others - in action.
 
-**III. CONCLUSION**
 
-**A. Fear God** - Proverbs 9:10
+## III. CONCLUSION
 
-1\. Revelation 15:4
+
+### A. Fear God
+
+*Proverbs 9:10*
+
+
+1. Revelation 15:4
 
 *"**Who will not fear, O Lord, and glorify Thy name?** For Thou alone
 art holy; For all the nations will come and worship before Thee, For Thy
 righteous acts have been revealed."*
 
-2\. Proverbs 9:10
+2. Proverbs 9:10
 
 *"The **fear of the Lord** is the beginning of **wisdom**, And **the
 knowledge of the Holy One is understanding**."*
@@ -1250,28 +1226,24 @@ To fall before Him in humility
 
 To pray with meaning
 
-**B. Desire to Know God** - Psalm 27:8
+
+### B. Desire to Know God
+
+*Psalm 27:8*
+
 
 *"When Thou didst say, '**Seek My face**,' my heart said to Thee, 'Thy
 face, O Lord, **I shall seek**.'"*
 
 Recap: Set your mind to know God.
 
-**C. Proclaim God** - 1 Peter 2:9
+
+### C. Proclaim God
+
+*1 Peter 2:9*
+
 
 *"But you are a chosen race, a royal priesthood, a holy nation, a people
 for God's own possession, that you may **proclaim the excellencies of
 Him** who has called you out of darkness into His marvelous light;"*
 
-<table style="width:71%;">
-<colgroup>
-<col style="width: 71%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p>And ...</p>
-<p>Remember God's attributes when you pray ...</p>
-<p>Offer up true praise and worship to our Great God.</p></td>
-</tr>
-</tbody>
-</table>

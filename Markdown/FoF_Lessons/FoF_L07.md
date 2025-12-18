@@ -1,78 +1,24 @@
-***Fundamentals of the Faith***
+# Fundamentals of the Faith
+
+## Lesson 07: Holy Spirit
+
+---
+
+## Table of Contents
+
+- [I. THE HOLY SPIRIT IS A PERSON](#i-the-holy-spirit-is-a-person)
+- [II. PICTURES OF THE HOLY SPIRIT](#ii-pictures-of-the-holy-spirit)
+- [III. DEITY OF THE HOLY SPIRIT](#iii-deity-of-the-holy-spirit)
+- [IV. THE TRINITY](#iv-the-trinity)
+- [V. THE WORK & MINISTRY OF THE HOLY SPIRIT](#v-the-work-ministry-of-the-holy-spirit)
+- [VI. THE BAPTISM OF THE OF THE HOLY SPIRIT](#vi-the-baptism-of-the-of-the-holy-spirit)
+- [VII. THE FILLING OF THE HOLY SPIRIT](#vii-the-filling-of-the-holy-spirit)
+- [VIII. APPLICATION](#viii-application)
+
+---
 
 **Lesson \#7 - The Person & Ministry of the Holy Spirit**
 
-**Table of Contents**
-
-###  I. The Holy Spirit is a Person ………………………………………………………………………….. 1
-
-A. A separate person
-
-B. The Spirit possesses and *intellect*, *emotion* and *will*
-
-C. Responses to the Holy Spirit
-
-D. Actions of the Holy Spirit
-
-###  II. Pictures of the Holy Spirit …………………………………………………………………………… 6
-
-A. Wind and fire
-
-B. Dove
-
-###  III. Deity of the Holy Spirit ………………………………………………………………………………. 7
-
-A. Attributes
-
-B. Statements of deity
-
-C. Divine Names
-
-###  IV. The Trinity ……………………………………………………………………………………………. 9
-
-A. There is only one God
-
-B. The Father is God
-
-C. Christ is God
-
-D. The three are distinct from each other
-
-E. Trinitarian statements
-
-###  V. The Work & Ministry of the Holy Spirit ……………………………………………………………. 11
-
-A. Creation
-
-B. Giving of God’s Word
-
-C. Testifies of Christ
-
-D. Active in Salvation
-
-###  VI. The Baptism of the Holy Spirit ………………………………………………………………………. 15
-
-A. Baptizes one into the Body of Christ
-
-B. Our relationship with Christ
-
-C. Being baptized = being clothed with Christ
-
-D. Happens only once
-
-### VII. The Filling of the Holy Spirit ………………………………..………………………………………. 17
-
-A. A definite command
-
-B. How to be filled with the Holy Spirit
-
-###  VIII. Application ……………………………………………………………………………………………. 20
-
-A. The fruit of the Spirit
-
-B. Our Strength
-
-***Fundamentals of the Faith***
 
 **Lesson \#7 - The Person & Ministry of the Holy Spirit**
 
@@ -82,22 +28,20 @@ B. Our Strength
 
 The objectives of lesson \#7 are two fold:
 
-1\. To x
+1. To x
 
-2\. To x
+2. To x
 
-x
 
 **Exhortation to the teacher:**
 
-x
 
 And also remember the motto of Fundamentals of the Faith:
 
 *"They will not care how much you know, until they know how much you
 care."*
 
-**As always, before entering the Classroom, always ...**
+**As always, before entering the Classroom, always
 
 *Pray that Christ will be glorified through all that you say,
 remembering that your strength*
@@ -105,17 +49,19 @@ remembering that your strength*
 *is supplied by God and the power of your message is the Word of God (1
 Peter 4:11).*
 
-***Fundamentals of the Faith***
 
 **Lesson \#7 - The Person & Ministry of the Holy Spirit**
 
 **Lesson Outline**
 
-**I. THE HOLY SPIRIT IS A PERSON**
 
-**A. A separate person**
+## I. THE HOLY SPIRIT IS A PERSON
 
-1\. Reference to all three - Father, Son and Holy Spirit - John 14:26
+
+### A. A separate person
+
+
+1. Reference to all three - Father, Son and Holy Spirit - John 14:26
 
 a\. John 14:26
 
@@ -125,7 +71,7 @@ all that I said to you."*
 
 Q. What observations can we make from this verse?
 
-Q. How many persons are mentioned? ... 3
+Q. How many persons are mentioned?
 
 Q. Who are they? ... The Holy Spirit, The Father, Christ
 
@@ -140,7 +86,7 @@ that He may be with you forever;*
 because it does not behold Him or know Him, but you know Him because He
 abides with you, and will be in you."*
 
-#### 
+####
 
 ####  Q. How is the Holy Spirit referred to in verse 16? ... As a helper
 
@@ -148,17 +94,16 @@ Q. Who was the first helper? ... Christ
 
 #  Q. What is the significance of another?
 
-... Separate from Christ; separate from the Father.
 
 Q. Besides helper, how is the Spirit referred to? ... As He
 
-2\. Pronouns in Lesson I.A, John 14:17 --\> 4 (NASB)
+2. Pronouns in Lesson I.A, John 14:17 --\> 4 (NASB)
 
 Q. What is the significance of the pronouns He and Him?
 
-... The Holy Spirit is a person not an *it*.
 
-**B. The Spirit possesses an *intellect*, *emotion* and *will***
+### B. The Spirit possesses an *intellect*, *emotion* and *will*
+
 
 **1. Mind or Intellect** (LESSON, pg, 47, I.B.1)
 
@@ -175,9 +120,6 @@ except the Spirit of God**."*
 
 Q. Why is it important to note that the Spirit can know *thoughts*?
 
-... A force is not able to think.
-
-... The Spirit is not simply a force.
 
 **b. He has a mind** - Romans 8:27
 
@@ -186,27 +128,21 @@ is, because He intercedes for the saints according to the will of God."*
 
 Q. What does *mind* mean?
 
-... Denotes what one has in the mind; the thought
 
-... To have understanding; to think
+#### 2. Emotion
 
-**2. Emotion**
 
-**a. He can be grieved** - Ephesians 4:30 - LESSON I.B.2
+**a. He can be grieved** - Ephesians 4:30 - LESSON I.B
 
 *"And **do not grieve the Holy Spirit** of God, by whom you were sealed
 for the day of redemption."*
 
 Q. What does it mean to grieve someone?
 
-... deep distress; heavy burden
 
 Q. What can we learn about the Holy Spirit knowing that He can be
 grieved?
 
-... He has feelings; He has emotion
-
-... He is not simply a force
 
 **b. He loves the saints** - Romans 15:30
 
@@ -218,13 +154,15 @@ Q. What attribute is given to the Holy Spirit? ... Love
 
 Q. Do you think of the Holy Spirit as having feelings; emotions?
 
-**3. Volition - Will**
+
+#### 3. Volition - Will
+
 
 a\. Distribution of Spiritual gifts - 1 Corinthians 12:11 (LESSON, pg.
 48, I.B.3)
 
 *"But one and **the** same **Spirit** works all these things,
-**distributing** to each one individually **just as <u>He wills</u>**."*
+**distributing** to each one individually **just as _He wills_**."*
 
 Q. Who made the decision as to which spiritual gift each individual
 believer would receive? ... The Holy Spirit
@@ -243,20 +181,20 @@ Bithynia, and **the Spirit of Jesus did not permit them**;*
 
 Q. What did the Holy Spirit do (verse 6)?
 
-... Directed the missionary journey of Paul and Silas.
 
-Q. Why is this important? ...
+Q. Why is this important?
 
-... The Spirit guides and directs.
-
-... This would not be true if the Spirit were a force.
 
 **C. Responses to the Holy Spirit** (HANDOUT: Have the Students fill in
 Handout)
 
-**The Spirit can be ...**
+**The Spirit can be
 
-**1. Obeyed** - Acts 10:19-21
+
+#### 1. Obeyed
+
+*Acts 10:19-21*
+
 
 *19 "And while Peter was reflecting on the vision, **the Spirit said to
 him**, 'Behold, three men are looking for you.*
@@ -269,7 +207,6 @@ are looking for; what is the reason for which you have come?'"*
 
 Q. What command did the Holy Spirit give to Peter? (verse 20)
 
-... He commanded him to *arise, go downstairs, and accompany them.*
 
 Q. What was Peter's response? (verse 21) ... He obeyed.
 
@@ -279,31 +216,43 @@ Q. What is our choice? ... to obey or not
 
 Note: Again, how is the Spirit's will or volition seen (verse 20)?
 
-... *The Holy Spirit sent them Himself*
 
-**2. Resisted** - Acts 7:51
+#### 2. Resisted
+
+*Acts 7:51*
+
 
 *"You men who are stiff-necked and uncircumcised in heart and ears are
 always **resisting the Holy Spirit**; you are doing just as your fathers
 did."*
 
-**3. Lied to** - Acts 5:3
+
+#### 3. Lied to
+
+*Acts 5:3*
+
 
 *"But Peter said, "Ananias, why has Satan filled your heart to **lie to
 the Holy Spirit**, and to keep back some of the price of the land?"*
 
 Q. Have you ever promised something to God?
 
-... it is not to be taken lightly - Ananias fell dead on the spot.
 
-**4. Insulted** - Hebrews 10:29
+#### 4. Insulted
+
+*Hebrews 10:29*
+
 
 *"How much severer punishment do you think he will deserve who has
 trampled under foot the Son of God, and has regarded as unclean the
 blood of the covenant by which he was sanctified, and has **insulted**
 the Spirit of grace?"*
 
-**5. Blasphemed** - Mark 3:28-29
+
+#### 5. Blasphemed
+
+*Mark 3:28-29*
+
 
 *28 "'Truly I say to you, all sins shall be forgiven the sons of men,
 and whatever blasphemies they utter;*
@@ -314,7 +263,9 @@ forgiveness, but is guilty of an eternal sin '"*
 **D. Actions of the Holy Spirit** (HANDOUT: Have Students fill in 2nd
 part of Handout)
 
-**1. Speaks**
+
+#### 1. Speaks
+
 
 a\. Acts 8:29
 
@@ -328,7 +279,9 @@ him**, 'Behold, three men are looking for you.*
 *20 But arise, go downstairs, and accompany them without misgivings; for
 I have sent them Myself.'"*
 
-**2. Teaches**
+
+#### 2. Teaches
+
 
 a\. John 14:26 (also above, notes I.A)
 
@@ -342,33 +295,58 @@ b\. 1 Corinthians 2:13
 in those **taught by the Spirit**, combining spiritual thoughts with
 spiritual words."*
 
-**3. Distributes spiritual gifts** - 1 Corinthians 12:11
+
+#### 3. Distributes spiritual gifts
+
+*1 Corinthians 12:11*
+
 
 *"But one and the same Spirit works all these things, **distributing to
 each one** individually just as He wills."*
 
-**4. Convicts world of sin** - John 16:8
+
+#### 4. Convicts world of sin
+
+*John 16:8*
+
 
 *"And He, when He comes, **will convict the world concerning sin**, and
 righteousness, and judgment;"*
 
-**5. Searches** - 1 Corinthians 2:10
+
+#### 5. Searches
+
+*1 Corinthians 2:10*
+
 
 *"For to us God revealed them through the Spirit; for the Spirit
 **searches** all things, even the depths of God."*
 
-**6. Testifies** - John 15:26
+
+#### 6. Testifies
+
+*John 15:26*
+
 
 *"When the Helper comes, whom I will send to you from the Father, that
 is the Spirit of truth, who proceeds from the Father, **He will bear
 witness of Me**,"*
 
-**7. Guides or Directs** - Acts 16:6-7 (see above - direction of Paul &
+
+#### 7. Guides or Directs
+
+*Acts 16:6-7 (see above - direction of Paul &*
+
 Silas)
 
-**II. PICTURES OF THE HOLY SPIRIT**
 
-**A. Wind and Fire** - Acts 2:1-4
+## II. PICTURES OF THE HOLY SPIRIT
+
+
+### A. Wind and Fire
+
+*Acts 2:1-4*
+
 
 *1 "And when the day of Pentecost had come, they were all together in
 one place.*
@@ -376,19 +354,23 @@ one place.*
 *2 And suddenly there came from heaven a noise **like a violent, rushing
 wind**, and it filled the whole house where they were sitting.*
 
-*3 And there appeared to them tongues as of **<u>fire</u>** distributing
+*3 And there appeared to them tongues as of **_fire_** distributing
 themselves, and they rested on each one of them.*
 
 *4 And they were all filled with **the Holy Spirit** and began to speak
 with other tongues, as the Spirit was giving them utterance."*
 
-**1. Wind**
+
+#### 1. Wind
+
 
 a\. Pneuma (Greek); spirit; breath; wind
 
 b\. Wind is unseen power; observed in what it affects
 
-**2. Fire**
+
+#### 2. Fire
+
 
 a\. God is many times represented as fire:
 
@@ -403,7 +385,11 @@ b\. Can speak of judgement - 1 Cor. 3:13
 c\. Can speaks of testing/ purification - Mal. 3:3; 1 Peter 1:7; Isa.
 6:6-7
 
-**B. Dove** - Matthew 3:16
+
+### B. Dove
+
+*Matthew 3:16*
+
 
 *"And after being baptized, Jesus went up immediately from the water;
 and behold, the heavens were opened, and he saw the **Spirit of God**
@@ -418,11 +404,19 @@ Q. Why a dove?
 ⮚ John MacArthur: To the Jewish mind of the day the dove was associated
 with sacrifice (Lev. 12:6).
 
-**III. DEITY OF THE HOLY SPIRIT**
 
-**A. Attributes of Diety** - LESSON II.A
+## III. DEITY OF THE HOLY SPIRIT
 
-**1. Omniscient** - all knowing - Isaiah 40:13-14
+
+### A. Attributes of Diety
+
+*LESSON II.A*
+
+
+#### 1. Omniscient
+
+*all knowing - Isaiah 40:13-14*
+
 
 *13 **Who has directed the Spirit** of the Lord, **Or as His counselor
 has informed Him**?*
@@ -431,45 +425,72 @@ has informed Him**?*
 **who taught** Him in the path of justice and taught **Him knowledge**,
 And informed Him of the way of understanding?*
 
-**2. Omnipresent** - everywhere - Psalm 139:7
+
+#### 2. Omnipresent
+
+*everywhere - Psalm 139:7*
+
 
 *"**Where can I go from Thy Spirit?** Or where can I flee from Thy
 presence?"*
 
-**3. Eternal** - Hebrews 9:14
+
+#### 3. Eternal
+
+*Hebrews 9:14*
+
 
 *"how much more will the blood of Christ, who through the **eternal
 Spirit** offered Himself without blemish to God, cleanse your conscience
 from dead works to serve the living God?"*
 
-**4. Truth** - 1 John 5:7
+
+#### 4. Truth
+
+*1 John 5:7*
+
 
 *"And it is the Spirit who bears witness, because **the Spirit is the
 truth**."*
 
-**5. Holy** - Matthew 1:18 (Holy Spirit - referred to over 100 times)
 
-**B. Statements of Deity**
+#### 5. Holy
 
-**1. Passage comparison** - Acts 5:3,4
+*Matthew 1:18 (Holy Spirit - referred to over 100 times)*
+
+
+### B. Statements of Deity
+
+
+#### 1. Passage comparison
+
+*Acts 5:3,4*
+
 
 *3 But Peter said, "Ananias, why has Satan filled your heart to **lie to
-the <u>Holy Spirit</u>**, and to keep back some of the price of the
+the _Holy Spirit_**, and to keep back some of the price of the
 land?*
 
 *4 "While it remained unsold, did it not remain your own? And after it
 was sold, was it not under your control? Why is it that you have
 conceived this deed in your heart? **You have not lied to men, but to
-<u>God</u>**."*
+_God_**."*
 
-**2. Explicit claim** - 2 Corinthians 3:17
+
+#### 2. Explicit claim
+
+*2 Corinthians 3:17*
+
 
 *"Now **the Lord is the Spirit**; and where the Spirit of the Lord is,
 there is liberty."*
 
-**C. Divine Names**
 
-**1. Truth & Life**
+### C. Divine Names
+
+
+#### 1. Truth & Life
+
 
 a\. Truth - 1 John 5:7 (above)
 
@@ -486,7 +507,11 @@ from the law of sin and of death."*
 *"**Jesus said** to him, '**I am** the way, and **the truth, and the
 life**; no one comes to the Father, but through Me.'"*
 
-**2. Living Water** - John 7:38-39
+
+#### 2. Living Water
+
+*John 7:38-39*
+
 
 *38 "He who believes in Me, as the Scripture said, '**From his innermost
 being shall flow rivers of living water**.'"*
@@ -499,7 +524,11 @@ yet glorified."*
 
 ⮚ Father is called the *"living father"* - John 6:57
 
-**3. Spirit of Glory** - 1 Peter 4:14
+
+#### 3. Spirit of Glory
+
+*1 Peter 4:14*
+
 
 *"If you are reviled for the name of Christ, you are blessed, because
 **the Spirit of glory** and of God rests upon you."*
@@ -508,7 +537,11 @@ yet glorified."*
 
 ⮚ Jesus is called the *"Lord of glory"* - 1 Corinthians 2:8
 
-**4. Spirit of Grace** - Hebrews 10:29
+
+#### 4. Spirit of Grace
+
+*Hebrews 10:29*
+
 
 *"How much severer punishment do you think he will deserve who has
 trampled under foot the Son of God, and has regarded as unclean the
@@ -517,38 +550,54 @@ blood of the covenant by which he was sanctified, and has insulted the
 
 ⮚ The Father is called the *"God of all grace"* - 1 Peter 5:10
 
-**5. Holy Spirit** - Claiming the holiness of God.
 
-**IV. THE TRINITY**
+#### 5. Holy Spirit
 
-**A. There is only one God** - Lesson \#3
+*Claiming the holiness of God.*
 
-1\. Isaiah 45:22
+
+## IV. THE TRINITY
+
+
+### A. There is only one God
+
+*Lesson \#3*
+
+
+1. Isaiah 45:22
 
 *"Turn to Me, and be saved, all the ends of the earth; **For I am God,
 and there is no other**.*
 
-2\. Isaiah 43:10
+2. Isaiah 43:10
 
 *"'You are My witnesses,' declares the Lord, 'And My servant whom I have
 chosen, In order that you may know and believe Me, And understand that I
 am He. **Before Me there was no God formed, And there will be none after
 Me**.'"*
 
-**B. The Father is God** - John 6:27
+
+### B. The Father is God
+
+*John 6:27*
+
 
 *"Do not work for the food which perishes, but for the food which
 endures to eternal life, which the Son of Man shall give to you, for on
 Him **the Father, even God**, has set His seal."*
 
-**C. Christ is God** - Lesson \#4
 
-1\. Titus 2:13
+### C. Christ is God
+
+*Lesson \#4*
+
+
+1. Titus 2:13
 
 *"looking for the blessed hope and the appearing of the glory of **our
 great God and Savior, Christ Jesus**;"*
 
-2\. John 1:1,14
+2. John 1:1,14
 
 *1 "In the beginning was the Word, and the Word was with God, and **the
 Word was God**."*
@@ -557,9 +606,11 @@ Word was God**."*
 glory, glory as of the only begotten from the Father, full of grace and
 truth."*
 
-**D. The three are distinct from each other**
 
-1\. At the Baptism - Mark 1:10,11
+### D. The three are distinct from each other
+
+
+1. At the Baptism - Mark 1:10,11
 
 *10 And immediately coming up out of the water, **He** saw the heavens
 opening, and the **Spirit** like a dove descending upon Him;*
@@ -571,11 +622,14 @@ Q. How many person are mentioned in this passage? ... three
 
 Q. What is the significance of this? ... They are not the same person.
 
-2\. Trinitarian statements - next page.
+2. Trinitarian statements - next page.
 
-**E. Trinitarian statements**
 
-**1. 2 Corinthians 13:14**
+### E. Trinitarian statements
+
+
+#### 1. 2 Corinthians 13:14
+
 
 *"The **grace of the Lord Jesus Christ**, and the **love of God**, and
 the **fellowship of the Holy Spirit**, be with you all."*
@@ -586,7 +640,9 @@ Note: Jesus Christ ……… Grace or gift
 
 Holy Spirit ……….. Fellowship
 
-**2. 1 Peter 1:2**
+
+#### 2. 1 Peter 1:2
+
 
 *"according to the **foreknowledge of God the Father**, by the
 **sanctifying work of the Spirit**, that you may **obey Jesus Christ and
@@ -599,7 +655,9 @@ Spirit …………….. Sanctifying work
 
 Jesus Christ ………. Obedience, sacrifice
 
-**3. 1 Corinthians 12:4-6**
+
+#### 3. 1 Corinthians 12:4-6
+
 
 *4 "Now there are varieties of gifts, but the **same Spirit**.*
 
@@ -608,10 +666,12 @@ Jesus Christ ………. Obedience, sacrifice
 *6 And there are varieties of effects, but the **same God** who works
 all things in all ersons."*
 
-**4. Matthew 28:19**
+
+#### 4. Matthew 28:19
+
 
 *"Go therefore and make disciples of all the nations, baptizing them in
-<u>the name</u> of the **Father and the Son and the Holy Spirit**,"*
+_the name_ of the **Father and the Son and the Holy Spirit**,"*
 
 Note: ⮚ Name is singular.
 
@@ -620,7 +680,7 @@ Note: ⮚ Name is singular.
 ⮚ When a person is baptized he is identifying with everything that God
 is, has and represents.
 
-<u>SUMMARY: CO-EQUAL CO-ETERNAL CO-SUBSTANTIAL</u>
+_SUMMARY: CO-EQUAL CO-ETERNAL CO-SUBSTANTIAL_
 
 ⮚ God the Father From whom all revelation proceeds.
 
@@ -634,9 +694,14 @@ DESERVING THE SAME WORSHIP AND OBEDIENCE
 
 **V. THE WORK & MINISTRY OF THE HOLY SPIRIT** (LESSON)
 
-**A. Creation**
 
-**1. Every living thing depends on God's Spirit** - Psalms 104:29,30
+### A. Creation
+
+
+#### 1. Every living thing depends on God's Spirit
+
+*Psalms 104:29,30*
+
 
 (LESSON, pg. 49, III.A)
 
@@ -646,7 +711,11 @@ their spirit, they expire, And return to their dust.*
 *30 **Thou dost send forth Thy Spirit, they are created**; And Thou dost
 renew the face of the ground."*
 
-**2. Present at the creation of the world** - Genesis 1:1,2
+
+#### 2. Present at the creation of the world
+
+*Genesis 1:1,2*
+
 
 *1 "In the beginning God created the heavens and the earth.*
 
@@ -654,13 +723,21 @@ renew the face of the ground."*
 surface of the deep; and **the Spirit of God was moving over the surface
 of the waters.**"*
 
-**3. The birth of Christ** - Luke 1:35
+
+#### 3. The birth of Christ
+
+*Luke 1:35*
+
 
 *"And the angel answered and said to her, '**The Holy Spirit will come
 upon you**, and the power of the Most High will overshadow you; and for
 that reason the holy offspring shall be called the Son of God.'"*
 
-**B. Giving of God's Word** - 2 Peter 1:20-21 (LESSON, pg. 49, III.B)
+
+### B. Giving of God's Word
+
+*2 Peter 1:20-21 (LESSON, pg. 49, III.B)*
+
 
 20 "But know this first of all, that no prophecy of Scripture is a
 matter of one's own interpretation,
@@ -668,15 +745,24 @@ matter of one's own interpretation,
 *21 for no prophecy was ever made by an act of human will, but men moved
 by the Holy Spirit spoke from God.”*
 
-**C. Testifies of Jesus Christ** - John 15:26 (LESSON, pg. 49, box)
+
+### C. Testifies of Jesus Christ
+
+*John 15:26 (LESSON, pg. 49, box)*
+
 
 *"**When the Helper comes**, whom I will send to you from the Father,
 that is the Spirit of truth, who proceeds from the Father, **He will
 bear witness of Me**,"*
 
-**D. Active in Salvation**
 
-**1. Conviction of sin** - John 16:7-9 (LESSON, pg. 49, IV.A)
+### D. Active in Salvation
+
+
+#### 1. Conviction of sin
+
+*John 16:7-9 (LESSON, pg. 49, IV.A)*
+
 
 *7 "'But I tell you the truth, it is to your advantage that I go away;
 for if I do not go away, **the Helper shall** not come to you; but if I
@@ -687,7 +773,11 @@ righteousness, and judgment;*
 
 *9 concerning sin, **because they do not believe in Me**;'"*
 
-**2. Acknowledgement of Christ as Lord** - 1 Corinthians 12:3
+
+#### 2. Acknowledgement of Christ as Lord
+
+*1 Corinthians 12:3*
+
 
 *"Therefore I make known to you, that no one speaking by the Spirit of
 God says, 'Jesus is accursed'; and **no one can say, 'Jesus is Lord,'
@@ -697,20 +787,30 @@ Q. Why does the Spirit have to convict one of who Christ is?
 
 … John 16:9; 1 Cor. 12:3, above.
 
-**3. Regeneration** - Titus 3:5 (LESSON, pg. 49, IV.C.1)
+
+#### 3. Regeneration
+
+*Titus 3:5 (LESSON, pg. 49, IV.C.1)*
+
 
 *He saved us, not on the basis of deeds which we have done in
 righteousness, but according to His mercy, by **the washing of
 regeneration and renewing by the Holy Spirit**,*
 
-**4. Sanctification** - 1 Peter 1:2
+
+#### 4. Sanctification
+
+*1 Peter 1:2*
+
 
 *"according to the **foreknowledge of God** the Father, by the
 sanctifying work of the Spirit, **that you may obey Jesus Christ** and
 be sprinkled with His blood: May grace and peace be yours in fullest
 measure."*
 
-**5. Indwells the believer**
+
+#### 5. Indwells the believer
+
 
 a\. 1 Corinthians 3:16
 
@@ -749,11 +849,9 @@ your mortal bodies **through His Spirit who indwells you**."*
 
 Q. What can we learn in verse 9 about the indwelling of the Holy Spirit?
 
-... If you do not have the Holy Spirit you do not belong to Christ.
 
-... You get the Holy Spirit at the time of salvation.
+#### 6. Seals the believer
 
-**6. Seals the believer**
 
 a\. Ephesians 1:13-14 (LESSON, pg. 50, IV.D)
 
@@ -774,19 +872,17 @@ pledge**.*
 
 Q. What does is mean to be sealed? (LESSON, box, pg. 50)
 
-... indicates ownership and security
-
-... it is a guarantee of our future blessing
-
-... Authentic
 
 Q. In II Cor. 1 verse 22, what did the sealing include?
 
-... The giving of the Holy Spirit "*as a pledge*".
 
 Q. A pledge of what? ... of our eternal salvation
 
-**7. Teaches** - 1 Corinthians 2:12-14 (LESSON, pg. 50, V.D)
+
+#### 7. Teaches
+
+*1 Corinthians 2:12-14 (LESSON, pg. 50, V.D)*
+
 
 *12 "Now **we have received**, not the spirit of the world, but **the
 Spirit** who is from God, **that we might know** the things freely given
@@ -800,7 +896,9 @@ spiritual words.*
 for they are foolishness to him, and he cannot understand them, because
 they are spiritually appraised."*
 
-**VI. THE BAPTISM OF THE OF THE HOLY SPIRIT**
+
+## VI. THE BAPTISM OF THE OF THE HOLY SPIRIT
+
 
 **Remember:**
 
@@ -808,11 +906,15 @@ they are spiritually appraised."*
 
 ⮚ You are sealed with the Holy Spirit
 
-**A. Baptizes one into the body of Christ** - 1 Cor. 12:13 (LESSON, pg.
+
+### A. Baptizes one into the body of Christ
+
+*1 Cor. 12:13 (LESSON, pg.*
+
 49, IV.C.2)
 
 *"For **by one Spirit we were all baptized into one body**, whether Jews
-or Greeks, whether slaves or free, and we were <u>all</u> made to drink
+or Greeks, whether slaves or free, and we were _all_ made to drink
 of one Spirit."*
 
 Q. What is the tense of *"Baptized"* - in the aorist tense - the action
@@ -841,7 +943,11 @@ This meant to:
 
 ⮚ It was a new relationship
 
-**B. Our relationship with Christ** - Romans 6:3-5
+
+### B. Our relationship with Christ
+
+*Romans 6:3-5*
+
 
 *3 "Or do you not know that all of us **who have been baptized into
 Christ Jesus** have been baptized into His death?*
@@ -863,7 +969,11 @@ Note: We have been baptized into Christ
 
 ⮚ To be put into the place of privilege and blessing from God.
 
-**C. Being baptized = being clothed with Christ** - Galatians 3:26-27
+
+### C. Being baptized = being clothed with Christ
+
+*Galatians 3:26-27*
+
 
 *26 "For you are all sons of God through faith in Christ Jesus.*
 
@@ -877,7 +987,11 @@ yourselves with Christ**."*
 a robe of righteousness, As a bridegroom decks himself with a garland,
 And as a bride adorns herself with her jewels."*
 
-**D. Happens only once** - Ephesians 4:4-6
+
+### D. Happens only once
+
+*Ephesians 4:4-6*
+
 
 *4 "There is one body and one Spirit, just as also you were called in
 one hope of your calling;*
@@ -889,9 +1003,8 @@ all."*
 
 Q. How many times does the baptism of the Holy Spirit occur? (verse 5)
 
-... Once
 
-**<u>SUMMARY ON BAPTISM OF THE HOLY SPIRIT:</u>**
+**_SUMMARY ON BAPTISM OF THE HOLY SPIRIT:_**
 
 ⮚ Happens at the point of Salvation.
 
@@ -901,7 +1014,7 @@ Q. How many times does the baptism of the Holy Spirit occur? (verse 5)
 
 ⮚ Happens only once.
 
-**<u>IMPORTANT:</u>**
+**_IMPORTANT:_**
 
 ⮚ There is never a command to be *indwelt* by the Holy Spirit.
 
@@ -909,9 +1022,14 @@ Q. How many times does the baptism of the Holy Spirit occur? (verse 5)
 
 ⮚ There is never a command to be *baptized* by the Holy Spirit.
 
-**VII. THE FILLING OF THE HOLY SPIRIT**
 
-**A. A definite command** - Ephesians 5:17-19
+## VII. THE FILLING OF THE HOLY SPIRIT
+
+
+### A. A definite command
+
+*Ephesians 5:17-19*
+
 
 *17 So then do not be foolish, but understand what the will of the Lord
 is.*
@@ -928,13 +1046,17 @@ Q. Does anyone remember from the tape what the tense of "be filled" is?
 
 Q. What does it mean to be filled with the Spirit?
 
-**1. *Be filled* means:**
+
+#### 1. *Be filled* means:
+
 
 a\. Imperative: "Be being kept filled"
 
 b\. Present tense: Moment by moment - continuously
 
-**2. Dominant meanings:**
+
+#### 2. Dominant meanings:
+
 
 a\. Controlled by
 
@@ -946,65 +1068,34 @@ d\. To be carried along Like a stick in a creek
 
 e\. Does not generate its own will
 
-**3. The passage is contrasts *<u>being filled with the Spirit</u>* to
-being *<u>drunk with wine</u>*:**
+being *_drunk with wine_*:**
 
 ► Pagan religions of that time believed that they could draw near to the
 gods when they were drunk. Totally taken over by wine.
 
-<table style="width:85%;">
-<colgroup>
-<col style="width: 84%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p><strong>What the Filling of the Holy Spirit is not</strong></p>
-<p>⮚ It is Not - Being indwelt by or receiving the Holy Spirit</p>
-<p>⮚ It is Not - Receiving the Spirit by degrees or in doses.</p>
-<p>⮚ It is Not - Being baptized by the Holy Spirit</p>
-<p>⮚ It is Not - Being sealed or secured by the Holy Spirit</p>
-<p>⮚ It is Not - Some temporary spiritual zap resulting in ecstatic
-speech or unearthly visions.</p></td>
-</tr>
-</tbody>
-</table>
 
-<table style="width:86%;">
-<colgroup>
-<col style="width: 86%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p><strong>"<em>Be being kept filled</em>"</strong></p>
-<p>The continuous aspect of being filled ("be being kept filled")
-involves</p>
-<p>day-by-day, moment-by moment submission to the Spirit's control.</p>
-<p>The filling is entirely the work of the Spirit Himself, but</p>
-<p>He works only through our willing submission.</p>
-<p><em>The MacArthur N.T. Commentary, Ephesians</em>, John MacArthur,
-Jr., pg. 249</p></td>
-</tr>
-</tbody>
-</table>
+### B. How to be filled with the Holy Spirit
 
-**B. How to be filled with the Holy Spirit**
 
-**1. Confession of all sin**
+#### 1. Confession of all sin
+
 
 Walking by the Spirit and sin are in opposition - Galatians 5:16,17
 
 *"For **the flesh sets its desire against the Spirit, and the Spirit
-against the flesh; for these are in <u>opposition</u> to one another**,
+against the flesh; for these are in _opposition_ to one another**,
 so that you may not do the things that you please."*
 
-**2. Be filled with the *<u>Word of God</u>***
+
+#### 2. Be filled with the *_Word of God_*
+
 
 **a. Compare the following two passages:**
 
-\(1\) Ephesians 5:18-22
+\(1. Ephesians 5:18-22
 
 *18 "And do not get drunk with wine, for that is dissipation, but
-**<u>be filled with the Spirit</u>**,*
+**_be filled with the Spirit_**,*
 
 *19 speaking to one another **in psalms and hymns and spiritual songs,
 singing and making melody with your heart to the Lord;***
@@ -1016,9 +1107,9 @@ Jesus Christ **to God, even the Father**;*
 
 *22 **Wives, be subject to your own husbands, as to the Lord."***
 
-\(2\) Colossians 3:16-18
+\(2. Colossians 3:16-18
 
-*16 "**<u>Let the word of Christ richly dwell within you</u>**, with all
+*16 "**_Let the word of Christ richly dwell within you_**, with all
 wisdom teaching and admonishing one another with **psalms and hymns and
 spiritual songs, singing with thankfulness in your hearts to God.***
 
@@ -1027,76 +1118,51 @@ Jesus, **giving thanks through Him to God the Father.***
 
 *18 **Wives, be subject to your husbands, as is fitting in the Lord.**"*
 
-<table style="width:77%;">
-<colgroup>
-<col style="width: 77%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p><strong>BEING FILLED WITH THE SPIRIT</strong></p>
-<p>yields the same results as ...</p>
-<p><strong>LETTING THE WORD OF CHRIST DWELL WITHIN YOU</strong></p></td>
-</tr>
-</tbody>
-</table>
-
 **b. This concept is consistent with:**
 
-\(1\) Christ is the ***word*** - Revelation 19:13
+\(1. Christ is the ***word*** - Revelation 19:13
 
 *"And He is clothed with a robe dipped in blood; and **His name is
-called <u>The Word of God</u>**."*
+called _The Word of God_**."*
 
-\(2\) The Holy Spirit is equal to Christ ... this lesson.
+\(2. The Holy Spirit is equal to Christ ... this lesson.
 
-\(3\) Therefore: <u>Being filled with the Spirit is the same as being
-filled with the Word</u>.
-
-<table style="width:77%;">
-<colgroup>
-<col style="width: 77%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p><strong>To be filled with the Spirit</strong></p>
-<p>is to live in the consciousness of the personal presence of the
-Lord</p>
-<p>Jesus Christ, as if we were standing next to Him, and to let</p>
-<p>His mind dominate our life.</p>
-<p>It is to fill ourselves with God's Word, so that His thoughts will
-be</p>
-<p>our thoughts, His standards our standards, His work our work,</p>
-<p>and His will our will.</p>
-<p><strong>Christ consciousness leads to Christ likeness.</strong></p>
-<p><em>The MacArthur N.T. Commentary, Ephesians</em>, John MacArthur,
-Jr., pg. 253</p></td>
-</tr>
-</tbody>
-</table>
+\(3. Therefore: _Being filled with the Spirit is the same as being
+filled with the Word_.
 
 **Note:** "To **be filled with the Spirit** involves confession of sin,
 surrender of will, intellect, body, time, talent, possessions, and
 desires. It requires the death of selfishness and the slaying of
 self-will."
 
-*The MacArthur N.T. Commentary, Ephesians*, John MacArthur, Jr., pg. 253
+*The MacArthur N.T. Commentary, Ephesians*, John MacArthur, Jr., pg
 
-**VIII. APPLICATION**
 
-**A. The fruit of the Spirit** - Galatians 5:22-23 (LESSON, pg. 51, V.B)
+## VIII. APPLICATION
 
-*22 "But **the <u>fruit</u> of the Spirit is** **<u>love</u>,
-<u>joy</u>, <u>peace</u>, <u>patience</u>, <u>kindness</u>,
-<u>goodness</u>, <u>faithfulness</u>,***
 
-*23 **<u>gentleness</u>, <u>self-control</u>**; against such things
+### A. The fruit of the Spirit
+
+*Galatians 5:22-23 (LESSON, pg. 51, V.B)*
+
+
+*22 "But **the _fruit_ of the Spirit is** **_love_,
+_joy_, _peace_, _patience_, _kindness_,
+_goodness_, _faithfulness_,***
+
+*23 **_gentleness_, _self-control_**; against such things
 there is no law.*
 
 **Note:** Fruit is singular.
 
-**B. Our strength**
 
-**1. The Holy Spirit - gives us the power to fulfill the Law** - Romans
+### B. Our strength
+
+
+#### 1. The Holy Spirit - gives us the power to fulfill the Law
+
+*Romans*
+
 8:3-5
 
 3 "For what the Law could not do, weak as it was through the flesh, God
@@ -1112,41 +1178,40 @@ things of the Spirit."*
 
 Q. If we walk according to the Spirit what will be the result?
 
-... the law might be fulfilled.
 
 Q. What does that mean - the law might be fulfilled?
 
-... we will not sin
 
 **2. Peter's strength** (Tape)
 
-**a. Peter did the miraculous when He was <u>near Jesus</u>**
+**a. Peter did the miraculous when He was _near Jesus_**
 
-\(1\) Walked on water (Matthew 14:27-32)
+\(1. Walked on water (Matthew 14:27-32)
 
-\(2\) Took on the entire Roman army when they came to arrest Jesus.
+\(2. Took on the entire Roman army when they came to arrest Jesus.
 
 (John 18:3-11)
 
-**b. Peter was weak when he was <u>away from Jesus</u>:**
+**b. Peter was weak when he was _away from Jesus_:**
 
-\(1\) He denied him 3 times (John 18:15-27)
+\(1. He denied him 3 times (John 18:15-27)
 
-**c. Peter was doing the miraculous again when he was <u>filled with the
-Holy Spirit</u>**:
+Holy Spirit_**:
 
-\(1\) Preaching at pentecost - 3000 added to the church (Acts 2:14-41)
+\(1. Preaching at pentecost - 3000 added to the church (Acts 2:14-41)
 
-\(2\) Healing (Acts 3:1-7)
+\(2. Healing (Acts 3:1-7)
 
-\(3\) Courage - confrontation of the Sanhedrin (Acts 4:1-22)
+\(3. Courage - confrontation of the Sanhedrin (Acts 4:1-22)
 
-**3. We have to realize we have no strength within ourselves:**
+
+#### 3. We have to realize we have no strength within ourselves:
+
 
 ⮚ We are strong when we humble ourselves before God.
 
-⮚ <u>We are strong when we humble ourselves to the control of the Holy
-Spirit</u>.
+⮚ _We are strong when we humble ourselves to the control of the Holy
+Spirit_.
 
 a\. Psalm 10:17
 
@@ -1158,7 +1223,9 @@ b\. 1 Peter 5:6
 *"**Humble yourselves, therefore, under the mighty hand of God, that He
 may exalt you** at the proper time,"*
 
-**C. Application summary**
+
+### C. Application summary
+
 
 ⮚ Humble yourself to the control of the Holy Spirit
 

@@ -1,44 +1,21 @@
-***Fundamentals of the Faith***
+# Fundamentals of the Faith
+
+## Lesson 04: Person of Jesus Christ
+
+---
+
+## Table of Contents
+
+- [I. The Names and Appellations of Christ](#i-the-names-and-appellations-of-christ)
+- [II. The Incarnation](#ii-the-incarnation)
+- [III. Christ is God](#iii-christ-is-god)
+- [IV. Christ as King](#iv-christ-as-king)
+- [V. APPLICATION](#v-application)
+
+---
 
 **Lesson \#4 - The Person of Jesus Christ**
 
-**Table of Contents**
-
-**I. The Names and Appellations of Christ …………………….………………… 1**
-
-A. The name “Lord Jesus Christ”
-
-B. Titles
-
-C. The “*I AM’s*” of Jesus Christ
-
-**II. The Incarnation ………………………………………………………………….. 11**
-
-A. Begins in the virgin birth
-
-B. Kenosis
-
-C. Christ the God-man as seen in The Transfiguration of Christ
-
-**III. Christ is God ……………………………………………………………………... 15**
-
-A. Review Lesson, page 31
-
-B. Thomas’ testimony to Christ’s deity
-
-C. Christ’s divine attributes
-
-D. Christ claimed to be God
-
-**IV. Christ as King ……………………………………………………………………. 20**
-
-A. Presently exalted
-
-B. His second coming in power
-
-####  V. Application ……………………………………………………………………….. 21
-
-***Fundamentals of the Faith***
 
 **Lesson \#4 - The Person of Jesus Christ**
 
@@ -48,11 +25,11 @@ B. His second coming in power
 
 The objectives of lesson \#4 is to present Christ as:
 
-1\. God
+1. God
 
-2\. Man
+2. Man
 
-3\. As Savior
+3. As Savior
 
 The
 
@@ -63,7 +40,7 @@ And also remember the motto of Fundamentals of the Faith:
 *"They will not care how much you know, until they know how much you
 care."*
 
-**As always, before entering the Classroom, always ...**
+**As always, before entering the Classroom, always
 
 *Pray that Christ will be glorified through all that you say,
 remembering that your strength*
@@ -71,17 +48,20 @@ remembering that your strength*
 *is supplied by God and the power of your message is the Word of God (1
 Peter 4:11).*
 
-***Fundamentals of the Faith***
 
 **Lesson \#4 - The Person of Jesus Christ**
 
 **Lesson Outline**
 
-**I. THE NAMES AND APPELLATIONS OF CHRIST**
 
-**A. The name "Lord Jesus Christ"**
+## I. THE NAMES AND APPELLATIONS OF CHRIST
 
-**1. Lord**
+
+### A. The name "Lord Jesus Christ"
+
+
+#### 1. Lord
+
 
 Q. What does the name "Lord" mean?
 
@@ -136,26 +116,11 @@ One who voluntarily submits himself for life, to a given master.
 
 Q. Have you ever thought of yourself as a bondslave of Christ?
 
-<table style="width:42%;">
-<colgroup>
-<col style="width: 42%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p><strong>Do we view ourselves</strong></p>
-<p><strong>as</strong></p>
-<p><strong>bondslaves of God?</strong></p></td>
-</tr>
-</tbody>
-</table>
-
 Q. What does it mean to you to be a bondslave of Christ?
 
-... A desire to obey
 
 **APPLICATION:**
 
-**Christ as Lord … displays humility … servant attitude … How about you
 & I?**
 
 **John 13:13-17**
@@ -172,7 +137,9 @@ master**; neither is one who is sent greater than the one who sent him.*
 
 *17 If you know these things, you are blessed if you do them.”*
 
-**2. Jesus**
+
+#### 2. Jesus
+
 
 a\. Greek word: ***Joshua*** or ***Yahweh saves*** (savior)
 
@@ -183,7 +150,6 @@ it is He who will save His people from their sins**."*
 
 Q. Why was His name called Jesus?
 
-... because He will *"save His people from their sins."*
 
 c\. Jesus came as a lamb
 
@@ -198,7 +164,9 @@ Lamb** of God who takes away the sin of the world!”*
 **Like a lamb that is led to slaughter**, And like a sheep that is
 silent before its shearers, So He did not open His mouth.”*
 
-**3. Christ**
+
+#### 3. Christ
+
 
 a\. Official title of our Savior
 
@@ -240,9 +208,9 @@ the glory of God the Father.”*
 “And o His robe and on His thigh He has a name written, **‘KING OF
 KINGS, AND LORD OF LORDS**.’"
 
-# 
+#
 
-# 
+#
 
 #  B. Titles
 
@@ -256,7 +224,11 @@ KINGS, AND LORD OF LORDS**.’"
 
 ⮚ A few are expanded below:
 
-**1. Advocate** - 1 John 2:1 \#1
+
+#### 1. Advocate
+
+*1 John 2:1 \#1*
+
 
 **Propitiation** - 1 John 2:2 \#85
 
@@ -264,7 +236,7 @@ KINGS, AND LORD OF LORDS**.’"
 not sin. And if anyone sins, **we have an Advocate with the Father,
 Jesus Christ** the righteous;*
 
-*2 and **He Himself is the <u>propitiation</u> for our sins**; and not
+*2 and **He Himself is the _propitiation_ for our sins**; and not
 for ours only, but also for those of the whole world.”*
 
 Q. From verse 1, who is our advocate? ... Jesus Christ
@@ -287,7 +259,11 @@ remitted.
 
 (This will be developed in lesson \#5).
 
-**2. Bridegroom** - Matthew 9:14,15 \#8
+
+#### 2. Bridegroom
+
+*Matthew 9:14,15 \#8*
+
 
 *14 Then the disciples of John came to Him, saying, 'Why do we and the
 Pharisees fast, but Your disciples do not fast?'*
@@ -326,7 +302,6 @@ us**.'"*
 
 Q. Why was Jesus' name to be called Immanuel?
 
-... because He was *"God with us*"!
 
 b\. John 1:1,14 (memory verse)
 
@@ -337,9 +312,12 @@ b\. John 1:1,14 (memory verse)
 glory, glory as of **the only begotten from the Father**, full of grace
 and truth."*
 
-**C. The "*I AM's*" of Jesus Christ**
 
-**1. Christ speaking/ presenting Himself**
+### C. The "*I AM's*" of Jesus Christ
+
+
+#### 1. Christ speaking/ presenting Himself
+
 
 ⮚ Pass out the "***The I AM's of Christ***" handout.
 
@@ -350,56 +328,57 @@ and truth."*
 **► The Great "I AM"** (#10) - John 8:58 (LESSON, pg. 31, II.B.3)
 
 *"Jesus said to them, 'Truly, truly, I say to you, **before Abraham was
-born, <u>I am</u>**.'"*
+born, _I am_**.'"*
 
 Q. What is the significance of the title "I AM"?
 
-... implies eternality
-
-... Self existence
 
 Q. Who was this title originally claimed by?
 
-... This was a title claimed by God - Exodus 3:14
 
 *"And God said to Moses, 'I AM WHO I AM'; and He said, 'Thus you shall
 say to the sons of Israel, '**I AM** has sent me to you.''"*
 
-**2. Tape**
+
+#### 2. Tape
+
 
 ⮚ Play the song - "I AM"
 
 ⮚ As the song plays, listen for the titles of Christ.
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h1 id="section-2"></h1>
-<h1 id="the-i-ams-of-christ">The "I AM's" of Christ</h1>
-<p><mark></mark></p></td>
-</tr>
-</tbody>
-</table>
 
-**1. Gentle and humble in heart** - Matthew 11:29
+#### 1. Gentle and humble in heart
+
+*Matthew 11:29*
+
 
 *"Take My yoke upon you, and learn from Me, for **I am gentle and humble
 in heart**; and you shall find rest for your souls."*
 
-**2. The Son of God** - Matthew 27:43
+
+#### 2. The Son of God
+
+*Matthew 27:43*
+
 
 *"He trusts in God; let Him deliver Him now, if He takes pleasure in
 Him; for He said, '**I am the Son of God**.'"*
 
-**3. With you always** - Matthew 28:20
+
+#### 3. With you always
+
+*Matthew 28:20*
+
 
 *"teaching them to observe all that I commanded you; and lo, **I am with
 you always**, even to the end of the age."*
 
-**4. Messiah** - John 4:25-26
+
+#### 4. Messiah
+
+*John 4:25-26*
+
 
 *"The woman said to Him, '**I know that Messiah is coming** (He who is
 called Christ); when that One comes, He will declare all things to us.'*
@@ -411,97 +390,123 @@ called Christ); when that One comes, He will declare all things to us.'*
 *"Jesus said to them, '**I am the bread of life**; he who comes to Me
 shall not hunger, and he who believes in Me shall never thirst.'"*
 
-**6. The light of the world** - John 8:12
+
+#### 6. The light of the world
+
+*John 8:12*
+
 
 *"Again therefore Jesus spoke to them, saying, '**I am the light of the
 world**; he who follows Me shall not walk in the darkness, but shall
 have the light of life.'"*
 
-**7. He that came down out of heaven** - John 6:41
+
+#### 7. He that came down out of heaven
+
+*John 6:41*
+
 
 *"The Jews therefore were grumbling about Him, because He said, '**I am
 the bread that came down out of heaven**.'"*
 
-**8. He who bears witness of Himself** - John 8:18
+
+#### 8. He who bears witness of Himself
+
+*John 8:18*
+
 
 *"**I am He who bears witness of Myself**, and the Father who sent Me
 bears witness of Me."*
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h1 id="section-3"></h1>
-<h1 id="the-i-ams-of-christ-1">The "I AM's" of Christ</h1>
-<p><mark></mark></p></td>
-</tr>
-</tbody>
-</table>
 
-**9. From above, not of this world** - John 8:23
+#### 9. From above, not of this world
+
+*John 8:23*
+
 
 *"And He was saying to them, 'You are from below, I am from above; you
 are of this world, **I am not of this world**.'"*
 
-**10. I AM** - John 8:58
+
+#### 10. I AM
+
+*John 8:58*
+
 
 *"Jesus said to them, 'Truly, truly, I say to you, before Abraham was
 born, **I am**.'"*
 
-**11. The door** - John 10:9
+
+#### 11. The door
+
+*John 10:9*
+
 
 *"**I am the door**; if anyone enters through Me, he shall be saved, and
 shall go in and out, and find pasture."*
 
-**12. The good shepherd** - John 10:11
+
+#### 12. The good shepherd
+
+*John 10:11*
+
 
 *"**I am the good shepherd**; the good shepherd lays down His life for
 the sheep."*
 
-**13. Resurrection and the life** - John 11:25
+
+#### 13. Resurrection and the life
+
+*John 11:25*
+
 
 *"Jesus said to her, '**I am the resurrection and the life**; he who
 believes in Me shall live even if he dies,'"*
 
-**14. The way, the truth, and the life** - John 14:6
+
+#### 14. The way, the truth, and the life
+
+*John 14:6*
+
 
 *"Jesus said to him, '**I am the way, and the truth, and the life**; no
 one comes to the Father, but through Me.'"*
 
-**15. In the Father** - John 14:10
+
+#### 15. In the Father
+
+*John 14:10*
+
 
 *"Do you not believe that **I am in the Father**, and the Father is in
 Me? The words that I say to you I do not speak on My own initiative, but
 the Father abiding in Me does His works."*
 
-**16. The vine** - John 15:5
+
+#### 16. The vine
+
+*John 15:5*
+
 
 *"**I am the vine**, you are the branches; he who abides in Me, and I in
 him, he bears much fruit; for apart from Me you can do nothing."*
 
-<table>
-<colgroup>
-<col style="width: 100%" />
-</colgroup>
-<tbody>
-<tr>
-<td><h1 id="section-4"></h1>
-<h1 id="the-i-ams-of-christ-2">The "I AM's" of Christ</h1>
-<p><mark></mark></p></td>
-</tr>
-</tbody>
-</table>
 
-**17. King** - John 18:37
+#### 17. King
+
+*John 18:37*
+
 
 *"Pilate therefore said to Him, 'So You are a king?' Jesus answered,
 'You say correctly that **I am a king**. For this I have been born, and
 for this I have come into the world, to bear witness to the truth.
 Everyone who is of the truth hears My voice.'"*
 
-**18. Alpha and the Omega/ Almighty** - Revelation 1:8
+
+#### 18. Alpha and the Omega/ Almighty
+
+*Revelation 1:8*
+
 
 *"'**I am the Alpha and the Omega**,' says the Lord God, 'who is and who
 was and who is to come, **the Almighty**.'"*
@@ -516,18 +521,30 @@ the last**,*
 *18 and **the living One**; and I was dead, and behold, **I am alive
 forevermore**, and I have the keys of death and of Hades.'"*
 
-**20. He who searches the minds and hearts** - Revelation 2:23
+
+#### 20. He who searches the minds and hearts
+
+*Revelation 2:23*
+
 
 *"And I will kill her children with pestilence; and all the churches
 will know that **I am He who searches the minds and hearts**; and I will
 give to each one of you according to your deeds."*
 
-**21. Coming quickly** - Revelation 3:11
+
+#### 21. Coming quickly
+
+*Revelation 3:11*
+
 
 *"**I am coming quickly**; hold fast what you have, in order that no one
 take your crown."*
 
-**22. The Alpha and the Omega, the beginning and the end** - Revelation
+
+#### 22. The Alpha and the Omega, the beginning and the end
+
+*Revelation*
+
 21:6
 
 *"And He said to me, 'It is done. **I am the Alpha and the Omega, the
@@ -541,12 +558,18 @@ Revelation 22:16
 churches. **I am the root and the offspring of David, the bright morning
 star**."*
 
-**II. THE INCARNATION**
+
+## II. THE INCARNATION
+
 
 Q. What is the Incarnation? ... God becoming flesh; God becoming a human
 man.
 
-**A. Begins in the Virgin Birth** - Luke 1:26-35
+
+### A. Begins in the Virgin Birth
+
+*Luke 1:26-35*
+
 
 *26 Now in the sixth month the angel Gabriel was sent from God to a city
 in Galilee, called Nazareth,*
@@ -596,14 +619,19 @@ Q. Why did Christ have to be God and man?
 
 ⮚ A human man to die in the place of men
 
-**B. Kenosis**
 
-**1. Definition: emptying**
+### B. Kenosis
+
+
+#### 1. Definition: emptying
+
 
 The technical term covering the humiliation of Jesus Christ in become a
 man through the incarnation.
 
-**2. Philippians 2:5-8**
+
+#### 2. Philippians 2:5-8
+
 
 *5 Have this attitude in yourselves which was also in Christ Jesus,*
 
@@ -654,7 +682,9 @@ He emptied himself.
 
 Notice: He chose to do it Himself (**self**-abnegation)
 
-**Q. What does it mean that Christ emptied Himself?**
+
+### Q. What does it mean that Christ emptied Himself?
+
 
 ⮚ He set aside the exercising of His divine attributes.
 
@@ -675,7 +705,7 @@ in your hearts?'"*
 
 \- Executed as a criminal - a disgracing death
 
-⮚ Moreover, Christ death was <u>voluntarily</u> - John 10:17-18
+⮚ Moreover, Christ death was _voluntarily_ - John 10:17-18
 
 *17 "For this reason the Father loves Me, because **I lay down My life**
 that I may take it again.*
@@ -684,9 +714,11 @@ that I may take it again.*
 initiative**. I have authority to lay it down, and I have authority to
 take it up again. This commandment I received from My Father."*
 
-**3. The Humility of Jesus Christ seen in His submission to the Father**
 
-As a bondservants role ...
+#### 3. The Humility of Jesus Christ seen in His submission to the Father
+
+
+As a bondservants role
 
 This explains why we find verses like:
 
@@ -712,7 +744,9 @@ d\. Matthew 20:28
 *"just as the **Son of Man did not come to be served, but to serve, and
 to give His life** a ransom for many."*
 
-**C. Christ the God-man as seen in**
+
+### C. Christ the God-man as seen in
+
 
 **The Transfiguration of Christ:** Matthew 17:1-8
 
@@ -747,37 +781,31 @@ Peter refer to event as "*eyewitnesses of His majesty*", 2 Peter 1:16
 
 Q. What was His appearance during His transfiguration? (verse 2)
 
-... *Shone like the sun; garments white as light*
 
 Q. Why is the transfiguration important?
 
 What does the transfiguration show us about Christ?
 
-... Christ's diety - He was 100% God
 
-<table style="width:71%;">
-<colgroup>
-<col style="width: 71%" />
-</colgroup>
-<tbody>
-<tr>
-<td><p><strong>Christ pulled back the veil of His</strong></p>
-<p><strong>humanity and revealed</strong></p>
-<p><strong>His true glory!</strong></p></td>
-</tr>
-</tbody>
-</table>
+## III. CHRIST IS GOD
 
-**III. CHRIST IS GOD**
 
-**A. Review Lesson, page 31, Section II.C** (<u>ask for the students for
-their answers</u>)
+**A. Review Lesson, page 31, Section II.C** (_ask for the students for
+their answers_)
 
-**1. Fulness of Diety** - Colossians 2:9
+
+#### 1. Fulness of Diety
+
+*Colossians 2:9*
+
 
 *"For **in Him all the fulness of Deity dwells in bodily form**,"*
 
-**2. Exact representation of His nature** - Hebrews 1:1-3a (verse 3
+
+#### 2. Exact representation of His nature
+
+*Hebrews 1:1-3a (verse 3*
+
 shown below)
 
 *"And **He is the radiance of His glory and the exact representation of
@@ -785,7 +813,11 @@ His nature**, and upholds all things by the word of His power. When He
 had made purification of sins, He sat down at the right hand of the
 Majesty on high;"*
 
-**3. God** - John 1:1,14
+
+#### 3. God
+
+*John 1:1,14*
+
 
 1 "In the beginning was the Word, and the Word was with God, and **the
 Word was God.**
@@ -794,21 +826,33 @@ Word was God.**
 glory, glory as of the only begotten from the Father, full of grace and
 truth.”
 
-**4. Great God and Savior** - Titus 2:13
+
+#### 4. Great God and Savior
+
+*Titus 2:13*
+
 
 *"looking for the blessed hope and the appearing of the glory of **our
 great God and Savior, Christ Jesus**;"*
 
-**B. Thomas' testimony to Christ's deity** - John 20:28,29
+
+### B. Thomas' testimony to Christ's deity
+
+*John 20:28,29*
+
 
 *28 "Thomas answered and said to Him, '**My Lord and my God**!'*
 
 *29 Jesus said to him, 'Because you have seen Me, have you believed?
 Blessed are they who did not see, and yet believed.'"*
 
-Q. Who did Thomas refer to Jesus as? ... His Lord and <u>God</u>!
+Q. Who did Thomas refer to Jesus as? ... His Lord and _God_!
 
-**C. Christ is the only true Sovereign** - 1 Timothy 6:14-16
+
+### C. Christ is the only true Sovereign
+
+*1 Timothy 6:14-16*
+
 
 *14 that you keep the commandment without stain or reproach until the
 appearing of our Lord Jesus Christ,*
@@ -820,13 +864,17 @@ blessed and only Sovereign**, the **King of kings and Lord of lords**;*
 whom no man has seen or can see. To Him be honor and eternal dominion!
 Amen.*
 
-**C. Christ's Divine Attributes**
+
+### C. Christ's Divine Attributes
+
 
 Note: As expected, Scripture ascribes divine attributes to Christ.
 
 (LESSON, Table, pg. 30)
 
-**1. ETERNALITY**
+
+#### 1. ETERNALITY
+
 
 We have already seen this attributes when looking at the Titles and "I
 AMs" of Jesus Christ, above.
@@ -864,7 +912,7 @@ every man according to what he has done.*
 beginning and the end**."*
 
 Q. In verse 13, what title does Christ claim? ... *The first and the
-last ...*
+last
 
 Q. From the O.T., Who also claimed this title? ... God; see Isaiah 44:6
 
@@ -872,11 +920,13 @@ Q. From the O.T., Who also claimed this title? ... God; see Isaiah 44:6
 hosts: '**I am the first and I am the last, And there is no God besides
 Me**."*
 
-**2. OMNIPOTENCE**
+
+#### 2. OMNIPOTENCE
+
 
 **a. Creative Power**
 
-\(1\) Colossians 1:15,16
+\(1. Colossians 1:15,16
 
 *15 "And **He is the image of the invisible God**, the first-born of all
 creation.*
@@ -887,15 +937,11 @@ authorities-- all things have been created by Him and for Him."*
 
 Q. How is a Christ's power displayed in these verses?
 
-... His creative power
 
 Q. Why is it important to note that Christ had creative power?
 
-... Creative power is ascribed to God only
 
-... Christ is the creator God!
-
-\(2\) John 1:2,3
+\(2. John 1:2,3
 
 *2 He was in the beginning with God.*
 
@@ -906,33 +952,43 @@ into being that has come into being**.*
 
 Ask the students for their answers:
 
-\(1\) Matt. 8:23-27 ……. Power over nature (wind & sea)
+\(1. Matt. 8:23-27 ……. Power over nature (wind & sea)
 
-\(2\) Luke 4:40 ……….. Power over disease
+\(2. Luke 4:40 ……….. Power over disease
 
-\(3\) Luke 4:33-36 ……. Power over unclean spirits (demonic world)
+\(3. Luke 4:33-36 ……. Power over unclean spirits (demonic world)
 
-\(4\) John 11:43-44 …… Power over death
+\(4. John 11:43-44 …… Power over death
 
-\(5\) Mark 2:3-12 ……... Power to forgive sin --\> God !!
+\(5. Mark 2:3-12 ……... Power to forgive sin --\> God !!
 
 Q. And who is the only one who can forgive sins? ... God!
 
 (LESSON, box, pg. 31)
 
-**3. IMMUTABLE** - Unchanging - Hebrews 13:8
+
+#### 3. IMMUTABLE
+
+*Unchanging - Hebrews 13:8*
+
 
 *"**Jesus Christ** is **the same yesterday and today, yes and
 forever**."*
 
-**4. OMNISCIENT** - All Knowing - Colossians 2:2B,3
+
+#### 4. OMNISCIENT
+
+*All Knowing - Colossians 2:2B,3*
+
 
 *"Christ Himself, in whom are hidden all the treasures of wisdom and
 knowledge."*
 
 Q. How much knowledge is hidden in Christ? ... All
 
-**5. HOLINESS OF CHRIST**
+
+#### 5. HOLINESS OF CHRIST
+
 
 **a. Holy and Righteous** - Acts 3:14-15
 
@@ -951,31 +1007,14 @@ Q. How many sins did Christ ever commit? ... None
 
 He was perfect.
 
-<table style="width:51%;">
-<colgroup>
-<col style="width: 51%" />
-</colgroup>
-<tbody>
-<tr>
-<td style="text-align: center;"><p><strong>The Attributes of
-Christ</strong></p>
-<h2 id="point-to-his">Point to His</h2>
-<p><strong>Deity!</strong></p></td>
-</tr>
-<tr>
-<td style="text-align: center;"><p>⮚ Eternal</p>
-<p>⮚ Omnipotent</p>
-<p>⮚ Omnipresent</p>
-<p>⮚ Immutable</p>
-<p>⮚ Omniscient</p>
-<p>⮚ Holy &amp; Righteous</p></td>
-</tr>
-</tbody>
-</table>
 
-**D. Christ Claimed to be God**
+### D. Christ Claimed to be God
 
-**1. The Jews accused Christ of making himself out to be God** - John
+
+#### 1. The Jews accused Christ of making himself out to be God
+
+*John*
+
 10:31-33
 
 *31 "The Jews took up stones again to stone Him.*
@@ -989,7 +1028,6 @@ God**.'"*
 
 Q. Why were the Jews going to Stone Jesus to death?
 
-... <u>Jesus made Himself out to be God!</u>
 
 **Note:** Jewish law called for one to be stoned for blaspheming God
 
@@ -1000,15 +1038,19 @@ be put to death**; all the congregation shall certainly **stone him**.
 The alien as well as the native, when he blasphemes the Name, shall be
 put to death."*
 
-<u>**POINT:** The Jews killed Christ because He claimed to be God!</u>
+_**POINT:** The Jews killed Christ because He claimed to be God!_
 
 **Q.** Why is this so important?
 
 What is the major point being made here?
 
-**MAJOR POINT:** <u>CHRIST CLAIMED TO BE GOD!</u>
+**MAJOR POINT:** _CHRIST CLAIMED TO BE GOD!_
 
-**2. Christ was crucified because He claimed to be "Deity"** - Matthew
+
+#### 2. Christ was crucified because He claimed to be "Deity"
+
+*Matthew*
+
 26:63-66
 
 ⮚ Christ claimed to be the "*Son of God*" (a claim of deity)
@@ -1019,11 +1061,17 @@ What is the major point being made here?
 
 **POINT:** Christ was put to death for claiming to be deity.
 
-**IV. CHRIST AS KING**
 
-**A. Presently exalted**
+## IV. CHRIST AS KING
 
-**1. Highly exalted** - Philippians 2:9,10
+
+### A. Presently exalted
+
+
+#### 1. Highly exalted
+
+*Philippians 2:9,10*
+
 
 *9 "Therefore also **God highly exalted Him**, and bestowed on Him the
 name which is above every name,*
@@ -1037,7 +1085,11 @@ Q. Where is Jesus Christ now?
 
 Hebrews 1:3, below.
 
-**2. At the right hand of the Father** - Hebrews 1:3
+
+#### 2. At the right hand of the Father
+
+*Hebrews 1:3*
+
 
 *3 "And He is the radiance of His glory and the exact representation of
 His nature, and upholds all things by the word of His power. When He had
@@ -1048,14 +1100,20 @@ Majesty on high**;*
 
 ⮚ Ask the students for their answers.
 
-**1. Coming in "Glory" and power to rule**
+
+#### 1. Coming in "Glory" and power to rule
+
 
 What did Jesus tell His followers in Matthew 25:31? (LESSON, IV.B)
 
 *"But when **the Son of Man comes in His glory**, and all the angels
 with Him, then **He will sit on His glorious throne**.*
 
-**2. Coming in Judgement** - 2 Thessalonians 1:7-10 (LESSON, IV.D)
+
+#### 2. Coming in Judgement
+
+*2 Thessalonians 1:7-10 (LESSON, IV.D)*
+
 
 *7 and to give relief to you who are afflicted and to us as well **when
 the Lord Jesus shall be revealed from heaven** with His mighty angels
@@ -1073,14 +1131,22 @@ believed.*
 
 Q. Describe the return of Jesus Christ ... In "Might" and "Judgement"
 
-**2. His Glory Revealed** - Matthew 24:30
+
+#### 2. His Glory Revealed
+
+*Matthew 24:30*
+
 
 *"and then the sign of **the Son of Man will appear in the sky**, and
 then all the tribes of the earth will mourn, and **they will see the Son
-of Man coming on the clouds of the sky with <u>power and great
-glory</u>**."*
+of Man coming on the clouds of the sky with _power and great
+glory_**."*
 
-**3. The Power of Christ's 2nd coming** - Revelation 19:11-16
+
+#### 3. The Power of Christ's 2nd coming
+
+*Revelation 19:11-16*
+
 
 *11 "And **I saw heaven opened**; and behold, a white horse, and **He
 who sat upon it is called Faithful and True**; and in righteousness He
@@ -1097,15 +1163,20 @@ called **The Word of God**.*
 clean, were following Him on white horses.*
 
 *15 And from His mouth comes a sharp sword, so that with it He may smite
-the nations; and **<u>He will rule them with a rod of iron</u>**; and He
+the nations; and **_He will rule them with a rod of iron_**; and He
 treads the wine press of the fierce wrath of God, the Almighty.*
 
 *16 And on His robe and on His thigh He has a name written, '**KING OF
 KINGS, AND LORD OF LORDS**.'"*
 
-**V. APPLICATION**
 
-**A. Worship Him** - Revelation 4:10 (LESSON, pg. 33, V.B)
+## V. APPLICATION
+
+
+### A. Worship Him
+
+*Revelation 4:10 (LESSON, pg. 33, V.B)*
+
 
 Ask the students how they answered the question.
 
@@ -1113,10 +1184,14 @@ Ask the students how they answered the question.
 throne, and will **worship Him who lives forever and ever**, and will
 cast their crowns before the throne, saying,"*
 
-Q. What should be our response to the Person of Jesus Christ? **...
+Q. What should be our response to the Person of Jesus Christ? **
 Worship**
 
-**B. Paul's passion** - 1 Corinthians 2:2
+
+### B. Paul's passion
+
+*1 Corinthians 2:2*
+
 
 *"For I determined to know nothing among you except Jesus Christ, and
 Him crucified."*
@@ -1125,4 +1200,6 @@ Q. What was Paul's passion in life?
 
 Q. What should our passion in life be?
 
-**Q. What is your passion in life?**
+
+### Q. What is your passion in life?
+
