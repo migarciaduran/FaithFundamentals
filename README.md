@@ -28,6 +28,7 @@ A Sunday School class focused on teaching the foundational principles of the Chr
 
 ## Quick Links
 
-- 📅 [Class Schedule](Planning/Fundamentals_of_the_Faith_Schedule.md)
-- 📚 [Lesson Materials](Markdown/FoF_Lessons/) - Student lessons (L00-L13)
+- 📅 [Class Schedule](Planning/Schedule.md)
+- � [Class Guidelines](Planning/Guidelines.md)
+- �📚 [Lesson Materials](Markdown/FoF_Lessons/) - Student lessons (L00-L13)
 - 📋 [Teaching Materials](Markdown/FoF_Class_Materials/) - Class plans, handouts, outlines

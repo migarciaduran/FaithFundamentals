@@ -32,8 +32,8 @@
 | Date | Preacher | Chapter | Theme |
 |------|----------|---------|-------|
 | Jan 11 | Miguel Garcia | Intro | Class Introduction |
-| Jan 18 | Ronaldo Lopez Galeano | L1 | Introduction to the Bible (Part 1) |
-| Jan 25 | Miguel Garcia | L1 | Introduction to the Bible (Part 2) |
+| Jan 18 | Ronaldo Lopez Galeano | L1 | What the Bible Is |
+| Jan 25 | Miguel Garcia | L1 | How We Got the Bible |
 
 ---
 
@@ -42,8 +42,8 @@
 | Date | Preacher | Chapter | Theme |
 |------|----------|---------|-------|
 | Feb 1 | Arnold Marquez | L2 | How to Know the Bible |
-| Feb 8 | Miguel Garcia | L3 | God: His Character and Attributes (Part 1) |
-| Feb 15 | Beaux Hargrove | L3 | God: His Character and Attributes (Part 2) |
+| Feb 8 | Miguel Garcia | L3 | Attributes of God |
+| Feb 15 | Beaux Hargrove | L3 | The Trinity |
 | Feb 22 | **NO CLASS** | — | Church Conference |
 
 ---
