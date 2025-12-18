@@ -1,21 +1,24 @@
-# Fundamentals of the Faith - Class Structure
+# Fundamentals of the Faith - Guidelines
 
 This document outlines how the class operates for both students and teachers.
 
 ---
 
-## Sunday Schedule
+## How the Class Works
 
-| Time | Activity |
-|------|----------|
-| 9:15 | First worship service ends |
-| 9:25+ | Arrive at classroom, get food, fellowship |
-| 9:45 | **Class Begins** — Opening: welcome, announcements, food volunteers, prayer requests, prayer |
-| ~9:55 | **Teaching** — Lesson begins |
-| 10:45 | **Class Ends** |
-| 10:45 - 10:55 | Store belongings, cleanup |
-| 10:55 - 11:05 | Walk to worship center, find seats |
-| 11:05 | Second worship service begins |
+The FOF curriculum uses a **complementary approach** where the workbook, sermon, and teacher's lesson work together—each reinforcing the same doctrinal theme without duplicating each other.
+
+---
+
+## The Three-Part Learning Model
+
+| Component | Purpose | Led By |
+|-----------|---------|--------|
+| **Workbook** | Personal Scripture engagement, foundational answers | Student (self-study) |
+| **Sermon** | Doctrinal teaching on the theme | Video/Pastor |
+| **Class Session** | Discussion, application, clarification, Q&A | Teacher |
+
+Each component reinforces the same doctrine from a different angle—together they provide comprehensive understanding.
 
 ---
 
@@ -28,12 +31,6 @@ This document outlines how the class operates for both students and teachers.
 
 ### For Teachers
 - **Fundamentals of the Faith** (Teacher Edition) — includes answers and teaching notes
-
----
-
-## How the Class Works
-
-The FOF curriculum uses a **complementary approach** where the workbook, sermon, and teacher's lesson work together—each reinforcing the same doctrinal theme without duplicating each other.
 
 ---
 
@@ -90,15 +87,3 @@ Each week, the assigned teacher will:
      - Address questions students bring
      - Apply the doctrine to real life
      - Guide discussion that deepens understanding
-
----
-
-## The Three-Part Learning Model
-
-| Component | Purpose | Led By |
-|-----------|---------|--------|
-| **Workbook** | Personal Scripture engagement, foundational answers | Student (self-study) |
-| **Sermon** | Doctrinal teaching on the theme | Video/Pastor |
-| **Class Session** | Discussion, application, clarification, Q&A | Teacher |
-
-Each component reinforces the same doctrine from a different angle—together they provide comprehensive understanding.
