@@ -4,6 +4,21 @@ This document outlines how the class operates for both students and teachers.
 
 ---
 
+## Sunday Schedule
+
+| Time | Activity |
+|------|----------|
+| 9:15 | First worship service ends |
+| 9:25+ | Arrive at classroom, get food, fellowship |
+| 9:45 | **Class Begins** — Opening: welcome, announcements, food volunteers, prayer requests, prayer |
+| ~9:55 | **Teaching** — Lesson begins |
+| 10:45 | **Class Ends** |
+| 10:45 - 10:55 | Store belongings, cleanup |
+| 10:55 - 11:05 | Walk to worship center, find seats |
+| 11:05 | Second worship service begins |
+
+---
+
 ## Required Materials
 
 ### For Students
@@ -40,6 +55,7 @@ Each week, students are expected to:
    - Work through the workbook lesson during the week (fill-in-the-blank, Scripture lookups)
    - This is done over the weekend, not on Sunday morning
    - Arrive to class with answers already completed and ready to turn in
+   - **For 2-week lessons (L1, L3):** Complete the homework over both weeks and turn it in after the second Sunday
 
 5. **Attend Class and Turn In Homework**
    - Homework will be collected and marked with correct answers
@@ -52,13 +68,17 @@ Each week, students are expected to:
 Each week, the assigned teacher will:
 
 1. **Mark Homework**
-   - Review and mark the homework for the lesson you've been assigned
+   - The teacher assigned to a lesson is responsible for marking that lesson's homework
+   - For example: If you teach Lesson 4, you mark Lesson 4 homework
+   - **For 2-week lessons:** The teacher who delivers the second week marks the homework (since it's due after week 2)
    - Indicate correct answers so students can learn from any mistakes
 
 2. **Prepare Your Lesson**
    - This is **teaching**, not preaching
    - Lead the group through questions and discussion so they learn
    - Facilitate discovery rather than lecture
+   - **Keep it high-level:** Each lesson topic could easily fill 4+ classes on its own. Don't try to cover everything—focus on the essentials
+   - **Repeat core truths from different angles:** It's better to reinforce the same key points through various illustrations, verses, and questions than to overwhelm with too much content
 
 3. **Deliver Original Content**
    - Your lesson is **not** a duplication of:
