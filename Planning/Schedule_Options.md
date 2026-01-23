@@ -22,11 +22,13 @@
 
 ## Summary
 
+The following options address how to recover from the Jan 25 cancellation (winter weather) and ensure L1 Part 2 (Canon and the Apocrypha) is still covered.
+
 | Option | Description | End Date | Pros | Cons |
 |--------|-------------|----------|------|------|
 | **1. Video Sermon** | Show video for L1 Part 2 on Feb 1 | May 17 | High-quality content; Arnold gets full time for L2; Ends on schedule | Less personal/interactive |
 | **2. Arnold Covers Both** | Arnold teaches L1 Part 2 + L2 on Feb 1 | May 17 | No schedule shift; Ends on schedule; Single teacher | Heavy load for Arnold; L1 Part 2 condensed |
-| **3. Shift Schedule** | Move all lessons +1 week | May 31 | Full treatment of every topic; No rushed sessions | Class extends to May 31; Topic reassignments; Beaux can't teach Trinity (Author of Book on the Trinity) |
+| **3. Shift Schedule** | Move all lessons +1 week | May 31 | Full treatment of every topic; No rushed sessions | Class extends to May 31; Topic reassignments; Beaux can't teach Trinity |
 
 ---
 
