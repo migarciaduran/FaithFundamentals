@@ -1,7 +1,7 @@
 # Fundamentals of the Faith - Preaching Schedule
 
 **Class Duration:** January 11, 2026 - May 17, 2026  
-*(May 24 & 31 available if needed)*
+*(May 31 available if needed)*
 
 ---
 
@@ -15,6 +15,7 @@
    - *Constraint: Once per month*
    - *Not available: Jan 25, Mar 8, Apr 19*
 4. **Miguel Garcia** (Class Leader)
+   - *Not available: Feb 8*
    - *Constraint: Twice per month*
 
 ---
@@ -32,8 +33,8 @@
 | Date | Preacher | Chapter | Theme |
 |------|----------|---------|-------|
 | Jan 11 | Miguel Garcia | Intro | Class Introduction |
-| Jan 18 | Ronaldo Lopez Galeano | L1 | What the Bible Is |
-| Jan 25 | Miguel Garcia | L1 | How We Got the Bible |
+| Jan 18 | Ronaldo Lopez Galeano | L1 | General & Special Revelation |
+| Jan 25 | Miguel Garcia | L1 | Canon and the Apocrypha |
 
 ---
 
@@ -42,7 +43,7 @@
 | Date | Preacher | Chapter | Theme |
 |------|----------|---------|-------|
 | Feb 1 | Arnold Marquez | L2 | How to Know the Bible |
-| Feb 8 | Miguel Garcia | L3 | Attributes of God |
+| Feb 8 | Arnold Marquez | L3 | Attributes of God |
 | Feb 15 | Beaux Hargrove | L3 | The Trinity |
 | Feb 22 | **NO CLASS** | — | Church Conference |
 
@@ -78,6 +79,6 @@
 | May 3 | Arnold Marquez | L11 | Evangelism and the Believer |
 | May 10 | Beaux Hargrove | L12 | Obedience |
 | May 17 | Miguel Garcia | L13 | God's Will and Guidance (**FINAL CLASS**) |
-| May 24 | *(Optional)* | — | |
+| May 24 | **NO CLASS** | — | Memorial Day Weekend |
 | May 31 | *(Optional)* | — | |
 

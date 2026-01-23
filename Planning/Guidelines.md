@@ -10,10 +10,11 @@ The FOF curriculum uses a **complementary approach** where the workbook, sermon,
 
 ---
 
-## The Three-Part Learning Model
+## The Four-Part Learning Model
 
 | Component | Purpose | Led By |
 |-----------|---------|--------|
+| **Memory Verse** | Commit key Scripture to heart each week | Student (self-study) |
 | **Workbook** | Personal Scripture engagement, foundational answers | Student (self-study) |
 | **Sermon** | Doctrinal teaching on the theme | Video/Pastor |
 | **Class Session** | Discussion, application, clarification, Q&A | Teacher |
