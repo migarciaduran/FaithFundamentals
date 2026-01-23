@@ -10,7 +10,7 @@
 1. **Ronaldo Lopez Galeano**
    - *Constraint: Once per month*
 2. **Beaux Hargrove**
-   - *Not available: Jan 25, Mar 1, Mar 29, Apr 12*
+   - *Not available: Jan 25, Feb 8, Mar 1, Mar 29, Apr 12*
 3. **Arnold Marquez**
    - *Constraint: Once per month*
    - *Not available: Jan 25, Mar 8, Apr 19*
