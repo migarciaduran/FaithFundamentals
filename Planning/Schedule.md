@@ -34,7 +34,7 @@
 |------|----------|---------|-------|
 | Jan 11 | Miguel Garcia | Intro | Class Introduction |
 | Jan 18 | Ronaldo Lopez Galeano | L1 | General & Special Revelation |
-| Jan 25 | Miguel Garcia | L1 | Canon and the Apocrypha |
+| Jan 25 | ~~Miguel Garcia~~ | L1 | ~~Canon and the Apocrypha~~ *(Cancelled – Winter Weather)* |
 
 ---
 
