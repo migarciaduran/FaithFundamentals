@@ -28,7 +28,7 @@ The following options address how to recover from the Jan 25 cancellation (winte
 |--------|-------------|----------|------|------|
 | **1. Video Sermon** | Show video for L1 Part 2 on Feb 1 | May 17 | High-quality content; Arnold gets full time for L2; Ends on schedule | Less personal/interactive |
 | **2. Arnold Covers Both** | Arnold teaches L1 Part 2 + L2 on Feb 1 | May 17 | No schedule shift; Ends on schedule; Single teacher | Heavy load for Arnold; L1 Part 2 condensed |
-| **3. Shift Schedule** | Move all lessons +1 week | May 31 | Full treatment of every topic; No rushed sessions | Class extends to May 31; Topic reassignments; Beaux can't teach Trinity |
+| **3. Shift Schedule** | Move all lessons +1 week | May 31 | Full treatment of every topic; No rushed sessions | Class extends to May 31; Topic reassignments; Beaux can't teach Trinity; Miguel has finals Feb 4 (teaching Feb 1 is difficult) |
 
 ---
 
@@ -116,3 +116,4 @@ The following options address how to recover from the Jan 25 cancellation (winte
 - Class extends to May 31
 - Teachers must prepare different topics than originally planned
 - Beaux cannot teach The Trinity (Mar 1 is unavailable for him)
+- Miguel has finals on Feb 4 — teaching on Feb 1 (4 days before) is difficult
