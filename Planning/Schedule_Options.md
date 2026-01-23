@@ -22,15 +22,55 @@
 
 ## Summary
 
-| Option | Description | End Date | Key Tradeoff |
-|--------|-------------|----------|--------------|
-| **1. Shift Schedule** | Move all lessons +1 week | May 31 | Full content, but topic reassignments; Beaux can't teach Trinity |
-| **2. Arnold Covers Both** | Arnold teaches L1 Part 2 + L2 on Feb 1 | May 17 | Heavy load for Arnold, condensed L1 Part 2 |
-| **3. Video Sermon** | Show video for L1 Part 2 on Feb 1 | May 17 | Less interactive, but schedule unchanged |
+| Option | Description | End Date | Pros | Cons |
+|--------|-------------|----------|------|------|
+| **1. Video Sermon** | Show video for L1 Part 2 on Feb 1 | May 17 | High-quality content; Arnold gets full time for L2; Ends on schedule | Less personal/interactive |
+| **2. Arnold Covers Both** | Arnold teaches L1 Part 2 + L2 on Feb 1 | May 17 | No schedule shift; Ends on schedule; Single teacher | Heavy load for Arnold; L1 Part 2 condensed |
+| **3. Shift Schedule** | Move all lessons +1 week | May 31 | Full treatment of every topic; No rushed sessions | Class extends to May 31; Topic reassignments; Beaux can't teach Trinity (Author of Book on the Trinity) |
 
 ---
 
-## Option 1: Shift Everything (+1 Week)
+## Option 1: Video Sermon on Feb 1
+
+**End Date:** May 17, 2026 (no change)
+
+- **Feb 1:** Show a trusted video sermon on Canon/Apocrypha (~10-15 min), then Arnold teaches L2 as planned
+- Rest of schedule stays unchanged
+
+### Video Resources
+- **Inspiration:** https://www.youtube.com/watch?v=_Ziixw5tZJM&list=PLmIEGG1rhyttjlyvjml7oZJl5a28m0Fju&index=5
+- **Canon:** https://www.youtube.com/watch?v=ZNHcGAWZYlI&list=PLmIEGG1rhyttjlyvjml7oZJl5a28m0Fju&index=7
+
+### Pros
+- High-quality content on the topic
+- Arnold gets full time for L2
+- Ends May 17 as planned
+
+### Cons
+- Less personal/interactive than live teaching
+- Need to find and vet an appropriate video
+
+---
+
+## Option 2: Arnold Covers Both on Feb 1
+
+**End Date:** May 17, 2026 (no change)
+
+- **Feb 1:** Arnold teaches L1 Part 2 briefly (~15-20 min), then continues with L2 (~35 min)
+- Rest of schedule stays unchanged
+
+### Pros
+- No schedule shift
+- Ends May 17 as originally planned
+- Single teacher for the session
+
+### Cons
+- Heavy load for Arnold (two topics in one session)
+- L1 Part 2 (Canon and the Apocrypha) gets reduced depth
+
+---
+
+## Option 3: Shift Everything (+1 Week)
 
 **End Date:** May 31, 2026
 
@@ -74,53 +114,3 @@
 - Class extends to May 31
 - Teachers must prepare different topics than originally planned
 - Beaux cannot teach The Trinity (Mar 1 is unavailable for him)
-
----
-
-## Option 2: Arnold Covers Both on Feb 1
-
-**End Date:** May 17, 2026 (no change)
-
-- **Feb 1:** Arnold teaches L1 Part 2 briefly (~15-20 min), then continues with L2 (~35 min)
-- Rest of schedule stays unchanged
-
-### Pros
-- No schedule shift
-- Ends May 17 as originally planned
-- Single teacher for the session
-
-### Cons
-- Heavy load for Arnold (two topics in one session)
-- L1 Part 2 (Canon and the Apocrypha) gets reduced depth
-
----
-
-## Option 3: Video Sermon on Feb 1
-
-**End Date:** May 17, 2026 (no change)
-
-- **Feb 1:** Show a trusted video sermon on Canon/Apocrypha (~10-15 min), then Arnold teaches L2 as planned
-- Rest of schedule stays unchanged
-
-### Video Resources
-- **Inspiration:** https://www.youtube.com/watch?v=_Ziixw5tZJM&list=PLmIEGG1rhyttjlyvjml7oZJl5a28m0Fju&index=5
-- **Canon:** https://www.youtube.com/watch?v=ZNHcGAWZYlI&list=PLmIEGG1rhyttjlyvjml7oZJl5a28m0Fju&index=7
-
-### Pros
-- High-quality content on the topic
-- Arnold gets full time for L2
-- Ends May 17 as planned
-
-### Cons
-- Less personal/interactive than live teaching
-- Need to find and vet an appropriate video
-
----
-
-## Summary
-
-| Option | End Date | Key Tradeoff |
-|--------|----------|--------------|
-| **1. Shift Schedule** | May 31 | Full content, topic reassignments |
-| **2. Arnold Covers Both** | May 17 | Heavy load for Arnold |
-| **3. Video Sermon** | May 17 | External video for L1 Part 2 |
