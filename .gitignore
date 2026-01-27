@@ -10,3 +10,6 @@ __pycache__/
 
 # Temporary files
 .temp_docx/
+
+# Personal notes to ignore
+PersonalNotes/FergusonBaptism.md
