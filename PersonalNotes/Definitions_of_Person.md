@@ -1,14 +1,6 @@
 # Definitions of “Person” in Theological Usage
 
 ---
-## A Working Definition for Fundamentals of the Faith
-
-- **A “person” is a “who,” not a “what.”** The Father, the Son, and the Holy Spirit are each someone—not something. Each one can say “I.”
-- **The three persons share everything.** There is one God with one mind, one will, and one power. The persons do not each have their own separate mind or will.
-- **“Nature” is what God is; “person” is who he is.** The nature includes everything that makes God, God. Each person fully has that same nature.
-- **What makes them different is how they relate to each other.** The Father is the Father because he eternally begets the Son. The Son is the Son because he is eternally begotten. The Spirit proceeds from the Father and the Son.
-
----
 ## 1. Boethius: The Classical Definition
 
 The best-known definition of person that captures the basic parts in a unified description is the one from Boethius: **”an individual substance of a rational nature.”** By “individual substance,” Boethius referred not to a concrete object but to the *I* or active subject subsisting in a nature: the “subsisting singular that exists through itself and in itself, according to an irreducible mode, as a complete whole, a ‘hypostasis’ that exercises the act of existing on its own account.”[^1]
