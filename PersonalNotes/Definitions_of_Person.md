@@ -1,5 +1,22 @@
 # Definitions of “Person” in Theological Usage
 
+Beaux,
+
+Gracias por mandar las notas—¡y buen trabajo de nuevo con la presentación!
+
+Se me ocurrió una forma de organizar la slide 7 que creo que puede ayudar a que la audiencia no confunda "tres personas" con "tres mentes o tres voluntades." Te comparto:
+
+- Una persona es un "quién"—el que piensa, quiere, juzga, desea y actúa.
+- Estas capacidades—intelecto, voluntad, emociones, juicio—pertenecen a la **naturaleza**, no a cada persona por separado.
+- En Dios hay **una sola** naturaleza compartida por los tres—por lo tanto, una sola mente, una sola voluntad y un solo conjunto de emociones.
+- Agustín confirma: esta definición se aplica igualmente al Padre, al Hijo y al Espíritu—ninguno es más o menos persona que los otros (*De Trinitate* 7.7).
+
+**Distinciones personales mostradas:** Is 48:16; Jn 14:26; 15:26; Hch 13:2; Jn 16:13.
+
+Obviamente puedes editarlo para más claridad aún.
+¡Bendiciones!
+
+
 ---
 ## 1. Boethius: The Classical Definition
 
