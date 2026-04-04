@@ -57,7 +57,7 @@
 | Mar 8 | Miguel Garcia | L5 | The Work of Christ |
 | Mar 15 | Beaux Hargrove | L6 | Salvation |
 | Mar 22 | Arnold Marquez | L7 | The Person and Ministry of the Holy Spirit |
-| Mar 29 | Miguel Garcia | L8 | Prayer and the Believer |
+| Mar 29 | ~~Miguel Garcia~~ Arnold Marquez | L8 | Prayer and the Believer |
 
 ---
 
@@ -66,8 +66,8 @@
 | Date | Preacher | Chapter | Theme |
 |------|----------|---------|-------|
 | Apr 5 | **NO CLASS** | — | Easter Sunday |
-| Apr 12 | Ronaldo Lopez Galeano | L9 | The Church: Fellowship and Worship |
-| Apr 19 | Miguel Garcia | L10 | Spiritual Gifts |
+| Apr 12 | ~~Ronaldo Lopez Galeano~~ Miguel Garcia | L9 | The Church: Fellowship and Worship |
+| Apr 19 | ~~Miguel Garcia~~ Ronaldo Lopez Galeano | L10 | Spiritual Gifts |
 | Apr 26 | **NO CLASS** | — | Combined Sunday School |
 
 ---
