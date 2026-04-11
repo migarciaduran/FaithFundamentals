@@ -67,7 +67,7 @@
 |------|----------|---------|-------|
 | Apr 5 | **NO CLASS** | — | Easter Sunday |
 | Apr 12 | ~~Ronaldo Lopez Galeano~~ Miguel Garcia | L9 | The Church: Fellowship and Worship |
-| Apr 19 | ~~Miguel Garcia~~ Ronaldo Lopez Galeano | L10 | Spiritual Gifts |
+| Apr 19 | ~~Miguel Garcia~~ ~~Ronaldo Lopez Galeano~~ Arnold Marquez | L10 | Spiritual Gifts |
 | Apr 26 | **NO CLASS** | — | Combined Sunday School |
 
 ---
@@ -76,7 +76,7 @@
 
 | Date | Preacher | Chapter | Theme |
 |------|----------|---------|-------|
-| May 3 | Arnold Marquez | L11 | Evangelism and the Believer |
+| May 3 | ~~Arnold Marquez~~ Ronaldo Lopez Galeano | L11 | Evangelism and the Believer |
 | May 10 | Beaux Hargrove | L12 | Obedience |
 | May 17 | Miguel Garcia | L13 | God's Will and Guidance (**FINAL CLASS**) |
 | May 24 | **NO CLASS** | — | Memorial Day Weekend |
